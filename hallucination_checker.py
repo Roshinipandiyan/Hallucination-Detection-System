@@ -39,7 +39,6 @@ if uploaded_file is not None:
             else:
                 st.error("Error processing the CSV file.")
         
-        # Display the dropdown to select a conversation_id if CSV is processed
         if st.session_state.csv_processed:
             selected_conversation_id = st.selectbox("Select a Conversation ID",  df['conversation_id'].unique())
 
