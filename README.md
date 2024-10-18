@@ -59,35 +59,44 @@ Ready to dive in? Follow these steps:
 
 
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Copy code
-cd hallucination-detection
-Install the required libraries:
+   ```bash
+   cd hallucination-detection
+   Install the required libraries:
 
-bash
-Copy code
-pip install streamlit pandas requests flask ollama emoji googletrans torch sentence-transformers
-Run the application:
 
-bash
-Copy code
-streamlit run app.py
-🚀 Usage
-Upload your CSV file containing conversations and summaries.
-Click to preprocess and analyze.
-Get Results: The app will show whether hallucinations were detected and give you a confidence score!
-💼 Team Contributions
-Here’s the amazing team that made this project happen:
+   pip install streamlit pandas requests flask ollama emoji googletrans torch sentence-transformers
+   
+3. Run the application:
 
-Arulpathi A: System Design, Data Preprocessing, Part-Phrase Model Exploration, Model Design & Development 🧠
-Javagar M: System Design, Data Preprocessing, Part-Phrase Model Exploration, Model Design & Development 🧩
-Roshini P: System Design, Frontend Design, Integration 🎨
-Shiva Aravindha Samy A: System Design, LLaMA Model Exploration, Prompt Engineering & Testing 🚀
-Vijayalakshmi P: System Design, LLaMA Model Exploration, Prompt Engineering & Testing, Integration 🔄
-🌈 Future Plans
-Expand Language Support: Improve translations for more languages.
-Enhanced Visualization: Make hallucination detection more intuitive with detailed charts and visual breakdowns.
-Refined Models: Continuously improve the model accuracy and hallucination detection.
-Thanks for checking out our project! Give it a spin and let us know if your summaries are hallucination-free! ✨
+   ```bash
+      Copy code
+      streamlit run app.py
+
+## 🚀 Usage
+ - Upload your CSV file containing conversations and summaries.
+ - Click to preprocess and analyze.
+
+# Get Results: The app will show whether hallucinations were detected and give you a confidence score!
+
+## 💼 Team Contributions
+
+# Here’s the amazing team that made this project happen:
+
+**Arulpathi A:** 
+System Design, Data Preprocessing, Part-Phrase Model Exploration, Model Design & Development 🧠
+**Javagar M:** 
+System Design, Data Preprocessing, Part-Phrase Model Exploration, Model Design & Development 🧩
+**Roshini P:** 
+System Design, Frontend Design, Integration 🎨
+**Shiva Aravindha Samy A:** 
+System Design, LLaMA Model Exploration, Prompt Engineering & Testing 🚀
+**Vijayalakshmi P:** System Design, LLaMA Model Exploration, Prompt Engineering & Testing, Integration 🔄
+
+## 🌈 Future Plans
+ - Expand Language Support: Improve translations for more languages.
+ - Enhanced Visualization: Make hallucination detection more intuitive with detailed charts and visual breakdowns.
+ - Refined Models: Continuously improve the model accuracy and hallucination detection.
+   
+## Thanks for checking out our project! Give it a spin and let us know if your summaries are hallucination-free! ✨
