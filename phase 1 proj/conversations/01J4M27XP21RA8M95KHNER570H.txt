@@ -1,0 +1,924 @@
+Speaker: SENDER_AGENT
+Text: Thanks for calling a T and t this Is Alicia Who do I have the pleasure of speaking with today?
+Summary A: Customer was unable to view mobile statements online and was confused about account login details. Agent explained the billing details, suggested creating a separate login for the mobile account, and provided the account number to link it online. Customer received clarity on billing discrepancies, was able to create a separate login for the mobile account, and successfully linked it online for future access. Customer expressed gratitude for the assistance provided by the agent.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi, I'm making see Chris.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, Miss Megan And how are you doing today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: doing pretty good. Thanks for asking, and let me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm fine. How about yourself.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just verify the account with you, what's that passcode?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just give me just a second. Let me see if it's gonna verify the matic Lee
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I am not sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All well, um, it's just loading loading Yeah, OK. So let me send you a {voice.cvv.digitsTranscribed:***} time, pin to verify OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and that's to the {voice.cvv.digitsTranscribed:****, ***, ***** *****} or to a my email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, did you receive a text message.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Or
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get you send to my husband's by chance.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, {voice.cvv.digitsTranscribed:****, ***, ***** *****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, that's mine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hold on {voice.cvv.digitsTranscribed:***} second?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, here it comes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Here we go?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: don't know what happened the first time it ever it out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:*** *** *}z {voice.cvv.digitsTranscribed:*** **** *****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you so much for that. How can I be of assistance today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I was just looking through Um, my bills. You know, pay my credit card and time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just going through my monthly stuff, right? I have noticed that, so I can get like a login for my internet and I can see like that bill. But for my mobile I'm not able to see my my statements for my mobile and then also I looked at my Um statement from my capital {voice.creditcard.digitsTranscribed:***}, and it looks like in April for mobile It was {voice.creditcard.digitsTranscribed:*** ***** ***} may was {voice.creditcard.digitsTranscribed:*** ****** ***} and then June was {voice.creditcard.digitsTranscribed:*** ****** ***}, so I was gonna see if you could let me know what those being it says were
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I can definitely do that for you, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: see. So, have you ever been able to pull up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have It's been a while, so I I've had my mobile?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your bills for your mobile?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, Gotcha Gotcha Gotcha OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, and we're gonna compare the bills and see what's going on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For a while and then my under my name and then My husband got the Internet under his name and I thought we merged account, but now it's also blurry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, it's just loading up for me now, besides this Are you having a good day today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I am Thank you for asking.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just good.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You guys busy today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, a little bit, but it's not too bad makes the days go by so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so we have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Definitely
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The last three bills pulled up this one was due June, July and August, or did you want to do, may
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so this is June.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We're gonna do?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: T.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, that's made That's gonna be June and then we'll do. April for this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, so June was one eighty two you have the may bill That was two twenty two and then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh the ones that I'm looking at our April, May, and June the ones that like really kind of look wonky.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The April Bill is loading
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, the April Bill was one forty six.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, uh, let's see file.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so let me see what happened.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sixty five sixty five Okay, you have a nurses and physicians discount.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: There's insurance installment plan.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Seventy three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Twenty three O six That's my new one?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh that one was ninety one, so let's look at OK so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: April, Bill. It was one forty six fifty five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It increased on the may bill, because it looks like the seven 0z Two, four, they upgraded and got a new device, so they had a thirty five dollar upgrade fee as well partial.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And the new.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, yeah?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: As well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Charges
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The May the june's bill, it is one eighty two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And that is so everything on the forty six eighty eight is correct, uh, let's see OK, so the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Gotcha OK, that makes?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I Gotcha that makes sense.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I mean the June Bill is gonna be one eighty two which is what you've been seeing. Since this is what your original amount is this includes the new device He got along with the insurance, and the next up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, give.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just to verify we are only paying for two lines, is that right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, ma'am, you have only two lines on the Yes, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Unlimited extra plans, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That sounds about right, the unlimited extra plan.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, ma'am. That sounds right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, let's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It looks like you're getting the best value got your promotions, and everything, um There wasn't anybody else that we needed to add to the account under promotion today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nope, that it and I then I was just gonna see how I could, um log in to see my wireless bill moving forward.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, Give me just a second. Here, let me double check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, my a T and t account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, so let me see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And what email do you use to log in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I use the m. D. Read 0z 0z at Yahoo?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I logged in that I used my my email. And then it said hello, Nathan which is my husband, um, so I have no idea what we're doing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, which email, uh, what's your email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: In as a Megan D, as in dog, r, e i, d 0z 0z at Yahoo dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, you say you used another email, though.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know that was the the email that I used, but it came up as my husband.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So who's email, uh, Does anybody have a G mail email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, the see Chris twenty four That's my husband's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'd love to tell you I'm not a hundred percent sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, let me see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's gotten complicated because some accounts that we share We can't have two like logins on the same account, so sometimes I'll use his email as a login because we both have the password? Do you know what I mean?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So you when you go to log in. It does give you the option to create one, um, you can create your
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And it'll it'll give you like a list of questions to answer, uh, and then you can create own login I D with your own password that way. You have yours? And he has his Um, but Um, when you log in with the Yahoo email it takes you to the internet account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I tried to do that, maybe it needed my Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, you may, so you may need to login go under the profile and do link accounts put in the information for the wireless account and link it together because it doesn't look like it's linked.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: account number or something which I didn't have just now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Maybe that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Gotcha Gotcha so you don't have your Uh wireless account number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not on me, I'm at work, is that you could give me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can give it to you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, great.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, I'm ready.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me know when you're ready.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Five
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One seven seven.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Could I read this back to you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Seven two two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I've got five, seven, eight, Two, four, five, one seven seven seven two two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That is absolutely correct. Yes, ma'am, and so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Perfect. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The Yahoo Um, when you log in with the Yahoo. Then you'll go to the profile link accounts, you'll put in this information that way you can link it, and then when you log in with the Yahoo. It'll show both accounts?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you so much.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Absolutely welcome any other questions and It kind of Concerns for you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We definitely think I appreciate you as well. You have a great day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No You've been wonderful. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You have a great day here. Thanks.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks.
+Summary A: 
+Response: 
+Answer: 
+

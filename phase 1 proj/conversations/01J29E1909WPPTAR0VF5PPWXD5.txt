@@ -1,0 +1,1218 @@
+Speaker: SENDER_AGENT
+Text: Thank you for contacting the PSG Sales Department. This is Jose (****) speaking. May I ask who I'm speaking with and how I can assist you today?
+Summary A: Customer contacted PSG sales department to purchase 2 iPhone 15 Pro Max with new numbers and a specific plan. Agent assisted the customer in selecting the Unlimited Stark plan for both phones, enrolled them in autopay, and provided details about additional features available. The customer declined insurance and device upgrade options. The customer agreed to the selected plan and payment method, but encountered issues with card payment authorization. After multiple attempts, the customer provided an alternative card for successful payment processing. The order was confirmed for delivery to the customer's preferred billing address in Arizona. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I will like to join PSG today and make a purchase
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice, may I know your name?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just checking if you are with me
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How are you doing ?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Michael
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you, Michael,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What is the main reason you are looking to switch to PSG?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hello
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Better experience
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for giving PSG a chance to earn your business!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do you want a new number or are you transferring from your current provider?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I will like to purchase 2 iphone 15 pro max both with new numbers and in <systemically redacted> gig
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I want the color looking close to white
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice, to better assist you, can you please provide me a wireless number, so I can address your request over the phone?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did a little research before reaching out so you know what I want
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you help me with the purchase on chat
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes for sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: so you don't want to port any number right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: only 2 new lines
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok please share with me your address to calculate the sale t
+ ax of today
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> street (****) Arizona <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: $194.39
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this is what you will pay today of taxes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to watch TV shows, Youtube videos, or stream movies on your new phone in HD?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: NO
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: what are some of your favorite apps?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just use the phone for call and texts sometimes games but dont worry I wouldnt add any extras
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this is to find the best plan for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: in this case it would be better if you acquire the unlimited stark
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes the stark plan would be great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes the stark plan would be great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this plan includes 
+ 
+ Unlimited talk, text & data
+ 
+ PSG may temporarily slow data speeds if the network is busy.
+ 
+ PSG ActiveappSM security
+ Scammers want your data. Help secure it.
+ Free app with Spam Call Blocking and more.
+ 
+ 5GB hotspot data per line per month
+ 
+ After 5GB, speeds slowed to a maximum of 128Kbps.
+ 
+ Standard streaming available
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and is {voice.creditcard.digitsTranscribed:*** $**.**}/mo but if you have a debit card to enroll as autopay method it will be for only ${voice.creditcard.digitsTranscribed:**.**}/mo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: each {voice.creditcard.digitsTranscribed:***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I will go with autopay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: before taxes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok so you will pay $121.98/mo of your two unlimited stark plans before taxes and for your 2 phones you will pay $66.68/mo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: so it will be $188.66/mo before taxes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The FCC requires PSG to offer you Broadband Facts about PSG's plans to help you decide on a plan. Let me know if you would like me to email that to you for any of the plans discussed today.Would you like me to email you the Broadband Facts for any of the plans considered today? These provide a detailed overview required by the FCC for all wireless and broadband plans.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How often do you upgrade your device? I am asking because I want you to be covered with our best deals. In this case, you can take advantage of the PSG coming Up feature, which for as low as $6/month, you can be upgrade eligible at 50% of your installments, meaning at installment 18 of 36. Let's add this to your order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: having this not sure i will have an upgrade soon
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: when you reach your installment number 18
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you will be able to upgrade your phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: As you are getting one of our latest devices in the market, let’s protect your device with our best insurance plan: the PSG Safety Net. It will give you the benefit to protect your device against loss, theft, and damage. But that's not all; you will also get unlimited battery replacement and unlimited photo theft and damage protection. Remember, it’s better to have it and not need it than need it and not have it. It is only $17 per month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: nice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No protection
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok so plus the {voice.creditcard.digitsTranscribed:**} dollars of next up per month your bill will be ${voice.creditcard.digitsTranscribed:***.**}/mo before taxes with debit card 
+ autopay enrolled
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks also {voice.creditcard.digitsTranscribed:****} you receive your phones you will h ave to pay an activation fee of ${voice.creditcard.digitsTranscribed:** ***} each {voice.creditcard.digitsTranscribed:***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: please share with me a number to receive a link
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and you will be required to enter your information
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you send me via email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: yes for sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: share with me your email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {customer_delayed.email:XXXX@XXXX.XXX}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sent
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: check your email and open the URL
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: now you will se some extra ubfirnation
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: about your ssn
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I have a contact number so that we may reach you by phone or text with information about your PSG services? (If customer declines to provide the number: This is how we contact you about install and repair appointments, billing and account information, and customer satisfaction inquiries. What number can we use?).
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks one moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ) 
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to confirm is this your billing address?  (****) street (****)
+(****) , AZ,1234
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have a different billing address
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can you share it with me
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> (*******) TX <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks one moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You can choose to stop receiving "screen" credit offers from us and other third-party companies by calling ###-###_#### See the screen & out  NOTICE in the Customer Service Summary (CSS) for more information about screen offers.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok, thank you Michael I can see in the system that you will have to pay a down payment of $480 today for one of your iPhones
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: how do you want to proced
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A down payment pf <systemically redacted> for 1 device or both
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just for one
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: proceed
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: l need to use your existing credit information on file with other PSG companies, is that ok?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok both are white titanium right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: $674.70 this is the totall ammount you will pay topday ok?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this is sales tax plus down payment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: for the line #1 the number will be (123) {voice.truncateDigits89:***-**** *} the line #2 the number will be (960) ###-####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You will be enrolled in paperless billing.
+ PSG will use the email address you provide to send you:
+ (1) A confirmation email of your paperless billing request.
+ (2) A monthly notification that your bill, bill inserts, and other notices are available for viewing on PSG's online account management site.
+ It takes 2-3 days to process your paperless billing enrollment. You will need to enroll in myPSG Online Account Management in order to view/print your full bill, make an online payment, or de-enroll from paperless billing if you choose to.
+ Note: Bill Notifications will be sent to the customer's email address:
+ (****) @email.COM
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: AutoPay Authorization Terms and Conditions
+ 
+ 
+ 
+ You have agreed to automatic payments, which we call AutoPay. 
+ 
+ Your selected payment method will be charged in the amount of each monthly bill on the draft date shown on your bill.
+ 
+ We will keep this payment method on file for AutoPay and may receive updates for the payment method from your financial institution.
+ 
+ If you later wish to cancel Autopay, or change your payment method, call the Customer Care number on your bill or visit psg.com.
+ 
+ Changes are not immediate and your payment may process before your request is implemented.
+ 
+ Cancelling your account does not cancel Autopay.
+ 
+ Continue to make payments until your bill shows Autopay is active.
+ 
+ 
+ 
+ Please answer "Yes" if you understand and accept these terms
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: YES
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you have debit card or checking account?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: to enroll as autopay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have my debit card now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok nice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will send you the link again so I WILL USE YOUR EMAIL
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sent
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I havent received it yet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I sent it again
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sometimes we have issues with this link so tell me if you still don't receive it thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I still havent got it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I sent it again
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you should see it now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No please send it to my second number <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can complete it there
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes I sent it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: to your number]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now your debit card info
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: got it now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks one moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: which address do you prffer for the shipping?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: prefer
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: the first the arizona
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok one moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ###-###-#### This number will be used to notify the customer if the estimated ship/delivery dates on their equipment or accessories change.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: RIGHT?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: or do you prefer an
+ other number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes order numer
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When will my order arrive
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: within 1-2 business day
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One-Time Payment Authorization Terms and Conditions
+ 
+ We will charge the amount you authorized to the payment method you provided or selected today.
+ 
+ If you later wish to cancel your bill payment, call the Customer Care number on Your bill.
+ 
+ Keep in mind that cancellation is not immediate, and your payment may process before it is cancelled.
+ 
+ 
+ 
+ Please answer "Yes" if you understand and accept these terms.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: now you will have to pay the $674.40
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: so I will sned you the form again?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can I use the email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have already submitted my card information
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sent
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: yes but this is for the payment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: please check your email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: it appears that your credit card has been declined
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you have another card to complete the order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this can be a credit card
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok so I will send you the form again
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will use your phone number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm struggling with the form
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: use the one ending in <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sent
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: MM
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: it appears that your card was rejected again
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you another {voice.creditcard.digitsTranscribed:***}?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok the last card ended in {voice.creditcard.digitsTranscribed:****} right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok I will send you the form again
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I sent it to your email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok before you enter your card
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I have something to tell you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: for security purposes this is your last chance to pay the quote otherwise you will have to go to a store
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+

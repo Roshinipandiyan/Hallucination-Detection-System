@@ -1,0 +1,2094 @@
+Speaker: SENDER_AGENT
+Text: This is dean. Can I have your name, please?
+Summary A: Customer is seeking confirmation about the security of their arrangement and passcode. Agent reassured the customer that as long as the arrangement is set, the account should be secure. The agent also helped the customer with their passcode. The customer received confirmation about the security of their account and passcode, and the issue was successfully resolved.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: name is marisa last name is Diane
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hello, there is Rita in May I have your phone number so I can access your account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Two, four, {voice.truncateDigits89:* * * * * * * *}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to make sure it's due {voice.truncateDigits89:* * * * * * * * *}, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, and May I have your four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 0z one, two, one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm calling about my end. I just called and spoke with someone, and I don't know if it was clear, but I was currently on the a C, p program She let me know that they not finding a t t anymore because they don't have any funds, but when I was trying to say is that I wasn't aware that it ended and that, OK? I have a bill now, uh, like sixty I believe it's like close to sixty five dollars something about six sixty five seventy dollars OK, and, uh, she said that is due on August sixteenth I didn't even know I had a bill. So that's three months of a bill that I don't even know what I had three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, so upon checking at area actually calling about your internet bill, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: not really sure. I mean, I get the a t t program ended, but I wasn't aware, and now I'm being billed three months, and it's due on the sixteenth I I can't afford that right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry, see where I can even pull up my bill my stuff? I have a cellular phone service with a T and t.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you so much for sharing that Jerry. Let me just go ahead and Pull up your bill here, so I can explain it to you hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm currently working on it, uh, please bear with me, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, um, the refill. Thank you so much for patiently waiting on the line, so I actually review your Um account as well as your bill here. And it shows that Yes, you're actually Um enrolled our access program and for our offord the wall connectivity program before, however, yes, uh, it is through that the Affordable connectivity program no longer, uh, offer this, uh, promotion Since this, uh, the program is already out of once now as We're checking it here. It shows that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your monthly, uh, you're actually given a fifteen dollars off for six months, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For your internet service, so it shows that your monthly charge, or your monthly bill moving forward will be fifteen dollars. So actually the uh, the amount is that we have here on your file is it month's bill. That is a total of sixty four dollars and ninety eight cents. So, um, a speech need here, uh, we can actually set up a payment arrangement for this, um, it shows that your past due balance is thirty, nine dollars and ninety nine cents plus the current bill, which is twenty four dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I should be able to in there and pull it up if I have a bill. And it's and it's paperless bill. It should have come up?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But moving forward. After
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, you will be paying fifteen dollars for the whole service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: fifteen dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's why I also have wireless to so you guys don't have anything that I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Probably really doesn't matter. I'm just gonna speak to fifteen dollars. And I I don't even know if I'm gonna go with the Internet Internet I was wondering what was it something going on with the Internet. That's another thing. It's It's and bundle with with internet speed that do I have?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, let's reach I need here. The current speed that you have right now is Internet eighteen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, with Internet error.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because my internet is I called before I was they I wish they could have told me, then when I called about my internet bill that I had a bill. So what if I owe how much this is crazy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: O Internet air is actually a different service, uh, you actually have the uverse Internet for Internet error, uh, we actually have a specific department for that it's also a different service a different type of internet service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: checking it here, uh, verify it shows that the full amount due is sixty four dollars and ninety eight cents but we can go ahead and all set up a payment arrangement for this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Try that hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, actually, uh, verified shows here that the Thirty nine dollars and ninety nine This is actually two months, Bill. So, um, I advised that we need to set all the only I mean the fast. Due amount for thirty nine dollars and ninety nine cents to make sure that the service will not be interrupted.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And when is that due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh hold I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so it shows here that the Thirty nine dollars and ninety nine cents was actually due last July seventeen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And the current bill, um, upon checking it shows. It actually due on August sixteenth
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So It's already past.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The past due amount is need to be settled to make sure that the service will not be interrupted. And then we can go ahead and set up a payment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On the remaining balance for twenty four dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, so after The ATT ended How much would like getting charged to my account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I I I understand that before that after the a C, p program ended I much. Am I getting charged. A month after ended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Colors if it's already up to fifty five dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Already and I have have thirty something dollar thirty thirty something dollar bill? That's past due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes. After this bill, you will be billed for fifteen dollars monthly that is before taxes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, um, before before you actually have no bill for the service, uh, however, the Internet, uh, I mean the Affordable connectivity.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ended so it shows that you're being billed for fifteen dollars. Only since you were given fifteen dollars off for six months. So upon checking here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Was that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: promo Yeah, upon checking it here, verified shows that the promotion for the fifteen dollars provided will be ended on November twenty fifth twenty twenty four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um it actually started last may twenty sixth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Effective Yeah, if activity date of the promotion is may twenty sixth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Start ma'am.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry you're cutting in and out of.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, the a C, p program, uh, the promotion. Hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so the last, um billing cycle you receive the promotion was March twenty sixth to April twenty five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So this is, um, hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is actually your
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This bill was issued last March twenty fifth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and when did the a C, p program in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is the last time that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: receive the I mean, I mean you receive the a C, p discount.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The mark.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So after that your bill is hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, I'm sorry, uh, my my bad. I'm sorry, uh, the Affordable connectivity discount actually ends on April Sorry, it shows here that on the billing cycle April twenty sixth to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I mean to may twenty fifth you still have uh, the promotion.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So it's only two months that the promotion, uh, the uh, the the promotion was removed on the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For April, May, June and July. Now we're in August, that's five months. So what? I'm trying to say. After the a t t program ended What did my bill go to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So this this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, how much still gonna after the program and id is what I'm asking you, because I'm trying to figure out how did the bill get to where Is that too, if if I'm only supposed to pay fifteen dollars. After the program ended how what I'm asking you. How is the total where it's at it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So Hold on, um me ju June, July.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I need to talk to you know what I'm saying? How much was it after the a so after April, May, when June Bill came in? How much was a T and t charging me for Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Me. J.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: May, June, July and August. We're now in August.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, hold?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so on, uh, may twenty fifth, uh, the this bill was issued may twenty fifth. So this is, uh, the billing cycle from me twenty sixth of June twenty fifth. So you're already billed for the fifteen dollars. Since the access program was removed. So supposed to be this is the time that you need to pay the fifteen dollars. However, since.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We haven't received a payment for this, uh, the bill the next bill generated it already includes the late payment fee for nine dollars and ninety nine cents plus the regular, uh, your rate for fifteen dollars. That is the reason that you have a past due balance of thirty nine dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Four months.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and the whole bill together is sixty four ninety eight, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me check let me work on that hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is the latest I can pay the whole When is the latest I can just pay the whole amount, because I don't have that right now. So When is the latest with what the latest payment agreement that you could set up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So just to make sure you wanted to set up payment arrangement a one time, payment arrangement for sixty four dollars and ninety eight cents? Is there a {voice.profanity:****} correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hold on. Let me check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What's the latest that you can schedule that out?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Very five, please bear with me. I'm trying to check the availability. Hold on, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, uh, is there you. Thank you so much for patiently waiting on the line, so I actually dry, uh, to check, um, if we could Uh process the payment arrangement on the account. However, it shows here in my end that the account is currently not Uh eligible for payment arrangement since this is already a two months bill, and we need to settle at least the past due amount to make sure that the service will not be interrupted.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, uh, we could actually make a payment today here on my end, or you can actually pay your bill on your online app, or on the A t t website.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I I have to I have to OK, I can go to the a T and t website That's not the problem I know how to get to that the problem is not having The funding to pay it because I'm thinking that ATT Bill was going on. I mean, do you? Is it. Do you follow what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, I understand. I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If right, so if I didn't know that I didn't know I wasn't aware that I had a bill is what I'm trying to see I was know where that I had a bill. So, when I had got a call stating that I got a bill. I'm thinking OK so Something must be going on with. The ATT So what? What? That's why I'm seeing what's the earliest ask her supervisor. Can I pay it. Give me to the twentieth the twenty eighth and pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I didn't I'm not even know I have a bill. That's past two months past due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can't see if so, see if the supervisor can approve it and I can pay it, um, you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It one Bill is already due on the sixteenth That's next That's next week, so I him What's the latest Can I pay it around like the twenty eighth, or the last Friday in a month.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I understand that Um, hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I would, I would really love to assist you with this extending your payment here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now you try to give me time to pay the bill I didn't even know that it was past due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: However, um, it really shows here that the account is not eligible for any arrangement since this is already up to month's bill as a resource.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I thought you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That I was not I I get that I I'm following what you're saying, I have an Inter standing I understand everything you're saying, a person can't pay a bill. If they not aware of it. I just became aware of it, so I need to speak to a supervisor. If possible, where we can get some type of arrangements made to give me time to pay the bill. It's two months behind ain't even know that I had a bill is what I'm saying to you, so can you get somebody else that can override that I I don't have I don't have it right now it, so don't have a payment. I didn't even know I had a bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I understand, um fees bear with me, I'll go ahead and get the supervisor. For you OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't have the payment money.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you explain to them what's going on, because I hate to have to tell my story over again. You're the second person I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: problem, okay, please bear with me, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I need to get with another Internet coming crazy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hello, thank you for patiently waiting. This is Ken from a T and t. One of the a T and t supervisors here. I've got it right. I'm speaking with pho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: is actually relate to me by uh, my our representative that you're actually calling all about the billing and same hearing this, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm trying to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I was trying to straighten it out. It didn't realize I had a bill, so now, I'm two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm What I'm saying is I get that it's the the do the account is past due. But you know, without any money, and not knowing that the bill was due. I mean, I also have a wireless account with a T and t, so if I knew that I had no That was two months behind, I would have paid that bill as well, but ever Right now, I'm unable to pay it, so I'm asking until I can make further arrangements on what to do, even if I'm gonna keep the Internet, here it is, I got a Internet bill don't even know I have it, and I'm in lieu of getting it turned off because the a C, p.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I hear you, of course, I'm also a consumer as well, actually before I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You were referred over to me my representative I had explained you know the situation, we've actually checked the account already and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Apparently, with the current situation? We really no.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We don't have any option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ended and I get things happen, so I'm not even gonna hop on that, but I need to know what's the latest Can you schedule it out? Because if I don't know if I have a bill. I don't have it, I didn't even know that the bill was upon me for the Internet, so you guys can't extend it out and any type of way.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, me, I guess. The amount. And if I knew about the bill I It wouldn't have been two months time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If I even wouldn't do that. It's canceled out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean, I I never got a bill Um No one never gave me a letter. No one just Someone just called me from a T and t this week stating that I have a bill. I'm like a billing what I have a wireless bill, but that shipping now should be zeroed out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Currently, for us to really extend the bill Apparently, it really requires to least pay the past due on the account, but I do get the fact that you're really concerned about the the amount though we do apologize for the inconvenience of what happened.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Indeed, uh, I wish we can actually do a different option you know different avenue currently This is really what's allowed in our current systems.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, well, I don't know what can I have someone come pick up the box got to go with somebody else for Internet. I mean, fifteen dollars. I'm sure. Every Internet company has that going on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I'm paying for a bill that I don't even know I had and I can't get in any Lincoln see I'm paying it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm trying to pay the bill. I can see if I wasn't trying to pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm trying to pay the bill just wasn't aware of it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I do apologize for the inconvenience though.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Maybe I just I have to go with somebody else altogether when someone come out and pick up the Internet box.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I I maybe Maybe I'll just go with somebody else for Internet altogether. I mean, I get it. It's not your fault about The ATT but I wasn't aware of it was over, either, so I got a two month, Bill standing with you all, and you all just now call me about it and I have to get payment on the spot and I even know about.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You know what, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hear you. How about this, uh, Here's what I what I can do, I may not be able to you know make an extension in my end, but I don't want to still lose you as a valued customer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What We'll do is We'll get help, with one of our colleagues from the side of our retention group, you know, to assist you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's two months, and we're in August. Now that doesn't make sense to me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: With be OK if you stay on the line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, I'll your effort over so Just make sure that you don't hang up. Because we got you over, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Appreciate your time once again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't even I guess they just rolled me over to somebody else OK, I'm gonna have to break that my whole story again, uh, I'm calling in regards to the internet My first name is last name is dire and I'm trying to figure out, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: About a payment plan that I can set up. I was on the a C, p program for my understanding, that it did.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My Bill is two months behind even know that it ended so I was asking to give me time to pay the bill if I didn't know about it, I can pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, two months ago to so I have a wireless bill also with a T and t, so my thing is, I mean it's not with a known about the first. I mean, if I'm paying my wireless bill would not want I paid the Internet, Bill. I need some more time to pay the bill, or I mean, I was thinking it's not that it's just not a good deal if I go with a T and t, or first Internet and someone could just come pick up the box and I can just go with another company. I mean, I didn't even know about the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For number one and I can't get the extension on paying it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm trying to I'm trying to pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see OK, and definitely
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, and I do understand.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, and I'll be happy to assist
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mean?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I know where it's coming from. I mean, I'm being charged because there's no they longer no longer paying for it, OK? That's fine, but I didn't even know about the bill, so now, here it is two months later, or three months later. How ever time. At this point, I get a call from a recording from a T and t, saying I got a bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A look and see what options We do have to get that arrangement set, so it sounds like. Basically, you have the a C, p discount where it was free, and it's to Bill you, and you just want aware of Uh of the charges. And you wanted to extended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But actually the arrangements already been made on the bill. I just want to? Why? Why? It's not being honored. I mean, it's I I online right now, and I already made arrangements on the bill the twenty eighth of this month.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It OK, so let me look into this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But just It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna let you go ahead and pull it up bring you up to date. And what's going on, because you're like a fourth person I have talked to already this morning, so this is just. It's It's a little bit too much and then that I want to know what Internet plan and a my on because my streaming service is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Either is too slow. Or, it's not strong enough?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Only It's only me here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it's not like anyone else is using the other devices is no other devices plugged in. So I'm I must be on like the the lowest lowest of the lowest speed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's see, I'm gonna take a look at that, too, for you here, um, also want to make sure we still have the best phone number on file to reach you by phone or text with information about your services. It shows Two, four, {voice.truncateDigits89:* * * * * * * *}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, just a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What department is is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: pulling up your payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: region Jones?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What department.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: retention
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: retention and retention is for what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I was calling to cancel? Because I was saying, I mean? Maybe I can just I mean, everybody offer Internet these days.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you calling to cancel.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's just that I've been with a T and t the longest.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it would really be the same to move me have a customer, because I've been with a T and t for a minute with wireless service and Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I sure do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Be yeah?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, they said that it's still It seems to be It's overdue it need to be paid the Thirty something about the thirty two dollar amount needed to be paid, and I'm like it can be paid today. And it's not gonna be paid this week.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I, but they're not going. It's already arrangement set up. I just don't want my my service is interrupted so if they get interrupted just come get the box and I just go with another company.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I do have a question, because I do see you, ha You do have an arrangement set, so when you were speaking with previous representative What was the issue. They said that your service would still be interrupted. Because if the arrangement is set your secure Until that day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See, saying.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me double check it because they'll still send the notifications. Bye. Did they tell you like a date did they give you a date that it would be interrupted. If you didn't make the payment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That they They can't saying just the past due need to be paid today. And I'm like I'm not I pay I didn't even know I had a bill. I don't have it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Need
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It shows?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure. Hopefully, you can help you out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They got you talking on a retention is I I'm glad you in probably the last person I spoke with probably I can't even understand even with being said, but I can understand you very clear.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Make somebody pay a bill. That's know anything about.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And that's what's confusing? Because usually If it's an arrangement that I understand that you know that balance was, I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Due
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I made the arrangement.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See the reason they?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, they just called me, this is not a call this week, so I just hurry up and did an arrangement. But I've just been to a funeral, and all, so now I have time to get on the phone and actually speak to someone there because I didn't have time, uh, you know, for the letter, I mean for the you know earlier. Part of the week, but now that I have time today. The call somebody. That's why I decided to call?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In July.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You did you get what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, absolutely.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I didn't I hadn't had time, but even even before then. It just see if I didn't even call or no one. I mean, how they my services. Just probably would been cut. I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, good.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, what I'm gonna do, um, if you could stay on the line with me. I'm just gonna reach out to collections just to double check. Because on my end. It doesn't show that it's gonna be interrupted. Because you have the arrangement. So I'm just gonna double with them, just to be a hundred percent sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have to speak to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do I have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I paying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Point.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Since you're on the access plan, it's It's fifteen dollars. And it's Internet eighteen, uh, which gives you eighteen megabytes per second that typically support about six connected devices at a time, um, it's not on higher end of the speeds. It's kind of like a a medium.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't have multiple devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Level speed, so it's not really a top speed, so you could run into issues, if you are like streaming or have multiple devices connected at once, um, the only thing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, no? No. No problem, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not the culture, with not the cutter with them now. I was just thinking I'm What is the next What is the next internet speed, then, because I just It's only me here. It's not No, it's not her know devices just stream is awfully slow.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I was, you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just got a chance even to turn the T. V on I haven't even been here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, and just for like comparisons like for me, I'm an internet one hundred and it's just me and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's so This one is eighteen megabytes per second, so you can definitely run into buffering issues with it. It's just that with the access plan, that is the top speed available they do have Um Internet error now available in your area and that can get you up to about two hundred megabytes per second.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That plan is a little bit more because they don't have that same discount available, so it is about sixty dollars a month, but with the access This is actually the the top speed. They currently have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, yeah?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's Internet error, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It so Internet, OK? Well, I guess we get one thing rectified first and see if I even want to stay with a T and t.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Even say with a T and t you maybe I can find something cheaper. I don't know we'll see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not so much the sixty dollars, but let's I mean, we can just rectify I let you go ahead and check with you were gonna check for the first, so we can get one thing straightened out first.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Righty well stay on the line with me, it's just gonna be a brief hold. No problem. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You How can I assist you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, this is Kenya I'm calling from broadband billing the customer's name is the refund dire.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hello, thank you for choosing a T and t. My name is Jim or May I have your full name, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So if she have arrangements set the service not gonna interrupt the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, and I just really had a question, because she's in treatment. She just spoke with someone She has an arrangement set, but they told her that her service will still be interrupted just wanted to double check to see if that was correct, because she does have arrangement set.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On so after the arrangement the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: After the Yeah, that's what I thought, but for some reason, someone she had spoke with before me, and They noted like it was still be interrupted. If she didn't make the payment, but she She does have it set, so she should be good with the arrangement that she has.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm not being if they told her that me they don't see any arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Got it, OK. All righty just wanted to double check. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome, so she sure she have arrangement on set up the right way. She's service get suspended. But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Got it, OK? Yeah, because she has it? I I see if she does have it set for the twenty eighth of this month so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, it will get suspended. So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: After
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, then as What type of service she have?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just internet service, she used to be on like the a C, p, and now she's not so her bill is like three months behind.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, you want me to can see if
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, the account number is one four nine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: One, two, eight.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nine five two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And, um, the passcode is {voice.cvv.digitsTranscribed:*** *********}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I need {voice.cvv.digitsTranscribed:***} things from you, the account number. First, and the passcode so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm just gonna check in with her really quick here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All righty Thank you for holding I do apologize about the wait. He's double checking for me, he did see that as long as the arrangement is set you should.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: All righty Thank you for holding.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, so? Yes, I have the account. But the passcode is incorrect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All righty Thank you for holding I do apologize about the wait. He's double checking for me, he did see that as long as the arrangement is set. You should be secure, but he's just double checking here so few more moments, alright? Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you for holding can I get the {voice.cvv.digitsTranscribed:****} digit passcode {voice.cvv.digitsTranscribed:***} more time, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you for holding can I get the {voice.cvv.digitsTranscribed:****} digit passcode {voice.cvv.digitsTranscribed:***} more time, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, Is this OK? Just a moment. Let me get it from her again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, no problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: All righty Thank you. Sorry about that. It's actually {voice.cvv.digitsTranscribed:*}z {voice.cvv.digitsTranscribed:***, ***, ***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So Yes, I said it customer have arrangement for the {voice.cvv.digitsTranscribed:******} eighth
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: She off the worry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN] {voice.cvv.digitsTranscribed:*** ***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN] {voice.cvv.digitsTranscribed:*** ***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I guess suspended until that date.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome. So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Not a service, then have a good {voice.cvv.digitsTranscribed:***}. Have a good shift.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Got it, OK? Thank you for confirming that for me.
+Summary A: 
+Response: 
+Answer: 
+

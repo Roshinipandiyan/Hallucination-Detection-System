@@ -1,0 +1,3420 @@
+Speaker: SENDER_AGENT
+Text: This is from loyalty team May I have your name, please?
+Summary A: The customer called to cancel their PSG account and transfer their phone number to a cellphone account. The agent assisted the customer in cancelling the PSG account, transferring the phone number to a cellphone account, and purchasing a new iPhone. The agent also offered insurance for the phone and an unlimited starter plan for the new service. The agent processed the cancellation, transfer, and new phone purchase. The customer was satisfied with the assistance provided and expressed concerns about unnecessary credit checks for their elderly family members. The agent assured the customer that all requested actions and changes will be implemented.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How you doing? I'm doing OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How are you doing today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That is actually to hear and Good afternoon to you by the way, how can I help you right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I can go ahead and help you out the net so just for us to proceed me have the account number or the phone number associated with your account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would like to cancel my PSG account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Number or phone number that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: account the account number was. I mean, the phone number is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much. Let me just pull up your account here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Two six one no three one, two, two six? One, three, five seven five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No two six? One, three, five seven five seven seven three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct me if I'm wrong, this is your phone number that you've given to me three one, two, three, six? One, three, five seven five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Seven seven, three, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you only repeat it to me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, Gotcha
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, seven seven three two six? One, three, five seven five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Actually, no account is associated on this phone number. Do you have a different phone number that we can use.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, no, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The account number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's under a bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And They're taking the money out of bills.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: taken out of her account automatically For some reason, and we haven't using that that account. April removed from the middle of a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is when we moved and left that house and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so for this one, I was able not to pull up the account. Do you have the four digit passcode if it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, I do not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries about it, because we have different options authenticate your account Elizabeth, and then maybe you know the security answer, and the security question. Who is your favorite childhood hero.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That is actually correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: One woman.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And I was able not to fully authenticate the account and I can see that this is the internet service and the home phone service located at the address of one seven four north layman Avenue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then it. Thank you so much for becoming a valued customer of PSG. But, if ever call just got disconnected is the number on file.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For one four, four, six 0z nine seven three 0z Is this the best phone number that I can get back to you again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, it is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I'll be ring your number right away, you ever only a call just got disconnected and then going back with our concern you mentioned to me that you've been charged for the service and You're no longer living on that place, because you moved by April eighteen. Am I correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have you ever requested to Um cancel your service at that, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What did you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It should have been can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: She said Well, he said, where did I cancel.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I've been call PSG. They're supposed to been did.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's my son is finding said, when you can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Where did you are requested for it to be canceled.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, because upon checking here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Because I've been checking here in my
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: don't know. We just want to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just want to do Cancel it because we haven't been there since April We don't use.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They could been taking money automatically for my mom's account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For this {voice.creditcard.digitsTranscribed:***}. At least, the but upon checking here and the system there's no any documentation that, uh, there's a request for a cancellation on an account way back to your bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:******** *******}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me know the account to the bill has been canceled a representative represent my mother and Grandma day center She's {voice.creditcard.digitsTranscribed:******* ***} years old, and they {voice.creditcard.digitsTranscribed:****** ***} years old, I'm trying to people, taking advantage of my mom line now because they say your city?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And that's the reason as to why the account remain active up until Tuesday. However, I can go ahead and send.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It should have been cancelled.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I got you on that {voice.creditcard.digitsTranscribed:***}. However, I have you with the account and there's no documentation that there's a request for it to be canceled way back a pro.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Part they should have put the documentation in if they didn't. They just but they didn't do what they were supposed to do. I just told you they taking advantage of my mother. She's seventy six years old, my grandma ninety one years old, of course, when they're gonna be no documentation, because they never did get to the point and cancel they bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't care.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Upon checking on here. There's no interaction that was made way back. A prolong also However, I can go ahead and just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: center my I don't care what interaction wasn't made I want my mother number bill cancel out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I care what is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: your fault.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep, I can go ahead and just Cancel it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Any left over? Change out that bill. They haven't had no cable since April. Like I said, so anything that was overcharged make sure make sure y'all take it off, Bill, or I will be taking it to a corporate racing and they also our PSG, and t stock holders.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Cancel the service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And since that there's no documented done documentation on the account. Something expect nation that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't. That's your app.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and make sure you take everything and put it back to PSG stockholders if it won't I will take it to a corporation and worn Buffy and everybody will have to hear about this PSG, taking advantage of thing you're citizen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: will be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Understand you on the on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's my point.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Then, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nineteen sixty something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I did you all take a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is You're getting that on record.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll document that one here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Getting that on record.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, they stockholder since nineteen sixty so quit taking advantage of them, they say your citizens and don't play what they money and wipe it out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um OK, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hope they hear me no supervisor here me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A Lisa bill farmer, and Marion farmer PSG stock holders.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep, OK. And then, uh, for this one. I can see that there's a credit balance on the account, amounting to two thousand twenty two and sixty five cents.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You hear that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hear that credit two thousand? Yes, send eight money. Let me give you the address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't play Don't play with that, taking advantage of senior citizen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I know y'all taking advantage of them tell want war Buffy that, too, and I'm gonna let them know my I'm gonna warm.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On corporation. No two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Apple eyes the senior citizen, with their money and grow money off. Therefore bank account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Y'all just go on money making money off money.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's what you're doing. You're making money off their money, why they money sitting in the account. And then I just joined insurance off of it ain't Nobody Why should they have to call for their money? Someone should have been trying to help them.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Instead of taking advantage of now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Why do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Like a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now I want to do so? Yeah, when I say stockholders Yeah, they want to act, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can I be able to send you this credit balance on the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, the same account that you took it out of.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Credit
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna need to address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: will be sent via mail address in the form of prepaid. card or Mastercard?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That you want the address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:****** ***** *}o {voice.creditcard.digitsTranscribed:****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: meadow ridge drive.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Fort Worth, Texas.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:***** *** *** ***** *****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And the name of Lisa bill farmer, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct my from wrong.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is the address. Let me just repeat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do {voice.creditcard.digitsTranscribed:***** **** ****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Drive fourth word, Texas {voice.creditcard.digitsTranscribed:***** *** *** ***** *****}? Am I correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We wanted.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:*** ***** **** ****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:***** *}z {voice.creditcard.digitsTranscribed:****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.creditcard.digitsTranscribed:****} what worth Texas {voice.creditcard.digitsTranscribed:***** *** *** ***** *****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I'll have that credit balance send on to that location, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And how much that credit balance is the repeat a long.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What's credit balance.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's amounting to two thousand twenty two dollars and sixty five cents.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, well, thank you, sir, what is your name?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: My name is?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Five
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you so much, just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You said I Thanks for doing customer service I I will put in a good customer service report for to your manager? You have well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A lot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just staying the same for a brief moment, uh, I'll be just processing the cancellation
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I wouldn't can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They older, they?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They just going?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Every company on the PSG we? Yeah, we get that check for areas I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just Uh process everything on here, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Every phone company.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hello there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much for patiently waiting on the line and, uh, for this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We are about to cancel the service, and upon checking here on my end, it's also, including the home phone ending and the number three. Five seven five? Am I correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it's our phone number that been there for something was seven seven three two six? One, three, five seven five right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: phone number, uh, important to us because we can convert that into a cellphone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, we can keep Well, it's a porting out to Maybe she can take it with her.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I said, it's a port in to us to have been an hour family history. For many, many years.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yeah
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yeah
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to convert it into a cellphone number so that we can keep the number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Then the cell phone here you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm keeping the number seven seven three six? One, three, five five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, we want to convert that number into a cellphone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What? What cellphone, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know when you trying to add it to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't call your daddy a liar.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Change to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The already have?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: With PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um, would you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, we don't have any, but will like I like to start it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: want to get a new device, or you have a device. It's up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I want a new device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, uh, what device? Would you like to have?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The newest iPhone?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sixteen the regular one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: fourteenth I updated to the sixteenth
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so you would like to have a trade in or another phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: another phone. It shouldn't be no phone. It should just be one phone. It should be no phone on there right now on the phone. That should be on there is the one I'm ordering now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, um, is this? This still the address two seven zero five drive that we will be using?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, that's where I want to send Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's the more than
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Better because I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Take that number and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just begin the process of it for that one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And something expect a son that before we proceed on this one, there will be a sales tax, and as well as a Uh credit check for this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How long They're gonna take.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just check on the system.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Credit check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I just I I'll wait on all that, but I I was I. You just send the money and stuff, uh, can I still I I really just switched the Uh cellphone number? Tomorrow, I'd rather transfer the phone to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You keep your phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To my cellphone number? I'll take the cellphone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Because, uh, will still need to Uh Submit your information, here on my end, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry, uh, can you only repeat that to me. The line is cutting.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Or what I have to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Somewhere cell or do you all work with consumer cellular
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh The ATT number the seven seven three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, if ever, that's the case, you will be Um doing a call from the consumer seller and then tell them that you are, wanting to port a number to them.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Would I be able to get that my my house phone number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, to get the seven seven three number and the two six? One, three, five seven five right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: They are the ones who will be doing a request to us.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Something expectation to you about the process of the account must be active. Up until?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: years.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Process to be done.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I can you for you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, so meaning to see the account will not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you in a system that I will be customer sell it would be calling? I'm trying to port. That number for me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, correct, but Um something expectation again that Um, the internet service and the home phone service will not be canceled. Yet until you were able to or successfully transferred your home phone number to a different provider, and after you did that you can do a follow-up all.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh it. What can I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do the credit. Check it shouldn't be no credit check, because they've been there all the years. So what? You're gonna work with her credit, and all that right now. So what? What is your gonna work with uh, Miss Elizabeth farmer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't see I should be a credit card checking y'all been in our y'all been having her money all this time?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't make no sense her credit That's like Uh install.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's a different account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mean I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To a cellphone account different accounts?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That realize what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A listen what I'm saying, though she {voice.creditcard.digitsTranscribed:****** ***} years old, been with you all, since I was a little kid, so you all have over had her money, everything taken it out of the account and then at the end of days, not just that her mother work for PSG phone numbers on these {voice.creditcard.digitsTranscribed:*****, *****} years all right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then you're gonna mean you gonna credit check a {voice.creditcard.digitsTranscribed:****** ***} year old to get service who's already card on the service, I don't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, ma'am.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But I know that's not show part. I want your manager to hear that for me, so they can take care of better saying citizens the future, you here, what I'm saying, so I hope your supervisor. Whoever listening everything? Yeah, I need to take care of the senior systems.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Especially ones that find a money and been loyal to you all these years?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So she shouldn't have to do know, uh, credit check. {voice.creditcard.digitsTranscribed:****} you've been finding it and I just that they got stock in PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, I mean, if you get what I'm saying, she a part of the system to and and Whoever listening to this? Yeah, I need to follow this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Other senior citizens. In the future, because it's not right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you, so that's all I had to see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Get your point on that one. So, uh, but regards with the service How would you like me to proceed on the internet and home phone together. Would you like me? No, just Cancel it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: See, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, just cancel I want to try to I want to try to do it, you can do the credit check, but I have to say that because that's like a while.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know I'm gonna send it to can't get in your feeling.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I I wanted it to a telephone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I want to I still want to keep the number if I got a option I told you, his three number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So we will no longer be keeping this, uh, home phone number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That number been I'm fifty one years old that number older than me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Did you get it online.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So what do I need to do, uh, you got to do the credit. Check I'm gonna let you do it. I just had told you I had to speak, my little commercial to company.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I will be needing to do a credit check on it. But, uh, me ask first, uh, just to be able to clarify would you like it to be as an and t phone line or the other provider that you have for your cellphone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I will what the other provider my cellphone if it's gonna work, but I don't want to go through all the house, so whatever the easiest way that's what I'm get trying to get to the point.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just didn't know they was gonna do a credit check on my I just didn't know they were gonna do a credit check on my grandma That's kind of like a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not This is PSG right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm I I didn't know that was gonna slap. That's why I guess this PSG said they're gonna do a credit check on her.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm just like that, a flash in the face, you get what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And and and I just that even she didn't have good because it should be, uh, that's how you know everything like a just a business.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At the end of day. They don't care about, uh, it's about them. They don't even want, let's getting Richard.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I see. It will be a lot of process to be honest with we just converted enter it cellphone number of PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It would be of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You need to do what I'm sorry, could you repeat last.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If we ever convert that into a cellphone number of PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: E. R.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would be a lot of process.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's OK, I'm ready for That's my challenge. I'm supposed to give up. Let's do this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What's the process a couple of hours. I got time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so I just want.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I wanted to here? Yeah, that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To only stay on this line. Let me begin the process here in my end. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just wanna decent device she can get a credit check on whatever I I I'm familiar with the iPhone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, uh, what kind of device? Would you like to get again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would have got the iPhone newest iPhone, but the small one, um, your sending me with the credit check on her. But I want you to go on because that's your problem. None of this is cards personally to use to si, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I want you to understand it's not. It's not person you got a job to do, so I understand that and I'm trying to get you in no trouble. And then, so you got worry about nothing on my part.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So you mentioned to me the uverse iPhone so upon checking here, the small one. Only Would it be the um, I can fifteen only
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What it would be the storage of it would it be? One, two, eight gigabytes two five, six, or five hundred twelve gigabytes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it just be the small device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I phone fifteen, uh, one twenty gigabytes of storage.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um, upon checking on here. It will be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We We just need the smallest one I don't need you know the one to wait, I believe.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thirty five dollars for the activation of it, plus sales tax and then, uh, uh, upon checking here and a monthly basis the full retail price price of Fifth is eight hundred twenty nine dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But it will be split.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Six months so thirty six months would be, uh, twenty three dollars and six cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: monthly installment of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can afford that. Every month, but I'm saying What if I wanted to, uh, we can we can pay more than that, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 5 the Um less answers, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and it's not no like No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's like not know, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What I want to say like No, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Or repercussions.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: to pay it in full.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You said what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, no, I don't want to pay I'm gonna I'm gonna take advantage of.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh that I know y'all could get it out of the credit. But we really uh, I could really use that money on something else, and try to be rea bill Graham my credit. Because I'm gonna want to, re, Bill her credit. Anyway, a little bit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to even pay it in full.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that would help her, she ninety one years old, I don't see the point. But, um, we can keep that number? That's the only reason I'm doing that because I family That number is like his through.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That numbers on nineteen sixty.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I think one you need to tell your supervisor get a hold of warm buffet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me know. Let's do this for real?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh Would you like me to put an insurance this phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be seventy dollars extra per month.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How much?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dollars for the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Seven
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep per month.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: One seven.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um, upon checking on here. We have three different lines the Uh unlimited starter. That's the least plan that we have seventy five dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then the highest plan that we have is unlimited premium ninety five dollars and ninety nine cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, that's reasonable.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But if you enroll with automatic payments and paperless billing There will be a {voice.creditcard.digitsTranscribed:***} dollars discount if if we use a bank account, or a debit card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So what plan, do we?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um want to get Is that the least plan the least plan that we have. It's called unlimited starter and it's gone off. Or, actually.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: unlimited data {voice.creditcard.digitsTranscribed:****} gigabytes of hot spot data allowance {voice.creditcard.digitsTranscribed:****} G access unlimited text from the U S {voice.creditcard.digitsTranscribed:** *** *******} plus can trees unlimited talk text and data in in between the US, Mexico and Canada.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I hope so I should call my partner's vanguard, and see what they have to see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because you know they only lot of shares would.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's the unlimited starter plan is the enough for us.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Two with my family.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, no back on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see OK if you would like, I can send the information directly your email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can send it right now, actually.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you would like to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is it on my email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to Um get the email of fact, I can send you this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it's sent it to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But I'm still have talked to my family, you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I know they got a lot of business with you all, um, um, you know, stock shares you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My my email. I like you to do it, til is my my My grandma daughter and her name is farmer her email is F.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Farm a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: s, f a R. m E. R.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Eight 0z seven.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see, uh, what's your email, also.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At a o, l dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On a O. L.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At and t, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's a back in the day, uh, email attached to a T and t.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You see how you see how real We are we? The beginning a l, o. L. You heard that right side.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A o, l dot com. So they let you know we original Um PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you, so that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: so warm. But, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My don't That's rude. That's older than my Uh He ordered in my grandma so he should be so my grandma Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna charge I don't see no email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh you sent it to my mother, my fault, you're right. I'm sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm telling me good.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I sent the email, actually.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My Mama be trying to protect them to side.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't see no no hear what you say, better and assurant for tech No, I don't see you got asked farmer eight 0o seven.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Actually, I sent it already have a check it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At a o, l dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's actually what I got here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Eight zero.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, f farm.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You got app Sharon
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Wrong so loop school. S.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know ain't no Let me see on my I got.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm looking for the email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 0z seven at a o, l dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't see no I'm getting really, really. Now you PSG now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't see no Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Email you said, as
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Farm F. A R. m, e, r 0z seven at a o, l dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Phone I'm sending email there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's what I've actually Uh type in here in the system.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We go to this email? I know someone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: P a I N. S. At Gmail dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: truck.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: t, r, u, s, t.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A I N. S. It's a S. After the end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At G mail dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What are the other letters after the word pain.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So it will be us pains at Gmail dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Gotcha
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got I got your
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, let me know you use a check?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Almost got you want to, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I see, buddy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like me to continue to process that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, and, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, you can cut tell you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It is real.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I gonna tell me just our WiFi?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What you mean? Yeah, it wrong, what you mean.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it wasn't. No, he didn't just answer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What would be the name for this line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: All right, whatever.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like me to continue, and it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and, uh, who is this line for.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, can you, um sell me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: farm.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What color of the iPhone fifteen? Would you like to have?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: will call out of.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would it be black green, blue bank or yellow.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Green green.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I pull apple iPhone fifteen green one twenty eight gigabytes of storage. Okay, and then we will be adding an insurance, uh, it will be seventeen dollars per month. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then we will be delivering it to you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh well postal delivering it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is it FedEx because United States post office UPS who's delivered?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then the least plan that we will be having will be the unlimited starter OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see. I'll answer that one. Later on after we are able to successfully submit the order OK, and then, um PSG may
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Slow data speeds for the unlimited starter plan, when the network is busy. Only, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to be enrolled with automatic payments and paperless billing also
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You said what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You like to be enrolled with automatic payments and paperless billing
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We will not be Enrolling in to it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't want to do that my grandma and I maybe use a rep on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh all right now, I got a Internet trust back with me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: got you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get what I'm saying no.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We know there anything?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, checking here in my end, uh, it will be the uh, one time, charge activation fee thirty five dollars. It will be added on your first bill however, the one that we will be paying right now is the sixty eight dollars and forty seven cents This is actually a sales tax?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, that's fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Take correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They won't be getting no money out of my pocket I got her credit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me know. Continue the order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And she's right here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Grandpa.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I got the whole thing right here, but he This is not No scam. And then I got my grandma right here, I got my mom or
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You all recorded on our line, and we got three people I got two black females. On one black male, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Cause I'm making myself loud and clear.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The same termination is about being fair and right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Actually, uh, we will be needing now to do a credit check, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, um, can you only
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me the Uh date of birth of it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh [DOB] but you know your birthday box.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh My grandma gonna tell you herself telling me your birthday.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [DOB]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You repeat? For me, the year only
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: that again? Here, see it, nineteen thirty two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I heard that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You hear that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So you hear all lady. So, so that's That's the That's the That's the farmer. So that's the only voice I hope you all have that on record, so that's a That's a That's a voice recognition of a ninety one year old woman, so this is not No scam? Or plan games on the phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I want to keep my problem like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I just want you to treat or like a queen. So you're saying about no credit check she should already get it off for T check you understand what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, thank you for that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I got you, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's the real.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At and t. Nineteen sixty something I'm gonna keep saying that on the recorded line, we all on a recorded line right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A point that day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Other
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, as within call right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know that's not a little bit farmer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A lot nice.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Understand? And that was shipped.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So no I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And also again, uh, this for the credit check, uh, can you only provide to me the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: of Elizabeth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Did you understand what I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You over talking me for cell? Really?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You're not understanding me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just bought no cell I'll see here before real you over talking me, though. Now it says. I'm gonna give you all the number you want you want her I D number I I D state right. It's not the Illinois, that's right. I'm I'm I'm not a letter right here just here for hear me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On my angry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How you want to put it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh No, I'm angry part I'm angry, Brad of my grandma mother and my great grandma how They've been loyal.
+Summary A: 
+Response: 
+Answer: 
+

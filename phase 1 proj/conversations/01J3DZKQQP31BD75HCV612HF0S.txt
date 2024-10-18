@@ -1,0 +1,1356 @@
+Speaker: SENDER_CUSTOMER
+Text: siete
+Summary A: Customer called to report internet connectivity issues for the second time. Agent offered a free technician visit to check the wiring and replace the modem if necessary. An appointment was scheduled for Friday, and steps were taken to address a previous concern regarding a contract. Customer has an upcoming technician visit scheduled and will receive assistance regarding a previous contract issue.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hola bienvenido al departamento de lealtad de PSG mi nombre es juan con quién tengo el gusto hablar el día de hoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ocho o la buenas tardes habla con javier
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: gusto señor javier dígame en qué le puedo servir
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: estoy llamando por mi internet que no no no hay internet se cortó no se se cayó la línea
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay más o menos cuánto es que usted está presentando este problema
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: pues ya va en la segunda vez que presenta ese problema ya internet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay gracias por ello entonces bueno me puede dar por favor el número de teléfono asociado la cuenta o el número de cuenta para verificar qué es lo que está pasando y pues por le solucionar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: así es sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ocho tres dos tres siete dos cinco cinco nueve dos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: javier
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo y me puede corroborar nombre y apellido el dueño de la cuenta y la clave de {voice.ssn.digitsTranscribed:******} números por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchas gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: la clave es el {voice.ssn.digitsTranscribed:***********}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: le dicen que le confirmo rápidamente es el número {voice.ssn.digitsTranscribed:**** ******* * *** **** ******* * *** ********* * ***** ******* * ***} y el correo bolívar de ciento {voice.ssn.digitsTranscribed:******** * }arroba gmail punto com un buen número y un buen correo para contactarle acerca de sus servicios con PSG ya sea por tarje de texto llamada o correo electrónico
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchas gracias y gracias también por estar con nosotros desde lo que fue inició el mes pasó permítame un minuto en línea ya verifico rápidamente qué fue lo que pasó
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchas gracias por su amable espera línea bueno el otro que yo le iba preguntar en el momento en que usted nos llamó primero que yo también ya vi como la interacción de pronto usted le llegaron a hacer algún reseteo el módem o le ha llegado a enviar un técnico o un aparato nuevo para verificar que no haya sido algún problema instalación
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: que entonces en ese caso no se preocupe qué es lo que yo voy a hacer entonces hoy por qué porque en el momento como tal no me aparece que tenga como ningún tipo de avería es decir para mí pues por experiencia propia sí tiene que ser algún tipo de problema de que pronto algo este mal enchufado entonces yo le voy a lo que es un equipo y un técnico totalmente gratis no se los voy a cobrar por obvias razones para que para que él verifiqué todo el cableado que vea qué es lo que está pasando y está de ser necesario le reemplace el aparato porque pues de pronto ya con otro aparato que igual va a ser nuevo pues ya le pueda funcionar mejor que pues la verdad casi qué por no decir que en el cien por ciento de los casos y siempre cuando no envía lo que sí se técnico y el aparato ya una sola le resuelve porque porque la verdad sí no tiene como ningún sentido que no tenga bien el internet que se le caiga tanto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no yo nada más lo lo lo volví a conectar pero no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y se permítame solo un par de minutos más en línea por favor ya me comunico directamente con soporte técnico para poderte agendar la cita igual recuerda
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no importa si el técnico tiene que reemplazar no importa si tiene que quitar poner o hacer lo que sea no le pueden cobrar absolutamente nada
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay okay muy amable
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señor javier me podría recordar la contraseña por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: estoy hablando con ellos para encontrar la fecha más cercana
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchas gracias por su amable espera en línea señor javier bueno uh pues también si yo le quiero dar con una qué es lo que pasa si la están un poco
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: por pues lo que usted conoce que pasó con el huracán por lo cual lo que son los técnicos sí están un poco es caso sin embargo pues obviamente entendido también como la situación y pues yo me comuniqué ya directamente con ese departamento pues pude conseguir una cita para lo que es el día viernes que sería el viernes veintiséis tengo dos horarios de doce a dos de la tarde o de dos a cuatro de la tarde si le podría funcionar esta fecha y este horario o ro de pronto lo requiere otro día tal vez un fin de semana
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no más antes imagínate el viernes internet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí pues sería lo mismo si usted lo reinicia o sea si lo desconectó lo voy a conectar le volver a trabajar qué es lo que pasó o sea yo lo que hago es el envío el técnico para que para que el de verdad si pueda asesorar o sea perdón dejar corroborado que no hayan a seguir pasando esos problemas a futuro es porque pues obviamente una solución no es simplemente decirle no mira desconecta y vuelves a conectar porque la verdad eso no es una solución
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces igual
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: si le puedo agendar la cita para este viernes de doce a dos de la tarde o dos a cuatro de la tarde
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el técnico se a comunicar directamente con usted y le va a escribir o lo va a llamar para que usted sepa que en efecto el va a ir y que aparte también es una persona profesional por parte de PSG y no cualquier persona la que va a entrar a su casa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: es permítame solo un minuto más en línea que ya también
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: le estoy dejando
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: registrada lo que es el técnico pues como las indicaciones de que verdad revise toda la conexión pues para verdad segurar sé que no le vaya a volver a presentar este problema
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no sé
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: la el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ese
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: gracias por su amable espera en línea permítame solo minuto más por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: su amable espera en línea sigo trabajando por usted igual informo rápidamente pues
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know un
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: es un pequeño error el sistema entonces pues ya estoy otras volviendo a montar toda la orden no se preocupe igual y sigo yo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchas gracias por su amable espera en línea igual también le confirmo en el momento ya también tengo un monto otra vez la orden y sin embargo pues también como usted obviamente pues le agradece ayudarle lo más pronto posible porque pues igual de aquí al viernes también sí es un poquito lejitos tenga como revisando si también me dijo como corregir ese error desde aquí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: was
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y parece que sí porque incluso me está saliendo que es como un error de la línea que por lo tanto puede que requiera lo que un envío de aparato nuevo entonces sólo un par de minutos más que estoy verificando ver si te verdad puedo colaborar le más pronto posible
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay pero básicamente si me dice como otra lo mismo pensé que sí lo puedo cómo arreglar más rápidamente pero no dice según una revisión de la cuenta puede enviar técnico sin cargo si puede aplicar cargos adicionales por cualquier solicitud que no esté relacionado con la red de PSG técnico discutir a sus cargos con usted antes de realizar cualquier trabajo a qué se refiere esto a que si por alguna razón pues usted dice como no es que quiero mover el módem uh al a tal lugar pues ahí sí le harían como hecho cargos pero pues obviamente eso no va a pasar sino que simplemente le van a dar regl r todo lo que es la conexión de acuerdo igual eso no le van a hacer ningún cargo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: está
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: aló
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: aló
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: esto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: gracias por su amable espera en línea ya me está cargando el envío
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay aquí aquí pago
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: usted le hice el pago
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: de dónde
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh pero qué le está pagando pues
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: entiendo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh cuánto fue de cuánto fue
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ah ah tiene a la mano uh uh cómo se llama
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá la cosa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es ajá entonces
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay pero okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh que no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh que sí okay muchas gracias por su amable espera en línea ya me está cargando le envié
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo entonces al número que se puede comunicar el el técnico es el que termina en cincuenta y cinco noventa y dos verdad
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: veintisiete cuarenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.ssn.digitsTranscribed:******} números
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay muchísimas gracias por su amable espera en línea uh yo también tonces si le puedo conseguir un poco más temprano o sea ahora va a ser por lo menos el jueves al menos es un día más
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: tengo de {voice.ssn.digitsTranscribed:****} a {voice.ssn.digitsTranscribed:******} o de {voice.ssn.digitsTranscribed:****** ****} de la noche
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.ssn.digitsTranscribed:******}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: eso gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: igual mismo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: él se va a comunicar directamente con usted recuerde que no le pueden cobrar absolutamente nada
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y pues igual bueno un segundo y ahora sí igual también tonces de ser necesario le va a reemplazar el equipo sí l reemplazar el equipo y el mismo no se lleva el equipo anterior usted se tiene que hacer car una sucursal de fedex o de u p s para entregar el aparato no le van a cobrar nada por el envío y lo único que les va a decir es veo entregar un aparato de PSG y les va a dar su número de cuenta con nosotros usted con ese número o tiene para anotar y yo se lo puedo dar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: pero se lo puedo dictar cierto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no bueno el número
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bueno me dice cuando se lo puedo quitar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay el número es tres treinta y cuatro
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí ya
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cero cero nueve
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá m
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: nueve cincuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: tres treinta y cuatro cero cero nueve nueve cincuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay correcto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: recuerde que de
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: pues
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: en efecto usted ya entregó la para
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: en un segundo más que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: está sí permítame un minuto porque pues me está saliendo un error en el sistema otra vez ahorita un segundito
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ya sería todo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay muchas gracias por su amable espera línea sí bueno ya sé por qué salió error no sé porqué deja una fecha disponible para el jueves porque la cuenta es cuando uno lo manda si sale que no hay ninguna fecha disponible es más un error del sistema el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: confirmo que entonces sería exactamente igual que antes sería el viernes de doce a dos y pues exactamente todo igual como se lo he hecho antes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: también solo un segundo que ahora sí me salga la confirmación ya podemos sacar la llamada
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dice entonces ahora sí entonces bueno que lo recibía sería usted cierto señor javier
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: esto gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay listo ya preguntar de pronto tiene algún tipo de no te especial en cuanto para acceder a la casa no sé tal vez un perro radio uso o algo por el o no es el caso
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay entonces ya básicamente por ahora sí pues resumir recuerde que la fecha entonces le envío a ser el día veintiséis de julio del dos mil veinticuatro que técnico entonces pues presentando la franja hora de que le dije y él se va a comunicar directamente con usted
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no nada
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: guardó
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: es entonces en ese caso tal vez sería algo más con lo que yo le puedo colaborar el día de hoy o sería todo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: tenía una pregunta yo tenía por ahí una tarjeta de regalo cuando yo hice el contrato pero me dijeron que {voice.creditcard.digitsTranscribed:***} semanas y nunca me llegaron
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: averiguar por eso
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay no te preocupes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: la cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: porque el
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que ver no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sé
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: qué
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí voy a revisar qué es lo que está pasando con eso y ya te colaboró para enviarte
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: está bien
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: se
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sé
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: gracias por su amable espera línea sigo tratando por usted
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ahorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay muchísimas gracias por su amable espera en línea entonces listo ah lo que pasa es lo siguiente usted igual que ya tiene para anotar usted va a buscar una página en internet llamada center PSG como centro de recompensas PSG en inglés
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: qué es lo a hacer ahí dentro usted va a ingresar el número de cuenta que fue el que yo le dije anteriormente y el código postal de su casa una vez ahí pues usted le da como un botoncito azul eso lo regresé donde usted va a poner esos {voice.creditcard.digitsTranscribed:***} datos se vuelve a otra vez al botón azul y eso lo va a una página donde usted pues va a poder reclamar su recompensa porque la recompensa ya está activa la puede cambiar por una visa mastercard totalmente libre una tarjeta de amazon el target en home depot walmart o end horas y pues usted haya seleccionado si quiere que le llegue por correo electrónico por correo postal
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: o
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: se llama la página disculpe
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sea no sé si quiere que hagamos como es una llamada com para que yo estoy seguro que pues ya la reclamo porque yo veo que en efecto tiene como {voice.creditcard.digitsTranscribed:***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: rewards center
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: reward
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: le pone a t
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: t and t
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cuando ya esté ahí le dice recompensa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: cómo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh me avisa cuando ya la yo cuando ya esté dentro de la página y le dé al botón azul que dice accedo a tu recompensa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ya okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: este es el número de cuenta si quiere hacer de una vez es [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: código postal el número de
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [CCNUM] [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [CCNUM] [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: código postal setenta y siete cero quince
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo hay otra vez de
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: acceder o algo así me aparece
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y sigue que solo como algo que dice como reclamar tú recompensa cierto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí extra mar ahora
+Summary A: 
+Response: 
+Answer: 
+

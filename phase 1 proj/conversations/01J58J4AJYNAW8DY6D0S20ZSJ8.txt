@@ -1,0 +1,3858 @@
+Speaker: SENDER_CUSTOMER
+Text: Let's see, I'll go to settings?
+Summary A: The customer was having difficulty setting up a mobile hotspot between their phone and computer. The agent guided the customer through turning on the mobile hotspot, inputting the correct network name and password, and ensuring the computer is connected to the correct network. The customer successfully configured the mobile hotspot on their phone and computer, ensuring the correct network name and password were input, and the issue was resolved.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You'll need.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'll go.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: know when.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Know when it lets you when it lets you do you know do anything on it because I know it, it, it's such right now because it's It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, that's what I thought, settings WiFi and then hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Something You'll need to go to your Uh your wifi settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, okay, please call a T and customer care for assistance.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To got automatically turn in the broadband network night what I'm gonna do, rather than continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Gonna connect to hotspot that you set up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna see if I can go to settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: There you go.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Got settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, it says a T and t windows update now. L.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Remain
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Loud storage with these devices. It's not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See if I can get.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It says home, I'm gonna go to network and internet on settings Let's see if it'll allow me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: T mobile mobile hotspot I Ha
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So you're looking for the settings for WiFi so that you can connect to that WiFi spot that we just set up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um, what we want to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is We want to get into Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I won't let me go on I'm clicking it, but I move, turn it on?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, OK. new Please, and devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't have a line to settings it says? I don't have WiFi settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: personalization out the can kind of gaming this is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your WiFi said ex on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now the door for dog.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now, there's a things is properties Is that what you want me to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh know what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We We need to what we want to do on the computer is We're looking to get into your wifi network so in Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: properties pass.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: See?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's blue on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Bluetooth and devices, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is that it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Three Two devices, and the next one under is, uh, the network and Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that's what on now networks, and mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so on the on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A minute. There's no the a We can't set up mobile hotspot because your p C doesn't have an internet WiFi or cellular data connection?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What we're trying to do here you OK, so the hotspot gives you Internet and your internet is coming from your phone, so what we need to do from here is We need to connect your computer to that Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To the internet on my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, that's it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Does your your computer, where it shows your internet connection.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: There should be Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Go ahead and click on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And how do I do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You, what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I've got a network. It's on there now network and Internet mobile hotspot Let me just do network and internet to see what that is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's got WiFi?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: v, p, n mobile hotspot airplane mode proxy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Dial up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Advance network settings? That's the things that happy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What would you like the What do you think I can do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do you see the WiFi symbol on the computer anywhere in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh I top.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I see it on?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I need you to click on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That That's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What WiFi setting on it says connect manage know networks meters network when I, but I turned.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Connect
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You want me to click click again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, you want, go. Yeah, and you're gonna choose connect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It says WiFi ATT two eighty show available networks.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Then, there's a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: w, p a t t t, b, e, z verizon
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Show available networks, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh dunlap tan like connected store neighbor.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Manage networks.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I know what short show available networks, and that's what I got here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me do this again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I lost that, so I got to do that, manager network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You go back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: With this self I'm on a cellphone? Here, I've got it here. What would you like me to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you go back to the cellphone for me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's got the other items Bluetooth tethering u, s, B tethering Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so Are you still on the page the test the mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: tethering
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so let's see? Alright, so we turned on the mobile hotspot Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Section
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't think I have it in the next Internet. It's got to be information section Here's what I have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh mobile hotspot first one is on, and that's in blue the second line is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And let me know when you've got the information section.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: gonna go back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: vices that use data from your hotspot will be shown here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, well, I got to hit that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, what? It's looking to see is what's actually connected already.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that has connected devices, and it has no devices should I hit connected devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so settings connections mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I got to go back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so the mobile hotspot is on Can you tap The mobile hotspot one more time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, tap it one more time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I tapped it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: devices that use data from your hotspot will be showing here and it's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Network name of verizon the password?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A band.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and auto hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's off.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You want me to hit that and one time, password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: wrong thing. Let me see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On your mobile can figure mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Because to the coast figure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's got Uh net or name. There's a verizon a password band security and it's advanced I got to hit advance, because there's nothing else here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What does it say that network nameless that's OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What does it say the network name is?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: dash. S. m dash. J. Three three seven, v dash seven, two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: F. C, and they got a password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, and this is on an a T and t cellphone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, and this is in configure right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep it says can figure mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, under that network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got a password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, under the network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna do it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's only letting me tap. Where?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know it just it gets me into that network name, it doesn't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's got some cancel save all kinds of stuff here. Let's see hidden network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Will it let you tap on that to to change that network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Support WiFi six standard protected management frames power saving mode WiFi sharing that that's on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It says sharing your wife your phones WiFi network and it's on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I don't understand why I can't get over to the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, can you go.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is at the top of the screen? Does it say configure mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I said, we got hit on that Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: verizon Let me hit on it again, and, but it's got something else here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's gonna arrow pointing left, I hit on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: device is is that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Use data from your hotspot will be showing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And know devices can next one is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: connected devices, and know devices are connected.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, can you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh I can, the second one is devices that used, uh, data from your hotspot will be showing here. I don't have any connected devices Nope, I can hit connected devices, but it says no devices previously connected devices know devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I'll do that, I think I can do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you go back to mobile hotspot twenty.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um Do you see anything that says information.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No nothing. It says information device see that use data from your hotspot will be showing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's all.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May be Scroll down a little bit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, are you able to tap hotspot again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm It's off, so you I may I may have to should I tap on it to get it on?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, it's now on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This an auto hotspot and a one time, password and pri or a time real.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh traffic and there's a help help thing on the right on the bottom, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so we're looking for something that says information.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, how about help That's the only
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See, that's it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Connecting with password turn on WiFi on device fine verizon s in WiFi network list connect verizon
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My enter it the passcode?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, go ahead and tap on help.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Enjoy the Internet, using mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, did it when you put the password in you put the password in and it it said enjoy mobile hotspot OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No says connect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, here's the devices, connecting with password turn on WiFi on the device find verizon you know that verizon J. S. m. J. {voice.cvv.digitsTranscribed:***** ***** ******* ***** ***} F. C. N WiFi network list so you, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Connect to that thing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: By entering the passcode F, w, g, s {voice.cvv.digitsTranscribed:***** *}o {voice.cvv.digitsTranscribed:***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: symbol at as the password enjoy the Internet, using mobile hotspot Maybe that's what I need to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But That'll be for me, and I've already.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's for this, that's for this {voice.cvv.digitsTranscribed:***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Maybe it'll go to my computer to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What connect connecting with a q, r code That's that little symbol.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That you picture.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right, I have a Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's It's got a camera on the on this thing on the on the phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, so that's not gonna work with your computer? Because your computer doesn't have a way to scan that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, no, because the computer would need to camera.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do you want me to try doing it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, no, saying Do you want me to find the right, uh, find that verizon S. m, uh, network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Putting that in here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'll try to do that, let me see. I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: got to get it turned on again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Six
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let's got OK, I'm not WiFi ATT two eight That's my network show available networks, I'm gonna do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think they did it down here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If that's with the everything below, that is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And There's no networks, I'll do that, open it up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's put a tough worry mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Today the network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, when you're done with that I've got something else that we can do here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is that on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: doing now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, first name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I look? I'm trying to get it to go light light where I could read it. It's not my whole thing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna have to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Buy it again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: connections OK, I got WiFi me to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hit to connections WiFi?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mobile hotspot and tethering OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At the mobile hotspot on now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Seventy two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: F. C, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Security type.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sure I'm gonna need the password?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Here, you're good.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm the security?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I think it says connect automatically connect Even if this next course, it's not broadcasting the security open, I'm gonna
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Then, it'll try and connect to your hotspot instead of your home, wifi automatically.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, you don't want to connect automatically Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: or anything like that because you don't want that to become your default or a trust to connect to that instead of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and it says? Open here security type open connect automatically connect Even if this network is not broadcasting save and can't cancel.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To the Internet work network name, OK. I've got that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's only got three choices open.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The home network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Security type open and I can scroll you know I can hit it down thing up. It's like it adds them connect automatically connect Even if this network is not broadcasting and then it's got a great thing with saving cancel.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm back to network and Internet WiFi manage accounts?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I've got that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I mean, you can save it. But you don't want to do anything that's gonna connect automatically Um, and you don't want to connect It's not broadcast.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: verizon S. m.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Are you on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, alright, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Both
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have to go through, uh, let me go down and look. I believe it is connected.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: didn't do it, I want, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sure I I'm sure I to connect button.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sure I couldn't connect that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can go to Uh network and Internet, and, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, is it, showing that it that that your internet is connected on the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It if
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let if
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If the WiFi shows, uh, that's OK if the WiFi shows is connected on your computer? Go ahead and open up a web browser, and see if you're able to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To get in, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You can up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You want.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Open up. Waiting I got hold them here been open up browser.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The and that's what I'm doing OK? I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: at Microsoft right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Give me a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, uh, give it a moment, and we're gonna see if it loads, so that we can see if you're connected?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's Ed slowed up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, is it show. It doesn't look like you're connected to the Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well edge will open, but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well How am I gonna get address by now connect to the Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, go ahead and try going to a website some on edge.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm go to see if I OK, what I'm gonna do is see if I can get to my
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know I can't get through. And I'm getting errors I had.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now, now a T and t is determine the broadband I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: going through there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There's not secure. This is Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I went to best buy to see if Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Something If I had a virus and, uh, unfortunately, when I got the best buy my computer was working fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But it wasn't working fine here. I couldn't get to Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That works.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Send it, it's acting like I've got a virus, I got a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A happens ground band you everything.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And determine the broadband network type That's where we are again, I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get that out and go to Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: edge.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm not sure, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know why it's not working, but it didn't. For a password for that, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Network type.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At verizon S. m.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Gotcha
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To uh, a T and t determine the broadband network type.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so on your phone says it's not connected back to your phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let's see, OK. So, go ahead. Can you go just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Go ahead, I'm here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sure I could you mean your uh, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to start back. Can you go back to connections.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, go to settings and then go to connections again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can go to settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just want to make sure we're on the same page. That's all.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: connections WiFi and Bluetooth is I'm running. Those two are on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So one connections, uh, tap.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mobile
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And tethering
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep that they're on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Wait a minute. There's another one down here mobile hotspot intend is another one, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: In connections.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me see if I can read it to you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This Wifi is on the next is WiFi calling don't have that on I have Bluetooth on, and then I go down, t.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mobile hotspot and tethering is down here? About seven or eight. Should I get that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, to have mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mobile
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And tether.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, go ahead and do mobile hotspot and other.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just did that mobile hotspot is on, and then it says?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, so you've got the mobile hotspot and tethering then tap on mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't have the tethering on it just says mobile hops hotspot and then Lou tooth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: u, s, B tethering and Internet tethering you want.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, perfect Nope Stay right there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so if you? If so,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and I got this, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: devices that use data from your hotspot will be shown here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and, uh, I got the verizon name and the password?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you can you tap on mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Auto hotspot one time, password I don't have anything that's using this thing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know There is something that did that, though I remember seeing that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so right there on that screen does it say mobile data shared today up near that the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so we want to be on that that mobile data shared today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it was 0z
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: devices that use data from your hotspot will be showing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I think you might need to tap mobile hotspot one more time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I guess that's what. Now, and I'm gonna tap that because mobile hotspot tapping doesn't give me anywhere.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, so connections.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Stay on that page.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: down a little bit. It says network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Data share Today is 0z point 0z zero.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What does it say on network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Doesn't say that it says the next line devices that use data from your hotspot will be showing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It it doesn't. And the next one is connected devices know devices previously connected devices know devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can we get connected devices, and connect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, because that has to be done from the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: mobile data shared today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The way says that use data from your hotspot will be showing here and then underneath it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: None of that is here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can hit a couple of these things on the bottom is three lines on the left.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can hit that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See what that does.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It should say network name and password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That doesn't do all nothing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No devices connected previously connected devices know device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No it it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna do is remove the line coming into the house, because That's defective so it's getting confused I think my computer's getting confused between this and that line. There, and that line gave me stuff.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What's happening is your computer has always connected to that network so we need to get the computer to to do the new network. Even if you take that down because you have It saved on your computer? It's still going to look for that network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: connections.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Mobile hotspot and tethering
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I've got? Somebody wrote.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Mobile hotspot
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have the Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you hit the the Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The home key of the home.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Button that's at the at the very bottom in the Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Somebody just called me and I know, but I didn't answer, but I now. Right now, I'm on your number eight hundred two eight eight, so I don't know how to get I have to get back to everything we were doing, uh, and I'm not sure how to do that, but I will try.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, there is okay, there it is, I hit it, and now I'm getting everything that showed up. And now, what do I do, I got all the other.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's a square in the middle at the very bottom.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh things that I can use the phone. But where we on the phone, but we on the phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, on the phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, let me if I do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now I'm gonna go to settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because it's It's working here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got the settings uh, now that that's where we are? That's where we were Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So settings?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Connection
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Manage mobile hotspot and I've got mobile data share today 0z point 0z 0z That's where I am.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, no, network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so underneath that you're looking for, can you Scroll down and see if it says network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean it. Just after the third one devices that use data from the hotspot will be showing here connected devices know devices previously connected know devices, and then It's blank to the bottom.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Go back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My mobile hotspot is off right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so what I want to have you do is turn your mobile hotspot off.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I go back there with the verizon and everything else. It says it's off.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, it's on now. It says devices that use data from your hotspot will be showing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, perfect, go ahead and turn it back on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, it's I got to give the uh, one now. There, I can give the one time, password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, stop there. Stop right there. Stop right there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What we're looking for? Does it say network name and then it have has password right under it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It has network name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Stop right there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it, and if I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It has the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Stuff stuff.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Under the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Password and do it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What I just told you. verizon dash. S capital, s capital, m dash.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, what does it say the network name is?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Capital J. Three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's It's what we wrote in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, and then the password doesn't want you to put a password in there? Or is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There's another line on auto hotspot and a one time, password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Already
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then the next line is prioritize real time traffic.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right, it does.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so back up, where it OK, so it says network name and the line right under that should say password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It does it have a password in there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It blank.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I believe know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: One small.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: F. W let me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: f, g, seven 0z two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, give Go ahead and go ahead with that password.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: symbol at
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: F, w, f, g, seven 0o two the symbol app.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mobile hotspot on, and now there's another line under that devices that use data from your hotspot will be showing here, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, that's fine. You can leave that there, go ahead back to the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Fine, there's nothing there because you haven't connected anything.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nothing there, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So Go back to your computer?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, go, click on your wifi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I'm going to the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have to get it to come up?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got to get you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: log in. It's not letting me, OK? Maybe now, it'll do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I can on your computer?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But I have to log in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Michelle You're doing a great job.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Maybe
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Plans You don't need plans.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Still, it's trying to let me log in.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, you're going to your Wifi connection?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm logging in It's got The ATT thing, and it says, uh, I'm not gonna continue with that I'm gonna look for settings right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you see the WiFi?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can click on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hold on, yeah, OK? It's got that world sign, so it's not connected I can click on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i just clicked on it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nothing is happening I click on it again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just Double click it Let's see what's happening.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You may need to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A T and t a R. R. I, s thing has a continue on, so I think that may be holding me out. Should I hit continuous I can't close it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: With a T ant in you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: access code replied is the devices access code. On the router?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But I'm not gonna do that {voice.profanity:****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you can't close it. You'll have to hit continue, because there's no other choice early.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna continue get.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean I can get the access code. So it shows me how to get it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: don't know what this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just because he used it all the time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Telling me the access go to go.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: be correct, uh, she's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Gonna this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, let X.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know when I'm gonna do is closed the whole screen and start over.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, now I'm on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: takes back to continue?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm gonna close the screen again and Let's see what happens if I close it again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, let you X out of it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I close it again, and now I'm back to network and Internet WiFi manage know networks OK, and add a new network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Don't new network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that's I've got.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do add a new network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I think that'll We need to be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Network name we did that, but I'll do it again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: verizon you got to give you got to do it because I don't have it dash seven two two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Up verizon the S. S that one goes in there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: dash something three three J. V or something? Give me the other passwords, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do you have the other numbers.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It was what I put his verizon dash. S. S. S dash M dash. J.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I think.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, verizon dad.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, OK. So the password is all small letters, f, w, f, g, seven 0z two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right F dash F, and then it was a G.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: At symbol.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You got to put it, uh, a spacebar in there a little spacebar my right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Tell
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm gonna try there seven seven 0o two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um You didn't tell me that when it was given it to me, but there, maybe.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And what and The dash is next. What is that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Seven 0o two, and then it was an at symbol I didn't have a dash.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: At the very end is in at OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So you know what I'm not gonna put any dashes in there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I remember.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: See, and I'm gonna put the ad in there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So what you gave me was F, w, f, g, seven 0z two at
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Security type open.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Connect automatically connect if this network which one you want me to hit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Don't don't connect automatically otherwise.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: be trying to connect to that when your internet home internet is up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, we can take that out later.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If we have to should I hit save?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, go ahead and save the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, it's saved, but Here's what they had OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The one I saved before.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is it still saving.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Was verizon dash. S. m. D. S. J. Three three seven, v dash seven two F. C, and I think that was the one. But, uh, that's alright.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm looking at it turned it on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so go ahead and look at your phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that's the one network name is is the one I gave you is the big, uh, is that S dash. S. m. D. S. J. Three three seven, v, when I said mobile hotspot an extra name of the network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's W.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No if we?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I was say.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is that the network name and password. The the your see on your put in the computer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It matches?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, it matches?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, perfect, OK? Go ahead, back to the computer, we would just double checking that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, on the computer. We want to make sure that those match the network name and that the pass. And the the the network name and the password match on it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So if what we put on the computer matches, what's on the phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Want me to click on that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I hit I hit S. m that done?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: network.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And connect automatically when in needed connection settle data limit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I p a sign it, the N. S server sign that automatic automatic advance WiFi network properties.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That it doesn't. Under there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Then, we're gonna try and connect because it should connect. As long as Everything was put in correctly.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me go back to Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+

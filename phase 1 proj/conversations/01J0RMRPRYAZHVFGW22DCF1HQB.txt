@@ -1,0 +1,307 @@
+Speaker: SENDER_AGENT
+Text: Hi! My name is Tina. 😊 May I know with whom I am speaking?
+Summary A: The customer contacted PSG for assistance with a device purchase, specifically switching from a Samsung to an iPhone. The agent suggested clearing cache and cookies on the Google Chrome browser to resolve the issue of obtaining a code for the order. The customer was provided with instructions on how to clear cache and cookies on the browser to proceed with the device purchase.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Marcia Geddes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you Marcia! Regarding your issue, may I know what was the purchase you were trying to make?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: iphone 14
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Excellent! Would this device be for an existing line or a new line?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: existing
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Excellent! Allow me to help you with that :D
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Under Federal Privacy law, it is your right and our duty to protect your account information. May I use your information during this Chat conversation to discuss products offered by PSG companies? Your decision will not affect your service. Please reply either Yes or No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I have your permission to access the account?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the promotional price of the iPhone 14 currently is $5.99/mo + taxes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: By any chance, do you like getting new phones as soon as they come out? With our PSG NextUp Feature you can do it once you have paid 50% of the equipment or in installment 18 for only $6/mo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure thing!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're adding an amazing device today. Stuff happens! Protect your lost, stolen, or broken devices, even when it's out of warranty, plus, get expert technical support. You can get same-day replacement and setup, $29 screen-repair deductible, unlimited battery replacement and unlimited photo and video storage for only $17/mo.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes, I did select that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Amazing! Let's add it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Working on it :D
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Allow me to share with you the price for the sales taxes of the device
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you just give me the code to process the sale I have already in my cart?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh I understand, at the moment the option for me to give you a code to process the order from your end is yet to be available, nevertheless no worries! We're almost done with the process from my end :D
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: is the purple color available?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure thing!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I was carefully checking in my system and since you're upgrading from a samsung device to an iphone, sometimes this gives a few errors in the upgrade process. This might be the reason why the page wouldn't let you process the order, In this case to complete this process and to order your device it'd be necessary to contact you to the billing department, may I have your permission to transfer you to the billing department?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes, no problem
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you! I will transfer you now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for contacting PSG, please allow me a moment to review the reason for your chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you. Just to confirm you're contacting us to get help with device purchase, is that correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm going from a Sansung to a iPhone so she said it gets kicked to your department.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm not sure why
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me check
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please confirm the line number you are looking to make changes on?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you 
+ '
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if you are using online website or MYPSG app to place the order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes, I was originally just trying to get a code
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to process the order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please clear cache cookies on browser and try now and let me know if you face same issue
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: how do I do that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Are you using myPSG app?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i'm on my computer
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I kow which is the browser you are using to access the website?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: google
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On your computer, open Chrome.
+  At the top right, click More Delete browsing data.
+  At the top, next to "Time range," click the dropdown.
+  Choose a time period, such as the last hour or the last day.
+  Check Cookies and other site data.
+  Uncheck all the other items.
+  Click Delete data.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+

@@ -1,0 +1,1048 @@
+Speaker: SENDER_AGENT
+Text: Hi! This is Gex from PSG Mobility Sales Team. I'm a live agent ready to assist. May I have your name please?
+Summary A: Customer inquired about setting up PSG Fiber internet service and inquired about the possibility of a seasonal/vacation hold for both internet and cable service. The agent assisted the customer in selecting an internet plan, clarified the month-to-month payment option with no contract, guided through the application process, and provided information about suspending the internet service during vacation. The customer successfully placed an order for PSG Fiber internet service, received the earliest installation date, and was informed about the process of suspending the service during vacation. The agent directed the customer to contact the cable team for information regarding cable services and resolved the customer's inquiries satisfactorily. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Jane
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi, Jane! It is nice meeting you! How are you today? how can I help?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I ask are you an existing PSG wireless customer or a new one?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What is bottom line price for Internet <systemically redacted> Doesnt give me total for taxes fees and other fees?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It states $55 dollard
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I need internet nott mobile phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure! I can help you with the cost of internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For me PSG Fiber 300 Mbps, it costs $55/mo. with autopay and paperless billing discount. It doesn't give you the exact cost with taxes and fees as it depends on the state's tax es and fees regulations.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: She lives in [******] Michigan
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To set proper expectation that I understand you want to know the exact taxes and fees however as I am from Mobility sales Team, this is out of my expertise.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can I have a phone number to call someone please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And Sorry but I wasn't signing up for Mobility
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand that you really want to know the exact taxes and fees. Let me reiterate that it depends on the state regulations that apply. So to say, your taxes and fees at your state and city will be different from such of Texas.
+ 
+ Moreover, this typically around $4-$6/mo. One way for us to find out the taxes and fees that I can share is checking your bill from your service provider and look for the monthly taxes and fees. Thus, the same amounts may apply.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok Thanks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great! Can you help me with the full service address please? So I can check what's the best available internet service in your area?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> [******]  Michigan
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you help me with the ZIP code please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. Thank you! Checking on it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for waiting! As per checking here, PSG fiber internet up to 5 GIG is available for your service address. Since you have me here on the line, I can help you with setting up your internet service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you are receiving my messages I can resend them if needed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can it be set up to pay month to month We are caring for my 86 year old mother that needs <systemically redacted> care? No coontract right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh I hope both of you are doing fine. Yes, absolutely the payment will be month to month. It has no contract.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok Checking with my sister
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure thing! I will stay here on the line while you check with your sister.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will be posting messages to keep our chat active while you check with your sister.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: k
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK we want it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Awesome! Let's go ahead and process it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Here's what will be your estimated bill for Fiber Internet:
+ 
+ PSG Fiber 300 Mbps $55/mo. w/ autopay and paperless billing discount
+ 
+ Your estimated total monthly recurring charge: $55/mo. before taxes and fees,
+ 
+ Please note that you will still pay one-time installation fee of $99 until the credits apply. As the discounts/credits will reflect within 2-3 billing cycles where you will receive catch-up credits along with the waived installation fee for setting up Fiber Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The FCC requires PSG to offer you Broadband Facts about PSG's plans to help you decide on a plan. Let me know if you would like me to email that to you for any of the plans discussed today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well I already know we want the <systemically redacted> plan? It says I get <systemically redacted> gift card if do it online
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think I read those online
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, you will also get the $100 reward card here on my end. Also, if you have any existing internet service, we will cover the termination fee via reward card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no internet service That's our problem and need for interes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: internet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. No worries, the $100 reward card will still apply if I will process it here on my end. And we can select the soonest installation date for your Fiber internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great! By the way, do you have a preferred date of installation for your new internet service?
+ 
+ For internet order updates, can you help me with your:
+ Active Email:
+ Best contact number:
+ 
+ Preferred time for contact/installation: Morning/Afternoon
+ 
+ Time:
+ {voice.creditcard.digitsTranscribed:*:**}am-{voice.creditcard.digitsTranscribed:**:**}am
+ {voice.creditcard.digitsTranscribed:**:**}am-{voice.creditcard.digitsTranscribed:**:**}pm (Noon)
+ {voice.creditcard.digitsTranscribed:**:**}pm (Noon)-{voice.creditcard.digitsTranscribed:*:**}pm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ill use my internet address and phone number: {customer_delayed.email:XXXX@XXXX.XXX} and cell phone is k<systemically redacted> My mother has dementia also so I have to use my information. HMy moms name is: [Name]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We need ASAP someone is there <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for the info! Sure, we can name the internet service under your name. sure thing! We can check the earliest date for installation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like us to install it in the morning 8-10am?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they just installed fiber in my neighborhood so I do plan to check at a later date.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's perfect!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Before I send the secured link for application form, may I ask do I have your final permission to submit order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In case we lost connection during the chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes you have my permission
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you! To protect your personal information we will send you a secure link via SMS or email to enter your important details for credit verification, Please let me know which phone number or email address would you like me to use to send the link?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {customer_delayed.email:XXXX@XXXX.XXX}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please make sure to fill out everything in the form especially SSN and driver's license to avoid potential additional phone verification.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The link was already sent on your email, please access the link {voice.ssn.digitsTranscribed:****} you received.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My mothers information correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you would like the account to be under your name then the informatino should be yours.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK sometimes it takes awhile to get emails
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand! You can see the link either on your primary email folders or spam folder.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please click it once you receive it. Thank you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: haven't received yet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh thanks for letting me know. how about I resend it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: nothing in span or junk
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Im in kind of a dead zone at timmes?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. I resent the new link.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK still checking and did refresh emails
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure thing! Please let me know if you received it. If not, I will be sending it on your phone number instead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My phone a piece of #### but ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Still nothin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No problem. I will stay here on the line while you work on the form. I will be resending the link through your phone nmber ending in ####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The link was already sent on your SMS, please access the link once you received.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: w
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: got it on phone still no email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh since the link was resent and accessed using your phone number, you can go back to the SMS with link I just sent and fill out the form. No need for the email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Are you seeing the form now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK but im getting her social security number Didn't antivcipate that
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh thanks for sharing that with me. Please note that the system may require further verification and the accountholder (your mom) should be available for a call verification. The best option would be to put your own details instead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Getting driver's licsne number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure thing! I will stay here on the line while you work on the form.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: but I might sign up for your services at my house is that a problem
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be no problem at all since it will just be an additional service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Does it matter who makes paymenthosse are in her name cuz t
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No problem with the payment. You can use your mom's checking account ofr the payment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Once activated you can contact us back so we can set it up for you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I ask how is it working the form?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: form no longer appearing on phone when I press the lnk
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh let me resend it again.\
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The link was already sent on your SMS, please access the link once you received.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: still no email its [EMAIL]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The new link is sent to your phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please click it once you received it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: got it on phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great! I will stay here on the line while you work on the application form.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Posting this message to keep our chat active.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: k i submitted in
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. Thanks! I will be processing your internet now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will let you know the earliest date for installation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: what about payment info
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The payment info will not be needed yet. You can set it up once your internet service is activated. 
+ The system is asking us a series of questions so credit eligibility can be verified. I appreciate your patience with this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 1. On which of the following streets have you lived?
+ [Street Names]
+ NONE OF THE ABOVE
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: none
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 2. At which of the following, now or in the past, have you worked? Please note that some answers may be abbreviated.
+ [Company Names]
+ NONE OF THE ABOVE
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: my mom lived on ## street
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: none
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. Thank you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 3. In which of the following cities have you lived?
+ [Street Names]
+ NONE OF THE ABOVE
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: none
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 4. In which of the following counties or county equivalent (Borough, Parish, etc.) have you lived?
+ [Country Names]
+ NONE OF THE ABOVE
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: none
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: got it. Entering these info now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Proceeding now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great news! the earliest installation date is tomorrow, June 20, 2024 10AM-12noon.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect. Wokring on it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Congratulations! Your order has been successfully place. Here is your order number, {voice.voiceCCTruncate:**-***************}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank yhou so much
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ive noted order number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're most welcome! Please note that the installation date will be for tomorrow 10AM-12NOON. We will be contacting your number once our technicians arrive.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Does PSG have seasonal like vacation mode like Spectrum and Comcast. Im a snowbird and need to know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you share with me the details of this vacation please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: well we go to florida 6 months of the yeaR i HAVE SPECTRUM in florida and I put it on seasonal hold for a nominal monthly cost
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And when I leave michigan Iput my service on seasonal hold with comcast for a minimal cost per month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that's why I need to know if you guys offer this cuz I would need internet and cable
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: from PSG
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh thanks for sharing that with me. One moment here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for waiting! For the internet service, yes, you can request to suspend your internet service if you are away from home.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For wireless service, the bill will still continue if you have an installment plan on a device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: cable too right and how much is it per month for this hold
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Your cell phone service doesn't work in my area
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would need internet and TV
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for interest on our cable service however this is out of my expertise. No worries, I can direct you with our cable team so they can help you better.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ill do it another time. I am leaving to kgo have dinner
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I ask what is your zipcode in your area? So I can check if we have service there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: you do A representative was here yesterday and he couldn't answer this question
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries this will be quick.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Checking on it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Seasonal hold / vacation hold is what they call it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for waiting! as per checking here, we have up to 5G+ service in your area.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: youre stilll charged a monthly fklee
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You can contact us back and tell us that you will be suspending your internet service and then state your reason and we will process it for you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok but how much does it cost per month to do this
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Im sure its a flat fee for both services
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Checking it here
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for waiting! Discussing it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: k
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A fee of $35 is charged to restore service that has been suspended for non-payment for PSG Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I kwant to pay per month not stop making payments
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, you will be paying month to month then once you decided or need to stop your internet service for a while, it will be called suspension of service. Then once you are back and need the internet service, you can contact us back and pay the restore fee of $35 to have your internet service back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So probably same thing for tv service, right
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: so I would pay this twice. Like 70 bucks to have service restored
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It is best to contact our cable partner to get more accurate details as it is out of my expertise.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok Thanks I just got a text to finish registerig?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, you can finish it now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is this regardiing your online accoutn registratiom?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You can register to it however it will only be activated once the internet service is installed and fully activated.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes. It says register your accountaccou
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: creating user id and passwords
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect! then you can register to it, once your internet service is installed and fully activated, your online account will be fully acitvated too.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok thank you and have a nice night
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're most welcome! I'm glad I could help you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I want to make sure that I was able to take care of you today. Is there something else I can help you clarify?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You've been helpful.. Thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It is my pleasure to help you today!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have I provided you a 5-star satisfaction with my ability to assist you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for the 5 STARS it would impact me to be a great agent representative continuously to provide you great service in the future thank you so much! appreciate it!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for being so nice, patient and polite, I really appreciate it. Should you need further assistance, please don't hesitate to chat us back or contact us at https://www.psg.com. We're more than happy to assist you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You are now free to go. Again, this is Gex from PSG Mobility Sales Team. Happy to help! Thank you for contacting us. Have a nice day \^.^"/
+Summary A: 
+Response: 
+Answer: 
+

@@ -1,0 +1,1254 @@
+Speaker: SENDER_AGENT
+Text: siete uno
+Summary A: The customer contacted the loyalty department of PSG to cancel their account. The agent guided the customer through the account cancellation process, including providing a security pin and confirming account details. The customer confirmed the cancellation and was provided with a cancellation order number. Additionally, the agent mentioned sending an email for the interaction details, and the customer had no further questions regarding the service.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchísimas gracias por comunicarse con el departamento lealtad de PSG hablas con con quién tengo el placer de hablar el día de hoy mm mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: nombre es marcia con mi cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: mucho gusto señorita me podrías confirmar motivos que no te alcanza escuchar bien lo último
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: como
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te alcanza escuchar bien lo último señorita qué fue lo que dice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita entiendo perfectamente yo te ayudar con ese procedimiento entonces el día de hoy listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: aló
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mi nombre es más ya yo necesito cancelar mi cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: yo te voy a ayudar con ese procedimiento el día de hoy dice señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí está bien
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me podría dar por favor el número de la cuenta o el número celular vinculado a la cuenta por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo muchísimas gracias señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: número de la cuenta es [ACCOUNTID]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me podría dar por favor el código de seguridad la cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: cero
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el código de seguridad de {voice.cvv.digitsTranscribed:******} dígitos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: de casualidad tienes algún servicio algún otro servicio con nosotros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita bueno como tal ese no es el pin de seguridad
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: de casualidad tienes algún otro pin o algo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita puedan hacer lo siguiente
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: como tal con el pinde con el pin de seguridad no podemos ingresar así que te va a mandar un
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y no [PIN] yo no sé
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: un pin a tu correo electrónico listo que necesito que me verifiques por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: usted va el día un {voice.cvv.digitsTranscribed:***} p
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: un pin de seguridad a tu correo electrónico
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: este [TEMPPIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me lo podría repetir por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: darle muchísimas gracias señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me estamos entonces ingresando como tal dice te quería preguntar el número {voice.cvv.digitsTranscribed:**** ******** * **** ***** ******* ********* ******* * ***} es un buen número de contacto para comunicarnos contigo por si la llamada se llega a caer
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:*****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: muchísimas gracias también te quería preguntar el correo entonces marcia punto pago la punto m p m pun arroba gmail punto com es un correo para comunicarnos contigo esto correcto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: cero
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale ya estoy viendo este procedimiento igualmente te quería preguntar señorita por qué motivo desea hacer este procedimiento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh claro no entiendo igualmente te quería confirmar el donde está el servicio es {voice.cvv.digitsTranscribed:*** ******* * ****} will ver y wilberth el n cos con código postal {voice.cvv.digitsTranscribed:*********** ****** ******** * *****} carolina del sur
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y los servicios y no bueno acá estoy con otro servicio ahora
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no no no cancelado
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale señorita igualmente y es por eso porque no te está funcionando de pronto el dispositivo o o hay alguna razón
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: vivo en esa dirección
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no estoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:***} meses eso para no usar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ya no en esa dirección sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo estoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo estoy no no {voice.cvv.digitsTranscribed:*****} en la cada que yo vivo ahora es una área
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh okay no discúlpame entonces no le entendí la situación porque pues de que sí ya sé esa es la nueva dirección es como tal lo haces por qué te mudaste
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: vale no entiendo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita igualmente yo sé que tus días con nosotros porque tú estás con otro del {voice.cvv.digitsTranscribed:*** *** *********} igualmente agradezco salta entiendo que ya es por un tema de que nos llegó más allá así que darle no te preocupes yo te ayudo con este procedimiento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y no tiene mucho bueno si no de internet acá la única internet que tiene es de otra compañía
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale ya en este momento si digitando la el motivo que es porque no no hay cobertura me podrías dar la nueva dirección
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no hay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: eso porque te explico antemano eso para que PSG en un futuro pueda llegar hasta allá y bueno en un futuro pueda tener mejor cobertura llegara más las por cuestiones de calidad tú entiendes y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale me la podrías dar entonces por favor la nueva dirección
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: aló señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: a lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me me la podrías dar por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me lo puede repetir por favor es que no te escuché bien
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es que no no es
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es quince nueve tres es cero tres
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bueno
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: disto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh so carolina del sur cierto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el código postal cuál es señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:*** ***** ****** **** ***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale muchísimas gracias señorita entonces quería confirmar la dirección es [EXPDATE] main street bueno su caroline {voice.cvv.digitsTranscribed:*********** ****** ******* * ***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale muchísimas gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: estoy procedimiento listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: a lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: igualmente
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita mientras hago ese procedimiento te quería preguntar y qué tal vez en carolina del sur qué tal vez el a el clima
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: digamos que no te quisiera dejar tampoco en espera
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: como
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces son últimos que quería confirmar entonces ese
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: esperando
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: tiene {voice.cvv.digitsTranscribed:******* * ***} my phone you su caroline {voice.cvv.digitsTranscribed:*** ***** ****** **** ***} esto correcto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es más correcto es {voice.cvv.digitsTranscribed:****** ***** **** ***** ****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: {voice.cvv.digitsTranscribed:****** ***** ****} disculpa {voice.cvv.digitsTranscribed:****** ***** ****} hecho bueno yo sus cargos {voice.cvv.digitsTranscribed:*********** ****** **** ***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: seis tres
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ah no sí señorita pues no so te decía es por cuestiones de calidad la que sí me hace motivo pues colocar ese motivo dice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no entiendo entiendo lo que tú dices pero pues entiendo que es para que pueda mejorar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: igualmente pues no te preocupes yo lo hago con todo gusto te quería preguntar dónde está uh tiene de casualidad alguna persona a la cual le quisiera transferir la cuenta tú sabes que ese proceso podría yo alguna persona que pronto llegue a estados unidos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:*****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: de casualidad tiene alguna cuál sería la cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: todas las portugués
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh okay súper portugués señorita bueno permíteme unos minutos acá sigo trabajando para ayudarte la mejor forma
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:**** ****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo muchísimas gracias señorita en este momento sigo trabajando por ti
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh bueno
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te quería decir necesito que no tiene el siguiente número
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: disculpa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cance el siguiente número señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:*****} número
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: permítame u unos minutos acá sigo trabajando por ti
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:****}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí está trabajando para cancelar mi cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: por favor para comunicarme contigo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: aló
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí so muchísimas gracias por su tiempo de espera señorita está confirmando la información bueno tienes de casualidad papel y lápiz ahí cerca tuyo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bueno necesito cannot es el siguiente número
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: a lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: un momento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí un momento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: darle
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el número es
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: veintinueve veintiocho noventa y ocho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hecho ocho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hizo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ocho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dos ocho nueve ocho cinco cero tres dos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cero tres dos nueve
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ese es su número de cuenta que vamos a hacer con tu número de cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm ajá mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: vamos necesito que que ya es el dispositivo que tú tienes de internet aho you p s o fedex dice señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: disculpe que yo tengo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo tengo pero ya todo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el dispositivo internet el que es de internet dice señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh pues a un ups o fue con el número de cuenta que te di no necesitas colocar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no necesitas colocar otra cosa no necesitas colocar dirección no necesitas colocar algún otro tipo de información personal por qué porque ese numerito
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ese número como tal tiene toda tu información listo señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: está ahí sí me entendiste o alguna duda que tú tengas
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo no entiendo yo necesito hacer ahora ahorra
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo cómo cómo yo puedo porque
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí devolver el dispositivo de internet que tienes de PSG
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: y la
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: tienes que ir a un ups o fedex listo señorita u p s o fedex y llevar el dispositivo dime
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yo necesito ir a a u p s solamente entregar los solamente deja como coger persona
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y lo entregarlo con el número de cuenta que te y con el número de cuenta listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: exactamente es como tal tu número de cuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [ACCOUNTID]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: el tar algún recibo el un
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh no no te voy a mandar con que no no te va a mandar nada sólo tienes que ya lo to a un u p s o fedex con el número de cuenta no necesitas colocar información no necesitas colocar algún otro tipo de dirección o algo listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces permíteme
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: me di cuenta está cancelada ahora zerto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dime
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mi cuenta y está con sábado ahora zerto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te le digo quería cancelar para el día de hoy listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bueno entonces este a llevar una última factura
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: una última factura vamos a ver sí debe es algo si tienes algún saldo a favor o si no debes nada y estás al día listo igualmente te a llegar una última factura listo señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: lo que te digo ahorita llegó una última factura
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh en estos momentos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí va a enviar automá factura para mí por email
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te te voy a dar un número de orden de cancelación listo señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo el número es
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí nombre de
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: setenta y ocho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: noventa y cinco
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: noventa y ocho
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá [CCNUM] [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí ajá
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [CCNUM]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sea tu número de orden de cancelación con esto tiene la prueba de que hoy se canceló tu servicio listo señorita o de pronto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: para pa para confirmar un momento que ocho nueve cinco nueve ocho cuatro ocho siete dos uh and my i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: de cancelación recuerdo recuerda que tiene veintiún días para volver el dispositivo en cuyo caso en qué no se ha devuelto se te será cobrado ciento cincuenta o doscientos dólares aproximadamente listo señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: wanna sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ciento cincuenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: cuánto tiempo tengo para devolverlos dispositivo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: aproximadamente si no devuelve es el dispositivo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: días a partir de hoy y
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: listo señorita te quería preguntar te gustaría decir al correo la interacción que tuvimos el día de hoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no le señorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ah bueno ya entonces hacemos este procedimiento tienes alguna duda alguna que tú ya tu servicio será cancelado lo que te iba me atendía no te preocupes listo ya si no se procimiento tiene la prueba que le hicimos hay alguna duda que tú tengas cualquier duda en serio para poderte ayudar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ahorita
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: solamente eso muchas gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: dale recuerda que le hace cuando no esté quería preguntar como tienes este con mi servicio el día de hoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: la le señorita espero que tenga entonces un excelente resto de tu día
+Summary A: 
+Response: 
+Answer: 
+

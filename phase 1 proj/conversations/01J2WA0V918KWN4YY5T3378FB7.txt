@@ -1,0 +1,1680 @@
+Speaker: SENDER_AGENT
+Text: Hello good afternoon. Thank you so much for calling PSG. My name is rusty. May I please have your first and last name.
+Summary A: Customer contacted regarding the service not being restored despite the payment scheduled and issues with old account still being active. Agent suggested making a payment for the past due balance to restore the service and proposed moving the service from the old address to the new one to address the issue with the active old account. The agent set up an appointment for the service to be activated on the seventeenth, disconnected the old service, and provided compensation for the inconvenience caused. The customer agreed to the proposed actions, and the issues were resolved satisfactorily. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it's gonna be Benjamin, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, it's your first name was been Jimmy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, thank you so much for confirming that you mean by that we Good afternoon, how are you doing today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My yeah? My first name is Benjamin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm doing good as well, thank you so much for asking, how can I help?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi, so my wife called earlier, and she said, uh, our service got shut off because we didn't schedule a payment. And then we She scheduled a payment earlier, um, and then the lady told her that the service should be the WiFi should be turned back on within like an hour and two, and it still hasn't been turned on yet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry. Just please allow me to confirm Benjamin you already paid the bill. However, your service is still not working? Is that correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I scheduled a payment. And my service is still not turn off.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Four eight, four, six 0z Two, four, seven, four, six.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, I'm sorry to hear that I'm so glad that you called me today, Benjamin Let me review the details of your account and from by the resolution in case we get disconnected. What is your PSG cellphone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much. Let me validate the account first bear with me for a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, thank you so much for all the information, Benjamin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nine seven one one copy?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: converse Texas, seven, eight, one 0z nine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh was able to pull up the account, uh, before I received Can you please confirm the service address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nine seven one one correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's the house number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see one moment. Let me go ahead and check that one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: moment, Benjamin, please bear with me for a moment, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Actually, checking on it. I just need to pull up the right account bear with me for a moment, but you any chance? Do you have the account number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The account number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, uh, would you mind to provide the account number, just to make sure that I'm working on the right, account because the system is actually detected.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh I can get it, do you need it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, so one account should be should be Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This on the cellphone number, ending in four seven, four, six, there's two accounts The tech to be our system.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: One account should be canceled, which is two eight eight cents street.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment, and the way.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment. Let me go ahead and confirm this one, first.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, you can you please confirm again the four digit passcode?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh Sorry, the service address is gonna be nine seven one one copper rep street, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm not working on the right, account Benjamin just please bear with me for a moment, OK. I just need to double check. What happened?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment, I'm still checking on it, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If you don't mind me asking, Benjamin When was the last time you made the payment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For this account. The one and the one with nine seven one one service address is it. You just made the payment today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm actually checking on it, but I actually
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I notice on this account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh, yeah, I said, for today, but so The question is is is it two eight eight center street the one for California is that service canceled yet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because if it's still charging me for two eight eight street there's no way? Because I cancel that service and May I talk to someone, and we it my service to Texas, then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That the the WiFi which should have been shut off already.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It seems like the other account still open. But let me go ahead and confirm, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, it because there's no way I'm paying for for the service, but still on?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't even that they're
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're actually correct, but let me go ahead and confirm the top and OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So did you move your service into this?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: scheduled for to be turned off a long time ago.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I I scheduled the the service to be transferred over in May, and then they came out May sixteenth I believe something something close to that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, the current service address, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What they actually notice.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On this account. One moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It seems like the order, created to cancel this service is actually
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It seems like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It went through to cancel the service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All right, there you go, I do see here? You Benjamin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Four D account on the two eight eight cents a unit service address is still an active.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, the order created do they actually No, this is the order created for to cancel the service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Did not push through.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So to cancel.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This Uh this account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: They sent appropriate department who can further assist you concerning. That is actually from our retention department.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can connect you over to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then they They told me since I already transferred my service that there's nothing else I need to do that should be cancelled already the the service address in this, though.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just kind of stay on the line I do apologize for the experience Benjamin, but I'm gonna make sure now that disconnected to the right, department who can further assist you can send.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome just kind of piece of stay on the line, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi, how can I help you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi, so, um, I am trying to get my service turned back on because it was supposed to be back on four hours ago when my wife schedule, the payment, but I still haven't turned on so then. I also just found out that you guys never canceled my old address is service, so I'm still being as I'm still paying for my service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me get inside the account, so I can help you properly, OK? Can I get your account number. Or maybe the phone number, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: number is four eight, four, six 0z Two, four, seven, four, six.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, the best callback number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to make sure it's the account under your name.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm just trying to pull up the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm so sorry. Can you all provide or confirm to me the four digit passcode just to make sure I got it correctly.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Five one Nine one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: First, I was able to pull up the account, but I just I have assigned seven one one couple rock converse Texas of an eight one 0z nine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is account this account. Right now is currently suspended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just check the notes on the account here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, and you so my wife called earlier because I'm able veteran, and we we told them that we're on I'm on a fixed income, but I said that I able to pay by the end of this month, and she said, okay, is long as the payment is scheduled. I think she scheduled it for next week should that the service will be back on within an hour to two. And it's been at least four to five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But why did the lady see something different and see that everything was done everything was completed. And then at your store. And then, then Now you're telling me that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, Benjamin with this one. I'll be transferred. And do you OK, uh, as I check it here, uh, currently on this account. It has a past due balance of a total of uh, four hundred thirty dollars, and one cents Uh for us to be able to restore the service, uh, we actually need to Um made the payment of this for the past due. So, uh, the service can be restored? That is the option that we have here on our end, uh, I tried to work on that I understand the situation? We need Internet, of course, uh, but then again, uh, no matter what I tried here, uh, it is, requiring us to make the payment for the past due, so the system will open, and, uh, have your service. Back up again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's not gonna be restored. So what? What's the difference like Is there someone higher I can speak to? Because there's no way I'm getting two different stories, and I'm not? I've been sitting here waiting for an hour for someone, just to tell me that like that there's There's That's something wrong. There's got to be something on their
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How does it accurate If you literally either four hours ago told me it's gonna turn back on and then Now you're just saying no. I can't their mind. Sorry, like that doesn't make sense, like, I understand. Yeah, I got a past due, but I, but I am a disabled veteran right, I I don't have a lot of money today because I can't work, so I'm gonna pay the the balance. I understand that I have to pay the balance. There's no There's no If you're questions of what I am gonna pay the whole thing and probably next month as well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And There's and and I apologize for the trouble with this one? We are in the highest escalation so far with the Department of PSG. We are Multi service export. So we are the one who can provide you the most to accurate information, uh, that we are seeing on our system. Because we have somehow an advanced one, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But Right now I do the WiFi to even find a job, I can even accept me, but I can't even get that because you guys tell me first? off. Oh, you can't turn it on, but then you can. So is it? Is it like what's going on here, uh, let's see here for four hours, waiting for the WiFi to turn on, and then I call back. And now you guys saying you know put me on hold for almost an hour. This is see now? You can't anywhere.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean, that's kind of the kind of messed up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So just the the payment was already scheduled. It's scheduled for next week, the lady said, since it's already scheduled. As long as I pay it that day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The service should be restored today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I said OK. No problem. I'm gonna pay that day. No problem. Okay then She said that's fine. And then she told me everything was good for today? Awesome, she said, okay, service restored in within one hour to two hours. Okay, so now. I'll wait and then it's not on, and then, now you guys tell me you can't turn it back on. So what was the point of me, even scheduled the payment What was the process Why would you even Why would you even tell me that? Oh, I'm gonna get the WiFi if I'm I'm not gonna get.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh normally. It should be the store, if the payment will be processed. So I want to be missus process, that's what. We mentioned that. It should be restored within our own four hours.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm double checking or details, here I apologize for the trouble, but I'll make sure that somehow proper uh, the screen already option will be provided. Because we should only provide accurate detail, I'm checking that payment Um schedule that you mentioned, uh, because he ran. My
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That makes no sense, does it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Base here on my end. I haven't seen any scheduled payment as of the moment, so I am just making sure that I am working with the right deal here, so just a moment, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, because I also have confirmation that my payment was scheduled. So the There you go again. Just just not telling the truth.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The confirmation Uh how many accounts. So yeah, with PSG, uh, first this one that is suspended one on the copper rock, then you mentioned that, uh, there's still an open account under your name, which is on the old the address, I can take care of that that's focus on one, um service at a time? Do you also have cellphone service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me just check, OK? Because Uh me see on your internet account I'm not seeing any scheduled payment Let me just refresh the system real quick. Maybe it's just a bit delay, but I'll go ahead and double check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So what? I am seeing here. Let me just check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Something like that payment arrangement that, uh, you worked with the the previous representative a while ago, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For your cellphone account, and not for the Internet.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, because that that account in California, I talked to you guys about that maybe three times already. You guys said OK. It's gonna get canceled is gonna get cancelled and You guys are still gonna make me pay for it, even though it should have been canceled. Back in May, that is two months now that I'm gonna be paying for? I should not have to pay for at all, because I transferred my payment on my service to Texas, because I moved to Texas, and then you guys have everything was gonna be taken care of, and then it's not taken care of, and then Now it's just completely just all messed up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So we?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But my My cell service has no problem with it. So, why would she turn that on if it's are been on like I had no problem with.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I Double check the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Again, um, the arrangement was set up for that account, um, I believe the amount you set up with four hundred seventy eight dollars and ninety eight cents?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes. All that's be taken care of. I understand that already, but so, but she said OK. We called about WiFi so see then there's There's another problem why you guys not listening for We said the wifi is returned off my phone has never been turned off. It's no problem, right? Now I understand everything is still do I get that, but the problem I have is the wi fi not the phone and We never talked about the phones once to that person is just completely just doing the wrong thing again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm just trying to work with some process here, OK? Give me a minute or two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, so Benjamin with this one. I'm afraid I don't have the option to have it restored I even tried to do some work account and also overrides here and take a but even with my immediate supervisor, but then again, help you understand, we can only work with the system that we have here, as part of the retention team of course you want to do, uh, for you to have the service that you're uh, of course, having here, but then again. Right now, it is, requiring us to make a payment for that past due to have it restored?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: About
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's the question I have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, go ahead.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: About
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: About
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Eight is that account done now, or what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: about that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can go ahead and definitely take care of that for you, uh, I'm not pulling this one up. Let's focus on that second account here that is not supposed to be active. So let me work on this. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can even backdate that for you, so the charges can be corrected as well. We apologize for the hassle of Uh you getting another charges for that for in you're not supposed to, so just a moment, OK? I'm working on this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Did you guys get rid of the other account the California account because that I mean, how much is on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So that this is two eight eight center unit two 0z One should have a sec alifornia Nine one Nine one zero.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I just really have to ask the special been but I clear the understand that this is so it's no longer supposed to be active, by any chance, on this, uh, California, address, maybe you know someone a friend or family or the new rental for that unit if they are interested, we can offer transfer of billing sales hassle for you as well, uh, taking care of the equipment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: By any chance on this old address that you moved out. Do you know someone a friend or a family or the new rent or if they are interested, we can do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What was that again, sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Of billing
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, I do not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you again what I am trying to do here. I will back date this one, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm working with the back be cancellation OK, I'll give you an update.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm still working on the back, they cancellation But, uh, while I finalizing everything well. If you OK if I put the call on hold real quick. It may be silent, but Don't hang up, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Welcome, I'm just making sure to take care of this California, address, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for patiently waiting I apologize for the hold. So I'm still working on here for you, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, and then I had a question as well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes. Go ahead, ask you a question.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, sorry. Sorry, uh, so I was wondering you know how the calls are recorded?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: way I can you can pull up that call from with my wife.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: definitely want to make sure there's no confusion.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I'll go ahead and work on that, uh, I'll have my supervisor on this one. Why do we uh, can I sure if you some more information here, so we can be on the same page, uh, I noticed on your old location, uh, what you are having this Internet one thousand megabits per second. The So that's ninety dollars every month that you're paying before I noticed something new location you are provided two thousand did you requested that two thousand and u, p, s.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, because it's one hundred fifty five dollars. That seems to be the reason why you're also paying Uh quite higher than uh, what you paid before, um, so just to take advantage of happening. I know this is so much of a hassle. And you even tried to set up an arrangement here because, uh, it seems like can I confirm We're not capable of making a payment today. So, how about this since this is the standard process, uh, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, i, uh, it either result be canceling a service, because the old service, uh, on the California supposed to be no longer active, uh, why don't we just try, uh, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Move the service from California, uh, to the Uh converse Texas, because that is actually the standard process, when a customer is moving from 1 address to another end to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You on that I'll go ahead and provide you at the three two months of the service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But that is for moving.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't remember. I thought it was a thousand.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, that's perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And then, um, just to make sure I want to be very honest about the details, uh, of course, three phone calls are really recorded Um, the address. That was newly created, I will it cancelled since either ways. If the payment will not be processed almost like it will be canceled due to the high amount of the past due here so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well cancel that you'll receive a notification advising you, uh, that you need to return, uh, the equipment associated with the account that, uh, that has the amount of one hundred fifty five dollars month, you're eight, and then we'll go ahead and move, uh, the California one, because again, either received the account will be canceling uh, a one of so why don't we just Uh work on the moving.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, what's the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll give you three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But let me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The dates here, OK? Because since This will be a transition a move of the service, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll check the date that I can go ahead and, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: send you the new equipment to just a moment, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So again what we will do is cancel the suspended account since you were created and your account. Instead of just moving the old one. So, then your location, um, with that at this, you will not be immediate the required to make the payment, and then we'll move the old one on the California The Texas, and, uh, provide your fee two months of the service, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll discuss you as well property.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The service that you will be getting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One that you address, because I want to make sure that we're on the same page. I'll make sure to document everything properly, uh, that you agreed to the products that you will be getting and the pricing OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So what? I'm working again cancelling of the converse Texas here since it's already suspended not working. But if we did, uh, we keep it active most likely, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Continue so let's just close this account. That's the problem, knowing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bear with me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So now I'm working on the move process, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nine seven one one copper rough converse Texas, seven, eight, one zero nine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, just a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, uh, with this one, um, I'm already on the process of moving the service. As I mentioned I'll double check everything first before finalizing this so, uh, I wanted to ask, by any chance, um, uh, first the speed up the service, uh, for the two thousand the one that was, I mean the one that you used to have one thousand, that is ninety dollars every month, but on your new address on, Texas. You were provided two thousand.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh how do you normally use your internet just to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh me and my wife both work from home?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your connection on the old address, how is it the set of buffering when you're working from home? Or is it perfectly fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh, I mean it was a little slow, but I mean we didn't mind it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I want you to decide if you want to take the two thousand one hundred fifty five dollar monthly rate, or the one thousand ninety dollars monthly right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't mind the two thousand, I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, okay, I'll go ahead and do that, but definitely free two months, just to compensate with the trouble that Uh happened, sir, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, I'm just still checking. More information so with this one, since we moved the service, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: There might be another appointment. Here, uh, it shows here. There will be another technician appointment, but nothing to worry. This is just to make sure that again, since we made some changes and transition so at least they can go ahead and update everything for you, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Internet, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You and so with the service not be turned on until they come back or or will just
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll check, um, I'll check the best date that we can, uh, have this appointment for your technician uh, because again, s, I Double check it here either. We, the old service, I mean the service with the Uh balance the one that we're disputing while ago I really don't have option to have it restored. So, uh, you set up an arrangement for the account when the second, so I'll try to at least get an appointment earlier than that, so you can have your service up and working and again guarantee the two months, I'll be going ahead and process it for you, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like What? What happened?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I want the scheduling part just double checking.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can have it. At least, this one as early You're seventeen you get an appointment on seventeen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh by that?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: When they arrived, they can already have your service restored it said ten a M to twelve or twelve to two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh what time?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Twelve to two.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To two is fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just make sure to document everything that we talked to. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This service, uh, on, California. Since you are no longer there can, uh, we go ahead and Cancel it effective, uh, which would be today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, and again, three two months, just to compensate with all the trouble that you've been through, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm working on that already.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: your email address Spencer uh, one, two, three, at Gmail dot com.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh with this one, uh, since we are making a change on the plan from old California account, which is one thousand, uh, to the new Uh moving of the account the two thousand of C, c requires a T and t to offers to send broadband fax on your email. Would you like to receive that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh, I'm fine.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, no need.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so Benjamin, uh, what you will be keeping us your service, moving forward, which will be the active one is, uh, the three two two seven, four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Seven nine four nine 0z OK. This should be your active service moving forward. We're setting up an appointment here for you. So the technician can have it, activated on the seventeenth Instead of waiting for the uh, for the other account to be restored Uh up on making a payment on the twenty second and also
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your installation. May I reach the four hours, but since You're already fiber optics ready did it may take it may be quicker so Please have someone eighteen years old, and above a tone when your technician arrives between twelve to two on Wednesday July seventeenth two thousand twenty 4, uh, your service on this old address on California, I have it disconnected effective, uh, immediately, uh, you can contact us any days prior to the two date If you wish to make any change, uh, also.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me just check.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm just documenting it at the same time, so sorry. I want to make sure it's Uh notated here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Also, um, remember to uh, do you still have your equipment for this old the address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No need.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, so kind to keep that for the meantime, because you will receive an email advising you whether you need to keep it or cycle it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If it required, uh, no need for a box or a label simply take it any u, p, s, or FedEx store give them the account number return it within twenty one days after the Disconnect date avoid the non return equipment fee of a hundred dollar for item?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Also
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just a moment. You need to return it on or before, uh, seven, uh, We provided you on the move order Internet two thousand one hundred fifty five dollars every month and again definitely You can have the first two months fee, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Work on this, uh, this will start on your next month's bill on words, and for the meantime, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, since the service on the Texas area has been used, uh, you will receive a final billing statement for any adjustments are credits on the balance may reflect We have that that canceled already, so you will also receive an email advising you whether you need to return, or return that equipment, since it has been canceled, uh, the technician will make sure that your service will be up and working and perfectly fine OK, um, keep an eye on your email. So you know exactly what must be done, you can, um, bring both at the same time if both of it are for our return and just make sure to provide the two account number. Since this is associated with two different accounts, but if the other one is forty eight, uh, the technician will let you know about that, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh well. I'm almost done, so we may be needing to settle this four hundred thirty dollars, and one cents since it's What's used, but I highly recommend for you to just wait for your final billing statement, and that would arrive by around July.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Twenty four on words or twenty five, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm just completing the notes here almost done.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just completing the documentation, as well as the order numbers for the cancellation and for the move.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: almost done here. I am just making sure. And double checking everything, especially the three two months offered that I mentioned to you on the move order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so we're definitely done here. So, uh, we already moved the service and also
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You'll just have to wait for the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Work on this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For the notification on your email and again. Wait for your technician appointment this old service, uh, this California, this will be moved to your Texas location OK, um, and again, um, three two months of the service will be provided to compensate a way that the has Of course the charges. Step has been generated for this account for it was not supposed to be, uh, charged anymore. I have everything noted here, but just to make sure they have additional concerns was just clarification.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much, spell I'm almost done here, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No. Everything's great. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, thank you so much, and we're all set. Thank you so much, Benjamin for allowing me to work with you today, and the Of course for your patience. It says tried to work on some options, and, uh, information's here, and if If you're given a chance to provide your feedback on how I assisted You look forward, so it's I'll also try to Uh have my manager. They can look on what happened with the previous phone call, because we are never being populated to provide wrong information over the phone, just to Um, and the call? Here, try Now I'm happy I was able to help you today, and, of course, uh, compensate you with a hassle.
+Summary A: 
+Response: 
+Answer: 
+

@@ -1,0 +1,624 @@
+Speaker: SENDER_AGENT
+Text: Hi, this is Glen Who do you have the pleasure of speaking with today?
+Summary A: The customer contacted the agent to inquire about a $20 discount on their account. The agent verified the eligibility requirements for the promotion, created an order to apply the discount, and informed the customer that it may take one to two billing cycles to take effect. The agent confirmed that the order has been successfully placed, and the customer acknowledged the assistance and confirmed that they could see the order created. The customer expressed gratitude for the help and indicated that they did not need further assistance. The call ended on a positive note with the customer thanking the agent for their time and assistance.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mohammed debit
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi, mister Mohammed. How are you doing?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Good, how are you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, so I'm calling regarding two different accounts for the first account number is ########
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So this is the Internet account that I closed, uh, there was a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's pretty good to hear well. I'm doing great as well, so Thank you for asking, sir. But tell me what's going on, how can I help you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Back which I never received.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh well. Let me check here then. Hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can see here, sir, based on the history of the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: They refunded you, is it the twelve dollars and ninety five cents.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I see. It was refunded sir. That was on August, four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How did the refund?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay. card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, that's what I'm trying to check if it's physical card was.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bear with me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, so the second account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please ### Mohammed. I'm sorry. I'm actually still waiting for the you know response of our back office. But Right now, I'm still waiting for that, sir. For the second account, what's the problem?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My internet ending ######
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is combined.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What of that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, this is, combined with my wireless.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My wireless account number is #######
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it and Can I have the pin code or passcode Both of the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, well what happened here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I agree, uh, let me take a look at that {voice.cvv.digitsTranscribed:***}, then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh Let me check on the account was created on May, uh, Is that where your Uh cellphone service also created on May
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So both both the accounts are connected and for PSG rules I should be getting a credit of {voice.cvv.digitsTranscribed:******} dollars. And that's what they were advertising that if we combine our wireless and Internet, then you know we'll get a discount. It's been {voice.cvv.digitsTranscribed:*****} months, I have not seen that discount on the statement, and every time I call They said that it will be reflected on the next Bill and next bill, and it's {voice.cvv.digitsTranscribed:*****} bills now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, huh?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, yes, my know my cellphone services old.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it. Let me here then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This This account is new account created the Internet, because I moved, so I also also moved my cellphone, so my cell phone and internet on the same address.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so right now, um, sir. With this one. I can see here that I need to get uh, with our EEE department, so that we can apply the discount if it's eligible uh, of course, um, so that I can check also with myself, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll need to speak with them. First, I need to choose stay on the line, uh, mister Mohammed uh, you can put me in speaker well still waiting, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you bear with me, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so currently right now, while still waiting for the other line, um have representative on the back office. Or, uh, I see here that Uh regarding the credit. That's to be refunded the actually just process it. On August for us as per checking and They mentioned that we need to wait at least within {voice.creditcard.digitsTranscribed:***} weeks, it will be delivered directly through your billing address, uh, directly, sir, uh, via visa prepaid. card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, the the the credit. Right the {voice.creditcard.digitsTranscribed:********}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, dollars and {voice.creditcard.digitsTranscribed:****** ****} cents.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for that Sir, please bear with me. Okay, I'm still waiting for the representative from the back office right now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you for calling hands up or team, my name is elders, and my PSG I D is, h, as with a Y, s bank e. certified ## May I please have your
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, sure. My PSG your I D is Lima, Charlie three seven ##
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I actually do have a customer, uh, they have already an existing service for the wireless service, and then the representative offered him to process a Uh internet service way back, May, uh, where we offer all in one offer getting a twenty dollars discount on the Internet, and that was promised to him, but Up until now, they didn't get it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you. And what can I do for assist you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh, so we're just wondering if can I guess you can help us out with that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, for the account number for Internet is three, three, four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, we can take a look for sure, and see what's happening, do you have the account number, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Four three seven ### and then If you want to have the wireless service, uh, account number so that for you to check the eligibility. It's four, six, four 0z nine four three, ####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, allow me to open the Internet one first one moment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, sir. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, can you please confirm with me the name, uh, from the customer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, for the Internet, um right now, the first or the new newly created is under sachin tendulkar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, sorry, I just I think I got the account wrong, so it's three, three, four, #####.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, I'm sorry. It's three, four three It's three three, three, #####.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No problem, then the open.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: about that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, no worries. And did you authenticate his account with a customer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you well. Let me open this account and I'll go ahead and open the wireless one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Did you open ticket this account as well with the customer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, I need the help of the arch? Or, we do a visual audit to see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, if we cannot the only one promotion and I'll let you know in a Please bear with me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Guess Thank you. I also need to refresh the customer, if that's the case, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: absolutely no problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you, hold on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, so right now, Miss mohama to give, uh, mister Muhammad to give you an update I'm actually speaking already with one of our Uh representative from back office. They're checking the eligibility on the account to get a twenty dollars off, please bear with me, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, I'm back. I'm sorry about that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Not a problem, I'm still trying to see, uh, what just doing the visual office just a moment, and I will confirm.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you, I will.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, yeah, this account has a requirements?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you. Yeah, take your time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To have the only one promotions. Right now, I'm proceeding to create the order to audit OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, sir. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to mention that this take one to two billing cycles to take effect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, that is OK, I sauce, we have the order, um, you know, I'm done. I can just explain that the customer to the customer.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, thank you. Well, allow me a couple moments, and I'll be right back to confirm I'll be working on this. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you, that's OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you. Right now, the order? That is just loading in a moment. I'll be right back to confirm that has been placed. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, sir. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh, thank you. Yeah, uh, Let me check your very quick.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you, so the order has been placed if you would like to check everything should being ordered this time you let me know if you have another console. I, uh, add the only one, uh, order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, I can actually see that you already created an order with uh, well, thank you so much for your assistance, then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do you need help with something else.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, I think that's it for today, um, again. Thank you so much for your time. Then, and for assistance.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No problem. Thank you for calling in hand, support team We have a good day. Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Bye.
+Summary A: 
+Response: 
+Answer: 
+

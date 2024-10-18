@@ -1,0 +1,52 @@
+Prerequisites:
+
+1. Ensure Python is installed.
+2. Install dependencies via the requirements.txt.
+
+Steps:
+
+1. Clone the project directory:
+
+2. Navigate to the folder where the directory is located.
+
+3. Install the necessary dependencies:
+
+   -> Use pip install -r requirements.txt to install all necessary Python packages.
+
+4. Steps:
+	4.1. Clone the Project Directory:
+
+	4.2. Open a terminal (use `Ctrl + Shift + `` for quick access).
+
+	4.3. Navigate to the location where you want to clone the repository and run:
+
+		->  git clone https://github.com/yourusername/Hallucination-Detection-System.git
+
+	4.4. Navigate to the Project Directory, Move to the project directory using:
+
+		-> cd Hallucination-Detection-System
+
+5. Install the Necessary Dependencies:
+
+6. Use the following command to install all required Python packages:
+	
+	-> pip install -r requirements.txt
+
+7.Start the Backend Services Using Flask:
+	-> python app.py
+
+This will start your Flask application and set up the backend services required for processing.
+Run the Frontend:
+
+8. Navigate to the frontend directory (or ensure you're in the main directory where hallucination_checker.py is located) and start the Streamlit app:
+	
+	-> streamlit run hallucination_checker.py
+
+9. Open the Application in the Browser:
+
+After running the commands, check the terminal for the local URL (e.g., http://localhost:8501).
+Open this URL in your browser to access the user interface.
+Using the Application:
+
+The Streamlit UI will allow you to upload text data or summaries.
+Enter the details and follow the instructions on the screen to check for hallucinations in the text.

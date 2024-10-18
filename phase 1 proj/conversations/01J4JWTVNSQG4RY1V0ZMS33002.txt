@@ -1,0 +1,180 @@
+Speaker: SENDER_AGENT
+Text: Thank you so much for contacting PSG! You reached the Online Sales Department. This is Edith. May I know your name please?
+Summary A: The customer contacted PSG Online Sales Department to place an order for upgrading a line but kept getting an error on the payment page. The agent suggested trying to place the order for delivery and mentioned that if the issue persists, the customer can visit a store to complete the process. The customer decided to order the iPhone 15 pro the next day, with the option to visit a store if needed, and the agent thanked them for choosing PSG before ending the session.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Shanna (****)
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Shana nice to chat with you. How can I assist you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m trying to place an order to upgrade a line and I keep getting an error on the payment page
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For line <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok, allow me a moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Under federal privacy law, it is your right and our duty to protect your account information. May I use your information during this call to discuss products offered by PSG companies? Your decision will not affect your service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank youi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will send you a one time pin could you please confirm it to me
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To the line ####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know the device you are gettin please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: iPhone 15 pro
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Color?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Black
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 128 GB?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Why am I getting the error
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just need to place the order for ever I have picked out
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I really can see it, I am placing the order thorught my system to see what it shows me
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If we complete it will be for delivery
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Otherwise, you can go to the store and do all the process there
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Why am I getting the error?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I really can see why, as I mentioned before the only why is trying to place the order but it will be for delivery
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’ll order it tomorrow
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Ok, I hope you can complete your process or if you need to pick it up you can do all the process at the store
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have a nice night, and thank you for choosing PSG!
+Summary A: 
+Response: 
+Answer: 
+

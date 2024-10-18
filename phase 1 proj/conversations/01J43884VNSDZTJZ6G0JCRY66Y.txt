@@ -1,0 +1,104 @@
+Speaker: SENDER_AGENT
+Text: Thank you so much for contacting PSG. My name is Juan, From Online Sales Assistant Department. How can I help you today?
+Summary A: Customer contacted PSG to inquire about their TV account. Agent provided the customer with the contact information for ECE department which handles TV and internet services. Customer was satisfied with the information provided and expressed gratitude before ending the session.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is this my internet account or the tv?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: to check that I need to say the following.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Read to the Customer:
+ Read to the Customer:
+ "Under federal privacy law, it is your right and our duty to protect your account information. May I use your information during this Visit (Retail) / Call (Call Centers) to discuss products offered by PSG companies? Your decision will not affect your service."
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can see that you have many accounts linked to you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: some from internet and others for TV
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok, I need info on the TV ones
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We have a department that is in charge of TV and internet services, you can reach ECE at 800-288-2020
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is there anything else I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No that is all thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Are you interested in the PSG plans for mobile devices?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have I provided you 5-star satisfaction with my ability to assist you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Our chat session is now ending. Thank you for choosing PSG! We appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+

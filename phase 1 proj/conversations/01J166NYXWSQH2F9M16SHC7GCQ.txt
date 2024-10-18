@@ -1,0 +1,646 @@
+Speaker: SENDER_AGENT
+Text: Thank you for contacting PSG You have reach the Online Call back Department, this is Jason and i will be helping you with your request today. Who am I speaking with?
+Summary A: Customer wanted to trade in their iPhone 12s for an iPhone 15s without the watch and iPad deal, inquiring about the cost. Agent provided the costs for trading in an iPhone 15 Pro and an iPhone 15 Pro Max, as well as details about the protection plan. Customer decided to upgrade to three iPhone 15 Pros and one iPhone Pro Max without the plan, sticking with Apple Care. The order was successfully processed for three iPhone 15 Pros and one iPhone Pro Max, with address verification and next steps explained to the customer. Email notifications were to be sent for further order details.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This is Dana. I want to trade in my iphone 12s for iphone 15s but without the watch and ipad deal. How much will it cost me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, ill be more than happy to assist you with that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to confirm Regular i phone 15, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for being a valued PSG customer we appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes, the iphone 15 pro
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for letting me know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I get your permission to access your online account?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Under federal privacy law it is your right and our duty to protect your account information. May I use your information during this call to discuss products offered by PSG companies? Your decision will not affect your service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is your devices in good condition?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, the I phone pro with trade in will be $8.34 monthly for 36 months
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case for all 4 of them will be $33.36 extra on your monthly bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How much if one of them was the iphone 15 pro max?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, now checking
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I phone 15 pro max will be $13.89 for $38.91 extra on monthly bill
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: With 3 Pros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How many gig are the phones?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We currently have <systemically redacted> gig
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 256GB For pro max and 128GB for Pros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: is there a <systemically redacted> pro?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We also have the protection plan for all devices with Unlimited storage for pictures, videos or documents. This is great because besides having all new devices protected against screen repairs for free, lost, stolen and theft cover. And also, battery replacements, this is only $50 a month and you won't have to worry about nothing
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Consider to 4 devices is $12.50 per device and you will be covered with unlimited storage access as well. This is an exclusive offer for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We have apple care right now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How much you pay them?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 10 at phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Keep in mind apple care has only 2 battery replacements, we are unlimited. 
+ Screen repairs for all devices are $0
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Unlimited claims
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Same day replacement if device is lost, damaged or stolen
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: does it replace a phone if it is damaged and unrepairable?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thats correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: is there a deductable if it's unrepairable?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For 15 pro max is $275
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: what about the 15 pros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is around $260
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Besides that, all is $0 
+ Screen repairs, Battery replacement and having unlimited storage
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The 256GB on pro will be only for apps
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Same as the pros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: 128Gb only for apps
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to move forward on upgrading devices?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: is there a <systemically redacted> pro?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes thats correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That one will be $11.12 a month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So what would the cost be for <systemically redacted> pros and <systemically redacted> pro max?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be $47.25
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If you do the <systemically redacted>mo deal that is with a trade-in but you need to sign up for services for an apple watch and ipad...correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be the same since the I phone 12 is around $700 credits back to you. 
+ The apple watch SE 2022 will be $0.99 a month 
+ I pad 9th generation is $0.99 a month but this offer expires in 2 days
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We will need to activate a data service for each watch or i pad. The watch is $10.99 and i pad is $20.99
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok yeah no we don't want to do that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok I think we would like to upgrade the phones. Three iphone 15 pros and 1 iphone pro max all <systemically redacted> We do not want the plan. We will stick with apple care.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So the <systemically redacted> a month I think it was
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That is correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to make sure, was there something you didn't like from the Protect plan i mentioned you for all devices.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The deductible for replacement
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: my son can be rough and he has replaced his phone twice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I know you have apple care, but as your friendly agent our benefits are more beneficial compare to appe care
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh i see, in this case if is only screen repairs will be ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: they replace it for a new phone for <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no he has need a full replacement twice
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: that would have cost <systemically redacted> with your plan
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Have in mind they don't have unlimited claims as we do. And probably deductible sounds very high but compare to side benefits like battery replacements are $0. So they charge you $100 for that but will charge you also for other stuff.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no thanks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please consider that with Apple Care you only get 2 claim per year, with us you get unlimited claims per year, also we have Tech Support specialist for all device types, and we have the unlimited photo/video storage, same day replacement for FREE in screen and battery, performance promise done by the ATT ProTech App and streaming support, which Apple Care does not include.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Also, if you are looking to get with Apple care, keep in mind that you are looking save, and the price will be including an agreement with them.
+ In the other hand, PSG is going to helping you with out extra cost of materials and without contract 😊
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: As a friendly expert, I had the opportunity and tried both services, and you know, being honest, since I had to pay $300 to replace my screen, I wanted to look for a better option, and the truth is PSG was the best, I recently destroyed the screen of my device and I didn't pay anything for the replacement, which helped me have enough money to buy a new watch for my daughter. 😊
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no thanks... we will stick with apple care
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: can we do the upgrade please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now working on it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Only on today's transaction the system will request the sales tax payment of the device.
+ I will share with you the accurate amount before placing any order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: We are NH. There is no sales tax.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, i will send you a pin to begin with order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Which number last 4 digits is good with you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now sent, please provide it to me when you receive it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now making the request for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What colors would you like for devices?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: what colors are there?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We have for pro max, Black, blue, White and Natural titanium.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: As well as for the pros
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: black for the pro max
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: two blacks and white
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to make sure all on 256Gb correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for your patience, working on your request
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: great thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please keep in mind that the trade in credits takes between 2 or 3 billing cycle to start applying, they are retroactive, that means that the first 2 bills you'll pay the normal price of the device and in the 3rd bill you'll have the money back and the trade in credits will start applying. Is important to mention that you have only 30 days to trade in the current phone, you can mail it back or taken directly to an PSG store
+ 
+ To make the trade in of the current device just go to this page https://tradein.att.com/start-trade/find/devices you select the device that you are going to trade in and after that answer some questions, is important to mention that is necessary to enter "TRADEOFFER24" that way you'll get the trade in kit or the trade in label
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please confirm for me shipping address for delivery
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> Brady Ave. Salem, NH <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now that we've completed your order let's go over the next steps: You will receive 4 emails that will provide important information about your order today:
+ 
+ The first email has a link to the PSG Consumer Service Agreement, which you'll need to read and accept before we can ship your order. You can also visit www.att.com/tc and enter your wireless number to accept the agreement
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will now talk to another department in order to validate the Order today, please allow me a moment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Which email will it go to?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The other department wants to validate some information with you, may i call you now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now calling you
+Summary A: 
+Response: 
+Answer: 
+

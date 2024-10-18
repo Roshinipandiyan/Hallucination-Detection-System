@@ -1,0 +1,729 @@
+Speaker: SENDER_AGENT
+Text: Hi, my name is Hope! How can I help you?
+Summary A: Customer inquiring about PSG Fiber plans, equipment, and reward cards, seeking recommendations. Agent provided information on included equipment, reward card options, recommended the 1GB plan for the customer's needs, and facilitated the signup process. Customer signed up for the 1GB plan with a $250 reward card, installation scheduled for August 2nd between 2pm to 4pm, enrolled in autopay, and paperless billing. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello I was looking into your fiber plans but I had a few questions.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do I have to but the modem and router with these plans?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm happy to help you with our Fiber services, may I have your name?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Also what can the reward card be used for?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Caitlin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case with all our internet services, the equipment comes included at no extra cost. On the other hand, When redeeming your reward, you can choose from multiple retailer reward cards, which include:
+ -PSG Visa (usable anywhere VISA is accepted)
+ -Amazon
+ -Walmart
+ -Best Buy
+ -Target
+ -Top Golf
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you today Caitlin!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me help you reviewing our local offers and deals in your area. Can I have your full address and zip code where you're planning to establish service?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, I will get the modem, router, and the <systemically redacted> reward card when I sign up for the <systemically redacted> mbps plan?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> Greenspire Dr. Apt.{voice.creditcard.digitsTranscribed:*} Portage, MI <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you very much, let me double check for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for your patience
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Upon checking in my system, I don't see an internet or cell phone account under your name with PSG at this address, am I right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes that is right. I will have to create an account because I am moving into an apartment at the beginning of August.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for considering us today!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Typing down the details regarding our offers, just one moment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great news! Fiber internet is available for your address! Regarding your request about the reward cards, I was verifying and you are eligible to get the ${voice.creditcard.digitsTranscribed:***} in Visa reward card with {voice.creditcard.digitsTranscribed:***}Mbps plan, in addition there is not installation fee, no equipment fee, unlimited data included at no extra cost and no contract.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great news! Fiber internet is available for your address! Regarding your request about the reward cards, I was verifying, and you are eligible to get the ${voice.creditcard.digitsTranscribed:***} in Visa reward card with {voice.creditcard.digitsTranscribed:***}Mbps plan, in addition there is not installation fee, no equipment fee, unlimited data included at no extra cost
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh perfect! Would you recommend the <systemically redacted> mbps plan over the {voice.creditcard.digitsTranscribed:*} gig plan for only {voice.creditcard.digitsTranscribed:***} people in a {voice.creditcard.digitsTranscribed:***} bedroom apartment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand you are interested in the {voice.creditcard.digitsTranscribed:***}Mbps plan, I would like to ask you a few questions just to make sure that this internet plan works good for your needs.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Not a problem. I would like to ask you a few questions just to make sure that this internet plan works good for your needs.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How do you and your family use the Internet?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Quite frequently. There would be two TVs, two phones, two game stations, and a computer using the internet. Not at one time, but within the apartment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sounds good! PSG provides the higher internet performance for your daily activities, you will be able to do streaming, browsing and watch your favorite online content, also you will be able to enjoy of unlimited data included with symmetrical speeds
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How many devices do you normally connect to the internet at the same time including, phones, consoles, computers, etc?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would say four at the most.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Amazing! It seems you’ll need a reliable connection to drive all your devices without any problem, in addition PSG provides you the equipment at not extra cost to ensure the 99% of reliability in your service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to confirm, in that count did you include cellphones as well?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes I did.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, thank you! Since you mentioned that you will be connecting your cellphones to the internet, can I know if you do this to save data usage or to reach a better internet signal?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When will the reward card be sent?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: normally to recieve better signal
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Within {voice.creditcard.digitsTranscribed:**} days of activation, you will receive the redeem instruction via email or mail. {voice.creditcard.digitsTranscribed:****} you have redeemed the reward, you can expect it to arrive in the mail within {voice.creditcard.digitsTranscribed:*} weeks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Do you connect smart-home devices to the internet like Alexa, Roku or security systems?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There is one alexa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you! Please allow me to check your details and find the best plan for your needs!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: While checking for the Fiber plan that suits you best, I found a great deal if you bundle internet with cellphone. Today, I can get you 20% mo off. discount in your Fiber bill. The more lines you add to the cellphone plan, the better the discount. Would you like to hear additional details about the offer so that you can begin saving?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No I am not interested in a cellphone plan but thank you for letting me know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Don’t worry, I understand that you would like to continue just with this service today, I wanted to let you know that with PSG you will get amazing deals by bundling your services like $20/mo off in the internet plan. Also, you will be able to brand a new iPhone/Samsung with unlimited data, call text, etc. In case that you have an old device eligible for trade-in, we could check the estimated billing credits you can get on the new cellphone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I have fantastic news, our super-fast/reliable PSG Fiber 1GB will work perfectly for you! You will be able to enjoy high internet performance with our symmetrical 1Gig up and down speeds, no buffering or drops watching your favorite online content. Also, this service is great for working from home, schooling or video conference without any interruption, and for online gaming this is the best speed you can get! In addition, you will get unlimited usage at no extra cost + no contract.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The price of fiber internet {voice.creditcard.digitsTranscribed:****}mbps would be ${voice.creditcard.digitsTranscribed:**}/mo + taxes with Autopay and paperless billing, and the equipment will be included with the service at not extra cost. Also, you will enjoy of professional installation waived saving ${voice.creditcard.digitsTranscribed:**}. In addition, by ordering online you will get ${voice.creditcard.digitsTranscribed:***} in Visa reward card and unlimited data included for free.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The FCC requires PSG to offer you Broadband Facts about PSG's plans to help you decide on a plan. Let me know if you would like me to email that to you for any of the plans we discuss today
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just refreshing the chat to avoid losing connection, no rush
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you for your recommendation!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're very welcome!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I’m pretty sure you won’t regret by choosing this plan! Let’s complete this order! Can I get your contact phone number and email address please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If I sign up for the plan online will I recieve the same benefits?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Absolutely! However I can help you so we can make sure all the rewards are properly applied to your service
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And we can verify the best installation date and time frame for you in August
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Will I also recieve the ${voice.creditcard.digitsTranscribed:**} gift card with the GAMING50 promo code
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct, to make a total of ${voice.creditcard.digitsTranscribed:***} reward cards {voice.creditcard.digitsTranscribed:*** *}GB speed
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can see you are typing, just refreshing to avoid losing connection
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think I want to sign up for the <systemically redacted>mbps plan today and then I can upgrade later if needed. Also can I create the account for my boyfriend? He is sitting right next to me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, no worries, we can have the service under your boyfriend's name. In this case my best recommendation would be to start with the 1 GB, in this way you can take advantage of more reward cards, once you receive them, you can downgrade your plan at anytime through myATT app
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Staying on top of your PSG account is much easier with the myPSG app. It allows you to manage your account, pay your bill, change your plan and much more.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay than we will do the 1 GB plan
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, to start the process, may I have his phone number and email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mikemccurdy<systemically redacted>gmail.com
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you very much, working on it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The system will perform a soft credit check to see if an advance payment is needed, however no worries, it will be a soft one and your credit score won’t be affected, I will send to your cellphone number an SMS or thru email with a form for you to enter your personal information. Please open the SMS/email to fill out the form, if you don't see the submit button when you're done with the form, rotate the phone screen.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Take your time to fill it out and let me know once you finish
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright he is filling out the form now!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks :)
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just refreshing the chat to avoid losing connection, no rush
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: He finsihed submitting it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The Autopay and Paperless billing discount is included in the price ${voice.creditcard.digitsTranscribed:**}/mo if enrolled with a debit card or bank account or ${voice.creditcard.digitsTranscribed:*}/mo when enrolled with a credit card. This discount would start within {voice.creditcard.digitsTranscribed:*-*} bill cycles, and they work as retroactive credits, so you'd get refunded what you paid on the first/{voice.creditcard.digitsTranscribed:***} bills. Would you like to enroll it now? you will have the option to enroll it in the next {voice.creditcard.digitsTranscribed:**} days through my ATT app as well, to enjoy the discount
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes he would like to do a debit card or bank account
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfet, before enrolling the autopay, may I know what August date do you prefer? We have the entire month available, except for Sundays
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do you have any times August 2nd or 3rd?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yup, we do have 2nd and 3rd, what time during the day better suits you from one of those days?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Anytime after 12 on the 2nd would work great.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, for August 2nd, it would be between 2pm to 4 pm, would be that ok for you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes that would be!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Wonderful! Now for the autopay enrollment, I will be sending you a new secure form, similar to the previous one, let me know once you receive it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Did you receive it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no not yet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries, let me try to resend it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: My pleasure!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: He recieved it now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, talke your time
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It was submitted
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you very much
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: AutoPay Authorization Terms and Conditions
+ 
+ 
+ 
+ You have agreed to automatic payments, which we call AutoPay. 
+ 
+ Your selected payment method will be charged in the amount of each monthly bill on the draft date shown on your bill.
+ 
+ We will keep this payment method on file for AutoPay and may receive updates for the payment method from your financial institution.
+ 
+ If you later wish to cancel Autopay, or change your payment method, call the Customer Care number on your bill or visit att.com.
+ 
+ Changes are not immediate and your payment may process before your request is implemented.
+ 
+ Cancelling your account does not cancel Autopay.
+ 
+ Continue to make payments until your bill shows Autopay is active.
+ 
+ 
+ 
+ Please answer "Yes" if you understand and accept these terms
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: IT seems that the card billing address information provided was incorrect, let me try to resend you the form to double check the info
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: My pleasure, thanks for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: your patience *
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Did you receive the new form?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no not yet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me try to send it via text
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: He got it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, let me know once you finish
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: he submitted it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks! Now it was successfully enrolled
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your billing date is assigned after the order is submitted, & you should receive your first bill within 30 days of your service connection/activation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now, do I have your permission to submit the order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you review the order and what I will recieve?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Absolutely!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It would be for 1GB speed, for $80.mo + tax, $250 reward cards, with autopay and paperless bill enrolled, installation date August 2nd, between 2pm to 4 pm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: During the PSG installation day, an adult (18 years or older) must be there present during the entire visit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Also will I get the ${voice.creditcard.digitsTranscribed:**} gift card the same way that I recieve the <systemically redacted> gift card?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct! It would be a total reward card of ${voice.creditcard.digitsTranscribed:***}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Perfect! You can submit the order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Congratulations! Your order has been completed. You'll receive a confirmation email that we've received your request. You can create and/or sign into your account at att.com/MyATT.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You will soon receive the myPSG Quick Account Registration email, please be sure to open it and click the link to complete the last few steps. {voice.creditcard.digitsTranscribed:****} done, you will have {voice.creditcard.digitsTranscribed:**/*} access to manage the account, check usage and view or pay the bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Order Number:
+ {voice.voiceCCTruncate:**-***************}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your feedback is very important for me, before we part ways, I would like to perform a brief recap.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you for your help!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now that I have helped you placing the order for fiber internet {voice.creditcard.digitsTranscribed:*}GIG {voice.creditcard.digitsTranscribed:*** $**}/mo+taxes with autopay and paperless billing, unlimited data and equipment included at not extra cost, including in your order ${voice.creditcard.digitsTranscribed:***} in visa reward card and service without contract, installation for August {voice.creditcard.digitsTranscribed:*}nd, {voice.creditcard.digitsTranscribed:*}pm -{voice.creditcard.digitsTranscribed:*}pm, Is there anything else that I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No that is everything. Thank you!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for choosing PSG. We appreciate your business. Have a great rest of your day! ♥
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You too!
+Summary A: 
+Response: 
+Answer: 
+

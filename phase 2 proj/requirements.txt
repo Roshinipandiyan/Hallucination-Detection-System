@@ -1,0 +1,4 @@
+emoji
+googletrans
+torch
+sentence_transformers

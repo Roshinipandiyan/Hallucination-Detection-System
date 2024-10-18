@@ -1,0 +1,144 @@
+Speaker: SENDER_AGENT
+Text: Hi! My name is Zoe. How can I help you? 😊
+Summary A: Customer inquired about purchasing two Galaxy watches and connecting them to existing devices without having separate phone numbers. The agent explained that in order to purchase the watches in installments, a new line with a separate phone number would be required. However, the customer can sync the watches to their phone to receive calls and messages seamlessly. The customer was satisfied with the explanation and agreed to proceed with adding a new line for the watches. The agent transferred the customer to the billing department for further assistance with the order.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I would like to purchase two galaxy watches. Is it possible to have them connected to our existing. Devices rather than having a new phone. Number for itb
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I dont want the watches to have their own numbers.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi there! I am happy to help you with the info of your new watches
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can I have your name, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Peter Parker
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand that you would like to add to watches to your account, however in this case it is necessary to add a line for your watches to purchase them in installments.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you Peter! I truly hope that you are having an amazing day
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm happy to pay yo advance. Line but they have to have their own phone numbers?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm happy to pay for another line*
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So if someone wanted to call me they would need to call my watch separate from my phone?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Or if they called my phone it would come through on my watch?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case since the watches and phones have different phone numbers, however you can sync your watch to you phone and you can totally receive your calls and messages there without any problem
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: must have different*
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Perfect!! Thats what I was hoping for
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Amazing!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thabk you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Have a good day
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You are more than welcome!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Peter, in this case I can transfer you to our billing department and there we will be able to assist you with the order of your new watches
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sounds good?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Our chat session is now ending. Thank you for choosing PSG! We appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+

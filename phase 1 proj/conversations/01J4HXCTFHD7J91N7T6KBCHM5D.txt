@@ -1,0 +1,270 @@
+Speaker: SENDER_CUSTOMER
+Text: Deborah Smith?
+Summary A: The customer needs to cancel their cousin's cellphone service because he passed away and she has been named administrator by the court. The agent advised the customer to go to a corporate store with a valid ID and the death certificate in order to authenticate and cancel the service. The customer was given clear instructions on what documents to bring to the store for authentication and cancellation of the cellphone service.
+Response: Let's analyze the summary claim by claim:
+ 
+ 1. "The customer contacted the agent to seek assistance with activating a new iPad, replacing an existing iPad on the account, and adding a new iPhone to the plan."
+ This claim is accurate and supported by the conversation.
+ 
+ 2. "The agent helped the customer activate the new iPad, change the plan to add a new iPhone for the customer's mother, and suggested different plan options based on the customer's requirements."
+ This claim is mostly accurate, but there's a slight inaccuracy. The agent didn't actually change the plan to add a new iPhone for the customer's mother. They discussed options but didn't complete the change during this call.
+ 
+ 3. "They discussed the transfer of billing responsibility for the customer's mother's line onto the customer's account."
+ This claim is accurate and supported by the conversation.
+ 
+ 4. "The customer's new iPad was successfully activated"
+ This claim is accurate and supported by the conversation.
+ 
+ 5. "the plan change for the new iPhone addition was initiated"
+ This is a hallucination. The plan change was discussed but not actually initiated during the call.
+ 
+ 6. "and the process of transferring the customer's mother's line onto the customer's account was explained."
+ This claim is accurate and supported by the conversation.
+ 
+ 7. "The customer was informed about the waiting period for upgrades after the transfer and provided with information on plan changes and associated costs."
+ This claim is accurate and supported by the conversation.
+ 
+ 8. "Broadband facts were discussed in the conversation."
+ This is a minor hallucination. While the agent mentioned sending broadband facts to the customer's email, they weren't actually discussed in detail during the conversation.
+ 
+ <format>
+ Answer: Yes
+ </format>
+ 
+ There are significant hallucinations in the summary, particularly regarding the plan change for the new iPhone addition being initiated and the claim about broadband facts being discussed in detail.
+Answer: yes
+
+Speaker: SENDER_AGENT
+Text: How are you today, ma'am, everything good.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm doing fine, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, I need to cancel my cousins.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um cellphone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome. So, how can I help you today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because his passed away?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, I'm so sorry for your loss.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: His phone number is four 0z four.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, Can I please provide me with your phone number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: #####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Alright, can you please provide me with the passcode?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I do not know it know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh to be able to open this account. I need to authenticate it, ma'am.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And I cannot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Without without the passcode?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, how can I do that he passed away unexpectedly No one knows what the passcode is I've been named administrator by the court, and I'm supposed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, uh, all you need to do right now, you need to go to PSG store with this They're They're tiff a kit and your on your I D. But about, but it's need to be valid. Your your I D. And this certificate?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: suggest I do?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, say that again, I need the death certificate. And the my I D.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, but but but That's valid I D, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, you need to go to a PSG corporate sales store.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, do I? Just go to a cellphone store, what do I do?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Corporate store, ma'am Fo of PSG.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you can you say that again, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, and how do I know if it's a corporate store.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok you need to go to uh the PSG corporate store with a valid i d and this certificate
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ok maybe you can go through your nearest store
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean there's a million around me. I'm not gonna go from the store to store.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And they can help you with that.
+Summary A: 
+Response: 
+Answer: 
+

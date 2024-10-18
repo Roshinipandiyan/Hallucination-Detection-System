@@ -1,0 +1,802 @@
+Speaker: SENDER_AGENT
+Text: Hi! This is Andres from the PSG Sales Department. May I get your name? Also, in order to give you a personalized assistance please confirm if you are a new or existing customer.
+Summary A: Customer inquiring about purchasing a new device but had a remaining balance from an old wireless account. Agent suggested two options: pay off the remaining balance to open a new account or add a new line to an existing account for immediate purchase of the new device. Customer opted to pay off the remaining balance and proceeded with the transaction. The order was successfully completed, and the new device was scheduled to be delivered on August 6th, with the payment for sale taxes being the only requirement to proceed. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: New
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great! Thanks for giving PSG a chance to earn your business!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know your name and phone number?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Mike roach
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to meet you, Mike!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How can I help you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like to see how much to order a z fold<systemically redacted>gb
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for letting me know it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case, a soft credit check will need to be done in order to know if a downpayment for the new device would be required. 
+ 
+ If it is not required, only the payment for the sale taxes would be mandatory.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To get started, may I know your billing/shipping address, and your email address?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> north washington st spokane washington <systemically redacted> mikedroach<systemically redacted>gmail.com
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to make sure, would you like to transfer your phone number to PSG, or are you going to get a new one?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: New number and new phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for confirming.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll send you a text vial email where some personal information will need to be filled out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Via*
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Done!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To continue I will need to use your existing credit information on file with other PSG companies, is that ok?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Y yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for confirming!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, the system is showing an error after to retrieve the provided information. No worries, in this case, I'll send you a new link, but to avoid any issue with the form, it will be sent via text message to your phone number.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks, I'll send it within the next 20 seconds.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Done!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It said dl optional
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's correct.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 👍
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How are we lookin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm double checking the address here on the system since it is not being recognized. I appreciate your time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: North <systemically redacted> washington st spokane washington <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries, it worked now! I'm running the soft credit check now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, the system is showing me that there is a remaining balance from an old wireless account. 
+ Past Due Balance: $***.**
+ Activation Date/Installation Date: **/**/****
+ Disconnect Date: **/**/****
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This amount would need to be paid before to continue with the process to open a new wireless account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ohhh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Umm I'm slowly paying my old account and can't we do a new account
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if you would like to continue today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, no worries, thanks for letting me know it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case, the system will require us to get this payment completed before to open a new account. I really comprehend how important this for you is, so another option would be adding a new line to an existing PSG account, so if you have a friend who could add you to an active account, you will have the option to purchase the new device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And once the remaining balance for this account is paid, you will have the option to get your own PSG account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let's try to pay off and see how much the fold is
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If a downpayment is not required, the sale taxes for the new device would be around $182. Just to make sure, would you like to pay off the remaining balance of $680 today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 👍 and when would I get the phone for fast delivery
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Delivers between August 06, 2024, and August 07, 2024, but I can waive priority shipping for you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: 6th is good
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll send you a secure link via text message where the payment of $680 can be completed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Done!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One-Time Payment Authorization Terms and Conditions
+ 
+ We will charge the amount you authorized to the payment method you provided or selected today.
+ 
+ If you later wish to cancel your bill payment, call the Customer Care number on Your bill.
+ 
+ Keep in mind that cancellation is not immediate, and your payment may process before it is cancelled.
+ 
+ 
+ 
+ Please answer "Yes" if you understand and accept these terms.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, now, we can continue without any problem!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if by any chance you have any data plan in mind for the new device?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Cheapie
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice! A down payment was not required. So, only the payment for the sale taxes will be required to finish the transaction.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I mean, only the payment of $182 for the sale taxes will be required to finish the transaction today. You won't need to pay any extra amount to get the device today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok let's go
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if you have any specific color in mind for the new device?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We have: Navy, Silver Shadow, Pink.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Navy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Great!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Our best affordable plan is the Unlimited Starter SL plan, but let me ask you some questions to better understand your needs and get the best option for you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if you will need to get Unlimited talk, text, and High-speed data?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you like to watch TV shows, YouTube videos, or stream movies on your new phone in HD?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for confirming.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Would you need to get hotspot on your data plan?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for confirming.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this case, my friendly recommendation is getting the PSG Unlimited Extra® EL plan. It is only $10 higher than the Unlimited Starter SL plan, and it includes Unlimited talk, text, data + 75GB of high-speed data
+ After 75GB, PSG may temporarily slow data speeds if the network is busy. 
+ 30GB hotspot data per line per month
+ Standard streaming available.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The monthly cost for the data plan would be {voice.creditcard.digitsTranscribed:*** $**.**}/mo before taxes and fees including our discount for having autopay enrolled with a debit card or bank account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The FCC requires PSG to offer you Broadband Facts about PSG's plans to help you decide on a plan. Let me know if you would like me to email that to you for any of the plans we discuss today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No I'm good
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries, thanks for letting me know it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: As you are getting the lates technology with this device, you can take advantage of our Protect Advantage plan, which is just for $17/mo ($0.57 per day), and it will cover the device from stolen, lost, or any physical damage. Also, you will have unlimited screen replacement, unlimited battery replacement, and a lot of extra benefits!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No I'll go with samsung care
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries. Please keep in mind that with Samsung care, you would need to get a contract for the insurance, and there are limited claims. With our insurance, you won't have any contract for it, and you will have unlimited claims.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok ill go
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: U
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, I'm going to add this insurance, so the device will be covered from the first day after to receive it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Are we close to being done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's correct, I'm going to start with the shipping information.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Same as billing
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please keep in mind that your first bill will include an activation fee for $35 and some partial charges, which are a one-time charge.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This will be your new phone number: 509-613-0879
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You will be enrolled in paperless billing.
+ PSG will use the email address you provide to send you:
+ (1) A confirmation email of your paperless billing request.
+ (2) A monthly notification that your bill, bill inserts, and other notices are available for viewing on PSG's online account management site.
+ It takes 2-3 days to process your paperless billing enrollment. You will need to enroll in myPSG Online Account Management in order to view/print your full bill, make an online payment, or de-enroll from paperless billing if you choose to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks. I'm waiving the priority shipping for you right now! In few moments, I'll send you a link to make the payment for the sale taxes, which are for $181.80.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok what's my password
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Never mind What do I need to do
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, you will have the option to create the password for the account later. You will receive some emails to finish the account after to place this order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now I'm in
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't know what to do now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No worries, at this moment, all you need to do is wait until I'm finish the shipping process, so the payment for the sale taxes can be completed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now, I'm going to send you the link to make the payment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Done!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: One-Time Payment Authorization Terms and Conditions
+ 
+ We will charge the amount you authorized to the payment method you provided or selected today.
+ 
+ If you later wish to cancel your bill payment, call the Customer Care number on Your bill.
+ 
+ Keep in mind that cancellation is not immediate, and your payment may process before it is cancelled.
+ 
+ 
+ 
+ Please answer "Yes" if you understand and accept these terms.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Done!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now that we've completed your order let's go over the next steps: You will receive 4 emails that will provide important information about your order today:
+ 
+ The first email has a link to the PSG Consumer Service Agreement, which you'll need to read and accept before we can ship your order. You can also visit www.att.com/tc and enter your wireless number to accept the agreement. If you don't accept the PSG Consumer Service Agreement within 21 days, your order will be canceled.
+ 
+ The second email will let you know your order has been processed.
+ 
+ The third email will let you know when your order is ready to ship. The shipping notification email will include your tracking number and other important information.
+ 
+ The fourth and last email will have a link to your personalized Customer Service Summary, which explains your service plan and details about your first estimated bill. It may be helpful to keep this email for reference.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is your order number: {voice.voiceCCTruncate:**-***************}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now, we just need to accept the terms and conditions, and the order will be shipped!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect, I can see that the terms and conditions were successfully accepted.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know if we are still connected?
+Summary A: 
+Response: 
+Answer: 
+

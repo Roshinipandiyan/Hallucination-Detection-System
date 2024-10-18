@@ -1,4 +1,0 @@
-pandas
-googletrans
-unidecode
-streamlit

@@ -1,0 +1,379 @@
+Speaker: SENDER_AGENT
+Text: Hello, my name is Carla. How can I help you?
+Summary A: Customer was inquiring about upgrading their phone with the payment plan option but was unable to do so. The agent explained that in order to proceed with the upgrade, the customer needed to pay off their current cellphone. The agent also provided options for keeping the current device without trade-in or trading in the current device for bill credits towards the new device. The customer was informed that they would need to pay off their current cellphone before being able to upgrade. The customer expressed disappointment and the agent offered to transfer them to a supervisor for further assistance.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi Clara, I was wondering why I can’t upgrade my phone with the payment plan option
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks for letting me know the info, I'll be more than happy to help you looking for you the reason why, Can I get your name, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Myra (****)
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you Myra, just to be sure, would you like to do an upgrade but with your payment plan option, am I right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much for the info, do you have an account with us?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can you provide me your phone number, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much, to can log in into your account, can I have your permission to log in?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks, Can I have your billing passcode, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don’t know it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Where can I find it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the billing passcode is like a password that you created when you open your account with us
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hold on let me look for it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: for sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It's for 4-6 digit
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the billing passcode is not working, I'm going to send you a forgot passcode
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can you provide me the last 4 of your SSN, please
+ ?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May I know a phone number to send you a pin, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much for the info
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: now, we need to create a new billing passcode, do you have a passcode in mind?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Welcome
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Under Federal Privacy law, it is your right and our duty to protect your account information. May I use your information during this Chat conversation to discuss products offered by PSG companies? Your decision will not affect your service. Please reply either Yes or No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much Myra
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: allow me one moment, I'm checking your account
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I really understand that right now you'd like to get an upgrade with the payment plan option, however I can see that to can proceed with the upgrade, you need to pay off your cellphone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok that #####
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I got your point Myra; I will love to be able to provide you that option but if your current device is paid off you can for sure proceed with the upgrade to get a new device and keep your current one without doing trade in, as another option you can explore the options to upgrade your current device and trade in it so you can get some bill credit apply on the new device price
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So what do I get if I trade in my old phone?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: which cellphone would you like to know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: asking this to provide you an estimated
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I currently have the iPhone 13 Pro Max and looking at the 15 pro max
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks so much for the info Myra, let me check this for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: your cellphone has 128Gb or 256Gb
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me check
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks for the info
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is your device in good condition?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, like new
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Amazing, let me check the info, allow me one moment please
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: At the moment that you paid off your cellphone, the estimated trade in value would be for $1000
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So either way I have to wait till I pay the phone off to upgrade?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: that's correct 😔
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We need to pay off the cell phone to proceed with the upgrade
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well that’s just dumb. Have a good day
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: in order to better assist you, I will transfer you to the supervisor
+Summary A: 
+Response: 
+Answer: 
+

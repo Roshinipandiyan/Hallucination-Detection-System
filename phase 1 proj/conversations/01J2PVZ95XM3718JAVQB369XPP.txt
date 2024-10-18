@@ -1,0 +1,912 @@
+Speaker: SENDER_CUSTOMER
+Text: ah
+Summary A: Customer called to cancel their internet service as they are transferring to a new location. Agent verified the customer's request, provided information about the cancellation process and suggested finalizing the call to proceed with the cancellation. Agent also offered loyalty benefits but the customer declined. Customer confirmed the cancellation of the internet service and provided the new address details. The agent ensured that the service will be canceled at the end of the billing cycle and noted down the account number for reference. The customer expressed satisfaction with the resolution and the call concluded smoothly.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hola muy buenas tardes gracias por comunicarte al departamento lealtad de PSG mi nombre es diego con quién tengo el gusto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hola buenas tardes cómo te encuentras el día de hoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: buenas tardes diego hablas con luis
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: muy bien muy bien
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me gusto que te encuentres bien
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mandó
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cuenta mi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: estoy llamando para anular el internet que tengo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entiendo qué triste permítame ingresar a tu cuenta validamos que pasó y por qué esta decisión bueno por favor un minuto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay perfecto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay quisiera preguntarte si el teléfono tres cero cinco tres cero dos treinta y uno setenta y seis es un buen contacto para comunicarme en caso de que se caiga la llamada o para brindar su información sobre tu servicio de PSG vía mensaje de texto llamadas
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: bueno si desea sí ahorita no lo tengo activo pero se lo lo tienen otra persona
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay y el co si se cae la llamada y estoy hablando contigo tienes algún número de me pueda comunicar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay si puede comunicar te este que es un número que no te estar on
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: un momento cuál sería
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: siete ocho seis ocho nueve cuatro ocho ocho setenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ocho ocho sesenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: setenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te lo confirmo siete ocho seis ocho nueve cuatro ocho ocho setenta
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm sí señor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay es el teléfono personal de casa o trabajo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no es uno que me prestaron una tienda
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh okay tú estás en una tienda de PSG
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm sí señor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: y permítame un momento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know no no sí ya mente no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: bueno vamos a dar inicio en estos momentos te quiero agradecer su tiempo lealtad desde excelente ya que tú estás con nosotros desde dos mil veintitrés me alegría a ver este año lealtad verdad quieres una excelente clienta muy cumplía con tus pagos pero verdad que le haya que tú sabes que con nosotros no hay contrato sin embargo que teniendo en cuenta pues este año y sobre todo esto excelencia como cliente si me pone muy triste esta solicitud déjame saber qué pasó y por qué
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: o sea ya no voy a estar en esta dirección
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: te vas a mudar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: mira PSG te a dos meses gratis si tú tras las el servicio de una dirección a otra
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know no no gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: en este momento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: es que me lo dejara hoy totalmente mi lado okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: en este momento tú estás en una tienda de PSG o ya mente son cosas personales
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí señor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know para cancelar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: pero tú fuiste allá para cancelar el servicio porque lo querías transferir de domicilio
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: uh okay te entiendo y por qué no te gustaría aprovechar estos dos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: hoy pronto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay te entiendo has tenido algún inconveniente con nuestros servicio la señal no es la suficiente
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no no ahorita en este momento no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí señor i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: a lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entiendo señorita mira en este momento tiempo de
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know entonces lo que quiero es que me lo deja por favor anulado porque he tenido la experiencia de varias personas que me han dicho que la internet y entonces sí entonces lo que queremos es hasta el día de hoy o sea que ella ahorita apar está totalmente disponible o lo que sea para otra persona pero o sea que yo te tienen por ciento cuarenta que no hay internet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: una última factura está después de cancelado
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: de un mes a mes y medio y tarda
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el sistema que cuánto lo demore tú me quieres informar la nueva dirección para ajustar la que te llegue el nuevo pues el nuevo bill
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay y en esta dirección
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: el lo que sí yo sé que tengo que pagar lo que tengo pendiente los días que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no sé cuántos días o
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no claro es digamos que en el momento este te va a llegar precisamente con un balance más bien es un pa si es algún documento
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: el tiempo que esto esté con nosotros y muy posiblemente tengas beneficios
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know no no te preocupe i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: pronto ha tenido inconvenientes o es gusto con nuestro servicio
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay porque pues digamos en el momento es la
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know es que cada vez que uno llama es lo mismo le ofrecen y nos hacen a uno
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: claro
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: estoy llamando para resolver un problema no para que me vengan a meter más cosas
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: claro pero sería un problema porque pues en el momento esto sin bolita dinero y te estaría ayudando ahorrarte dos meses de servicio quiero que sepas que para algunos clientes se le sale tan tarjetas de regalo es cien doscientos dólares o sea
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: lealtad
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay pero lo que quiero sí mi amor que te lo agradezco mucho de verdad muy agradecida con todo pero lo que sí quiero por favor quíteme el internet verdad que yo pueda preguntarle a esta gente en la tienda si ya se está disponible para otra persona y eso es lo que yo quiero es es mi satisf acción y me yo sé que me va a llegar y el que queda pendiente del bill
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay el momento hay alguien en este domicilio que necesita instalar el servicio en esta casa
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: mira en este momento tenemos
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: la verdad que no sé mi situación es una que yo me estoy yendo de ahí bueno lo dejo okay entonces nada
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: una herramienta que pues en el momento tú sabes que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: unidos es muy difícil pues comenzar una
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: amor óigame uh uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: en tiempo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: podemos pasar la responsabilidad la cuenta otra persona
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí sí el tiempo mío verdad es o có cómo ajustado verdad entonces yo lo que deseo uno que me tengas una hora por favor ofreciéndome cosa sino que me resuelvan puedes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay te entiendo pues en un momento yo estoy aquí a la final del día para trabajar a tu orden no ten como es solamente pues si pudiera salvar una cliente como tú que se ex el ente pues sería un gustazo verdad que sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay está bien gracias
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay deme por favor dos minutos voy a proceder con esto entonces mientras
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay mientras que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: lápiz y papel bueno
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay perfecto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: a lista lápiz y papel para que tome pues algunas indicaciones que
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: amor sí señor tengo que entregar eso con mm como tengo que entregar eso es aparato
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ya te enseño como antes que todo vamos hacer rápidamente lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: correcto la llamada primero que todo una pequeña recapitulación para asegurarte y asegurarme cumplir con lo que tú solicitas el día de hoy tú
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: para cancelar tu servicio de internet ya que en el momento pues se transfiere de domicilio con este momento esta información de los beneficios que tienes atrás dele el servicio pero me informas de no es que se lo quieres cancelar te pregunto si hay alguien que pueda quedar con la responsabilidad de tu cuenta pero me informa es de que no con eso en mente pero se va a cancelar el servicio por política de privacidad de la
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: en cualquier momento de cancelar un servicio ya sea celular televisión en este caso tu servicio de internet se tiene que hacer siempre hasta el final del ciclo de la factura en este caso tus
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí dime
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: ah
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay pero ya va uh lo quiero cancelado o yo sé que tengo que pagar lo que tengo que pagar pero lo quiero cancelar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: se esta bill y ya tu servicio queda en ceros entonces antes de arte el número de confirmación y de enseñarte como yo ver el equipo yo quisiera preguntarte tú tienes alguna duda alguna pregunta otra solicitud
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay te
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know lo que quiero que quede libre para la otra persona que va y okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: si de casualidad tu recuerdas mi nombre
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: amor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay no te preocupes mira mi nombre es diego y te lo recuerdo por si te llega alguna información con mi nombre es att o por favor que la leas muy detenidamente en realidad eso es importante y me ayuda a crecer mi compañía también quisiera preguntarte si finalizar la llamada te puedo enviar una notificación de agradecimiento por comunicarte con PSG
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no no lo no por favor ahorita estoy en una situación que lo que quiero devolver y otro sería que no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: señorita ya para finalizar te puedo preguntar independientemente los servicios de PSG y de las personas que tengan atendió anteriormente conmigo como sesenta y este el día de hoy feliz o muy feliz
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: bien muy bien no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me agosto
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: por favor toma nota tú tienes a partir del día de hoy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: siendo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: devolver el equipo el internet en una tienda fedex o u p s con tu número de cuenta para así evitar
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: por el equipo te sabes tu número de cuenta o quieres que te lo voy
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no yo me lo sé el número de cuenta lo tengo lo que quiero esperar bien seguro ya personas verdad
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay por favor
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: favor tomás notas de tu número
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ajá
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: cancelación
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: uh exacto eso es lo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay cuatro cincuenta y dos dos ochenta y siete ochenta y nueve cuarenta y seis a mayúscula
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [ACCOUNTID] a mayúscula
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay bye cuatro cinco dos dos ocho siete
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [ACCOUNTID] nada más para estar segura a mayúscula
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: entonces eso sería todo por el día de hoy cuídate mucho que yo estoy bendiga que estés muy bien bueno
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: okay perfecto una pregunta diego ya la persona que queda o qué van a ir uh pueden adquirirlo su yo no soy su internet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: sí
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: claro es más si tú tienes conocimiento de quién es yo te podría ayudar con la solicitud
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no está bien perfecto para eso gracias mi amor muy amable
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: okay
+Summary A: 
+Response: 
+Answer: 
+

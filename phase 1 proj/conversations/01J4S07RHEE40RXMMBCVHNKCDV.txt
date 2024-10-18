@@ -1,0 +1,780 @@
+Speaker: SENDER_AGENT
+Text: Hi, good morning. Thank you for calling PSG. This is Ernest May I have your first name and last name, please?
+Summary A: Customer contacted regarding an unexpected increase in their bill after receiving an email about plan changes. The agent explained that the increase in the bill was due to being on a grandfather plan with additional data allowances, and the amount mentioned in the email was an estimation, not the actual bill. The agent offered options for autopay discounts and clarified the differences between debit and credit card discounts. The customer expressed concern over security and requested a manager callback for further assistance.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hayden
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Matthew. Can I call you, Matthew.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can, uh, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh Can I have your passcode so that we can authenticate your account first.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I'm done with us, indicating your account? I can see in your account that you are eligible for some perks and incentives that you can take advantage of. But Just remind me of this later. Once we solve your concern, OK?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: [PIN]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: OK, yeah, I got a problem here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: are doing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, so OK so, um, how can I help you today, Matthew.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, let me just check here on my account here on your account here first. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Don't worry, I totally understand you there, Matthew.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You sent an email saying, I mean changes on the seventh and I didn't make any changes. And you charge me more money pretty irritating?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, thank you so much. There, Matthew, um, just to ask just to clarify When did you receive the exact when on the exact date did you receive that email.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Last night, OK? Let me just check here first?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Last night.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it's not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, I'm still checking on the on your account here, OK? Just give me a moment, so that we can actually investigate to your account. First, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, I'm still here. I'm still I'm still trying to access here. I'm still seeing here on your account. So, um, that's what I'm seeing. Here, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, OK? Let me just Let me just check here for a moment. Let me just clarify what I'm seeing here on my system.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, thank you so much for patiently waiting there on the line Matthew.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um here. Here is what I'm seeing here on your account here in my end. That's what I'm seeing. Here, um, um, your plan is actually in as a has actually it's fees in ten dollars because you are in a plan a grandfather plan? Because every grandfather plan has increased a ten dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Are you still there?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: per month? Yeah, that's ten dollars in your in the account because you are, m a grandfather plan, and you're also Uh include there, uh, you actually added, um, a hundred a hundred gigabytes of high speed data and a sixty gigabytes of hotspot there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I didn't add anything, yeah?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, my bill was eighty one dollars, uh, your email says the next one's ninety two thirty seven and then after that? It says it's ninety six seventy one What the hell you guys here just raising me and I've done that you guys sent cell phones are made. I'm pretty good off, and both the third you guys out the door.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What's the ninety six crap all bowman this morning, ten dollars, yeah?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's That's for That's for the fees of the grandfather, further plan, that's with the the increase of grandfather plan, so don't you don't have to worry. For the ten dollars. There, because you are actually having a one hundred gigabytes of high speed data or and a sixty gigabytes of hot spots, that's With the increase of the the then face of ten dollars in the grandfather plan.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry. Sorry, uh, just to give you a um, I I totally understand you there, Matthew, um, just to give you, uh, a proper set of expectation Um, the the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The what you call this the the price, that's Um emailed to you is actually just the what you call this the the the estimation That's not actually your monthly, Bill. So, um, as what you as what we as what I'm seeing. Here what you're seeing here on your current Bill is ninety one dollars and sixty nine cents? That's the only That's the only price that you will be seeing on your bill. Or moving forward.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So don't send me these emails ma'am. There's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Guys
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know you said I'm a changes and I didn't That's my a whole other point of calling today, and the prices are outrageous.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not what I'm supposed to be paying Those two things. I'm calling about.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Making changes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And the charging more than I'm supposed to get charged.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's just estimation, if you made changes in your account in the future. If you made that, uh, you will you that that will if it's probably two ninety six dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On this email?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Trust wouldn't bought a call. I don't have to? Because It's a pain. The app if
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And being a grandfather. I should be the first one. It gets a discount, but I'm the one that gets cruise. It's free wrong, by the way?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can I get a problem on the office up this crap. Otherwise I want a paper billing is just to charge you guys more money that I have to pay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, I totally understand you there, Matthew, um, as what I'm seeing.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: is ridiculous.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it's By the way, I mean, I I had to pay hearing that that's really irritating?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, that's what I'm seeing here ever got just to just to give you, um, is what I said earlier, every grandfather plan has actually a face to ten dollars. So the only thing you want to see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Does that make any sense to you, it doesn't mean.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Matthew you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You can talk to. If you don't have to do with this deal with this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: don't want to be charged ten dollars. Let's just straighten that out, uh, I've been hacked by you guys got hacked. I'm one of them, and my bill goes up and then you don't want to use my credit card you want to charge more unless you get a debit card. I mean? That's just not stop.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I guess I want paper billing just to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Have you guys get screwed like I've been getting screwed with you guys.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's uh, that's That {voice.profanity:*****} getting screwed you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sir manager and do a problem, or something I'll set this Mass.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to give you a proper This is very proper expectation. You don't have to worry. For your bill. You don't have to worry. For that because the only thing that has in case there. It's just a ten dollars. So, uh, moving forward. Your Bill is just lengthy one dollars and sixty nine cents and not the other than that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, um, I totally understand you. I'm still talking to, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm still talking here with my
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: With with my
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: With my supervisor, as because actually called call to them because they would. That would take time, so I was not bother you with the time that they would be here, because they're actually on the other department.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You know you know what Um, um, just Um You know what, um, if you want to have less or less, or what you call the lesser
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So They're gonna call me back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I don't want to mess up my {voice.ssn.digitsTranscribed:*******} dollars off from direc t, v, and my free, h, b, O Max That's number {voice.ssn.digitsTranscribed:***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know what I mean?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, maybe a manager knows a way around to offset the town here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um lesser price of the bill, we can actually do a right sizing to your plan?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For time customer I'm getting screwed by getting my price raise for being with you guys, since cell phones were made crazy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: OK, OK, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Matthew, uh, just to just to give you hear the proper This is a proper.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The proper information of what I'm seeing. Here, uh, this is actually a new update of here in PSG ever got father plan only increase a ten dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do I see that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So we could actually do everything.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Right, uh, I can't change it if I changed it, I would lose my fifteen off and h, b, O max. It's and I'm saying?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I got screwed. I mean, that's why I need a manager go over this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: taken over. I I don't know. I think they have the power.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, I totally understand you that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We could actually do a changing here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So if if we have. If there's an if he's of ten dollars. We could have to do anything.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To to like make it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that way you don't get other sorry to give you this, but pretty frustrated.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Less or
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What's the what, but then you get the debit card thing, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, that's not for that, um, that's ask on the {voice.creditcard.digitsTranscribed:***} dollars is for the update of the PSG. That's other than get getting the debit card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's not for that, um, um, here's the things first. The auto pay, that's your option of what discount you will be getting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, but you won't. You're not getting a discount for my credit card anymore you want to debit card, right?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, I understand that, but what's the discount with a credit card debit card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So here. That's just an update an update of the PSG that Every gun father plan will in place {voice.creditcard.digitsTranscribed:** ***} dollars, so?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is there one, there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, a discount of debit is the {voice.creditcard.digitsTranscribed:***} dollars and the discount of credit is {voice.creditcard.digitsTranscribed:****} dollars. It's up to you if you want to change, but I'm telling you, every grandfather plan is actually increasing into {voice.creditcard.digitsTranscribed:***} dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So debit card says {voice.creditcard.digitsTranscribed:****} off, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It to the credit card is the same value as a debit card. That way, I get {voice.creditcard.digitsTranscribed:****}. Off that time to make it only a {voice.creditcard.digitsTranscribed:****} and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hacked?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Since I've been hacked you, I think anyone should understand I don't trust the debit card out there, because you probably will be hacked again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's actually
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you tell the manager that one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I thought I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: totally understand you there. But here's the option the credit card is actually Let me just check here first. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Credit card is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm like Let me just give me just check here for a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The Fed it card here is only five dollars because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The {voice.creditcard.digitsTranscribed:***} said it. card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because it's kind of now?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I I get it. Man, I get all that and packages.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Since you all been hacked is why I don't cancel with my bank account with you guys, because the Russians are gonna get it matter of time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's why the credit card is protection.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, ten someone there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Amazing possibilities?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just credit the credit. That's been due since you've had it for years.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To upset.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The five.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And for a debit card, because it's from the bank, if it's from the back. This actually ten dollars discount.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, mi fi you just to tell you this, um, if your If your autopay is UN credit on which you'll be getting five dollars discount.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: However, for That's additional ten dollars. This way, you are receiving that email. That's There's change in your in your account? That's the Uh That's actually the information you. You'll get because you are informed about the increase of your
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: simple.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What do you call this and fees of your LINE there for the grandfather plan, because as what I'm saying earlier. Every good further plan will increase to ten dollars.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, you can help me today? Is anyone can help me there?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm telling you, Matthew, if this what I'm saying here because we all are here, um expert to to this kind of work, so I'm telling you. They're Matthew if
+Summary A: 
+Response: 
+Answer: 
+

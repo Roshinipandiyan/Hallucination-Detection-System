@@ -1,0 +1,133 @@
+Speaker: SENDER_CUSTOMER
+Text: Hello
+Summary A: Customer inquiring about fees for the new phone on the bill. The agent checked the customer's account and reassured the customer that the fees in the email were not alarming and that the actual bill cycle would provide more clarity. The customer was informed about the discounts not reflected in the email, and the agent offered to send broadband facts via email. The customer was satisfied with the explanation and indicated they had to leave. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi Evelin
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you! How can I help you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Could you please help me to explain the fees for the new phone I got
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see that you have questions about your bill. I can help you with that. Let me pull your account real quick.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: While doing so, just a quick reminder... Here are some tips to avoid from being disconnected: Please don't use the back button or close this chat window and reply within 2 minutes so the system understands we're still chatting, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you
+ ! Do you have your bill handy? May it be an online bill or a paper bill, please pull it up while I review your account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not I got an email that said that my October bill will be <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Could you please explain me those changes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, allow me a few moments to check here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: May you please confirm if the email you got is the "Customer Review Summary" please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I guess
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I got a new phone but I wold like to know what are those fees about
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If it is a customer review summary, I assure you that you have nothing to worry about since the price there does not include all the discounts you are currently receiving.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The most recent bill cycle you should be receiving would be the August to September bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I hope that clarifies it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How much I have to pay for fees when I get a new phone ?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Before we proceed with that...
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: By the way, the FCC requires me to share with you Broadband Facts about PSG's plans. I can send this to you through email In case we need to discuss any of our plans today. We will send it to the e-mail on file. Please type "YES" if you agree.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Not now
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thanks I have to go
+Summary A: 
+Response: 
+Answer: 
+

@@ -1,0 +1,120 @@
+Speaker: SENDER_AGENT
+Text: Hi! My name is Liz. How can I help?
+Summary A: The customer is inquiring about purchasing a phone case and having it added to their bill, potentially in installments or split payments. The agent suggested ordering the phone case online and paying the full price, as installment options are not available. The customer can also visit a local store to explore other options. The customer decided to look into in-store options at the (****) location before planning a trip with their kids. The agent provided a link to view available accessories online as well.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi can I purchase a phone case and have it added to my bill. I'm in dire need of a case for my samesung 24 ultra I switched two days ago
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I almost dropped my phone I have kids but cannot afford a case at the moment after buying my phone
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It is possible I can get a case and screen protector and get it added on to my bill and or make payments on it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Spilt it the bill
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it! I'll be more than happy to assist you with that, may I know your name first please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Stephanie
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you Stephanie, answering your question, it is possible for you to get a phone case ordering online but you'll have to pay the full price, the option to get it on installments is yet to be available, however, as an alternative you can visit one of our local stores to explore other options
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay I have kids who are out of school right now is it possible to set everything up here in compliance with my local store
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nevermind
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What are my in store options
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can I know ahead of time
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Traveling with my kids are a headache
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just to confirm would you like to know the stores that you have available near your area?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No it would be (****). I know the location I want to know what are my in store options before planning a trip with my kids if I don't know what's being offered or of its going to help my situation
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Since you mentioned that you would like to purchase phone cases and a screen protector, you can see all our options thru the following link
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: [WEB LINK]
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um yea Liz your not understanding me so have a good day
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The options that are available on the web page are as well available on the stores
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for contacting PSG! We appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+

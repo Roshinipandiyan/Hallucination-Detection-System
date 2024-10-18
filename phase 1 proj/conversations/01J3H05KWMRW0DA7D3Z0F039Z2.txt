@@ -1,0 +1,812 @@
+Speaker: SENDER_CUSTOMER
+Text: Hi
+Summary A: Customer wanted to purchase a new Apple Watch Ultra '2. The agent helped the customer select the watch specifications, confirm billing information, and initiate the order process. Unfortunately, the order was denied after the payment was made, and the customer will receive a refund within 5 working days. The customer expressed frustration with the lengthy process and eventually ended the chat. . Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you so much for contacting PSG. My name is Juan, From Online Sales Assistant Department. How can I help you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I want a new watch
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: my name is Susan
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi Susan, I can totally help you to get a new watch.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Apple watch Ultra ‘2’
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: An excellent choice.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You reach out online call assistance team to a better assistance please provide me your phone number so I can call you right away, if not we can continue over the chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Lets be quick
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Its better to chat
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But lets be quick
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: please confirm with me your account number to start the order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I require the billing passcode to acces your account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay let’s carry on
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: i am on it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you prefer the one size or the M/L version?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: M L
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank you for the confirmation
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: colors available are blue/black trail, green/gray trail, and orange/beige
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: gray
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you want to add protect advantage insurance?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: /mo. The service for connected device will cost $10.99/mo. Do you want to receive the broadband facts for the selected plan to any Email in order to understand better your service?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for the confirmation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you can enroll autopay and paperless service to get an $10 discount in your phone plan line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i don’t want autopay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: PSG may temporarily slow data speeds if the network is busy in your watch device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: got it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: for the plan and the installment, your bill will be $33.22 more/mo than existing service
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Proceed
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: due today, $66 for sell taxes of the watch.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Got it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will send a pin to your 1234 line to verify the purchase.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alert me once you send it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just send it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Kindly give me a little time to paste it for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: no worries. take your time
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ive sent it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks for the confirmation of the pin.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: your order its almost done.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Appreciate it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: you are very kind.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thanks … you too
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can you please confirm me the address to place the order?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> *** AVE 
+***, TX <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks. The watch line will have a dummy number just to active the connection, this is not a working line. the selected number is ***-***-****, is that ok with you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks for the confirmation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Great
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the order its almos complete.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: your monthly bill will be $123.65 for all lines, an activation of $35 for the new line will be added in the next bill, and due today $266 for the watch
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Lets make the paym
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: payment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just to inform, in today pay it is included the Total Credit Policy Requirement
+ $200.00
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Lets nakw the payment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: make*
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: in a moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will also waive you a priority delivery
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the device will be shipped to **** **** AVE, is that ok with you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i already gave it to you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just to be sure that all the information is correct and give you the best service.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the terms and conditions will be sent to your current email in the account to accept this order.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: information about the estimated delivery could be sent to the line ***
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: if everything is ok, I will proceed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can we just make the payment
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I will send you a link to introduce your payment information, confirm with me the phone number to do it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alert me when you send it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just a moment please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just send it to you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok i having problem doing it on my phone because its the same phone im using to chat
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: can you send the payment link to the email address on the account
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just confirm with me the address so we can be sure that everything is ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Cllsociety<systemically redacted>gmail.com
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Send it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It is everything fine?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It didn’t come through
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: i will try again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: be sure that the mail is it not in spam
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Am done
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: We will charge the amount you authorized to the payment method you provided or selected today.
+ 
+ If you later wish to cancel your bill payment, call the Customer Care number on Your bill.
+ 
+ Keep in mind that cancellation is not immediate, and your payment may process before it is cancelled.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please answer "Yes" if you understand and accept these terms.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Did the payment go through
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now that we've completed your order let's go over the next steps: You will receive 4 emails that will provide important information about your order today:
+ 
+ 
+ 
+   
+  The first email has a link to the PSG Consumer Service Agreement, which you'll need to read and accept before we can ship your order. You can also visit [website] and enter your wireless number to accept the agreement. If you don't accept the PSG Consumer Service Agreement within 21 days, your order will be canceled.
+ 
+   
+  The second email will let you know your order has been processed.
+ 
+   
+  The third email will let you know when your order is ready to ship. The shipping notification email will include your tracking number and other important information.
+ 
+   
+  The fourth and last email will have a link to your personalized Customer Service Summary, which explains your service plan and details about your first estimated bill. It may be helpful to keep this email for reference.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thanks
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks to you for being so kind.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: can i have the order number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Once that all the process is complete i will give you the order number, you can also get that information to your email or phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just will ask for the approval to your purchase.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just wait and your process will be complete.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thanks for your comprenhension.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: almost done.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank for all the patience.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: soon we can get the approval and you can get your new device.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Where are you getting the approval from ??
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is like a department that approve the transactions in order to do all the bank secure process.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok but i taking too long
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Its*
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I understand how you feel. I am here with you to help you with your purchase
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I regret to inform you that according to the analyst, with the provided information, the order can be placed in this moment.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: after a review of the account information by the secure team, the order was denied.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: After making the payment ??
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I apologize for the inconvenience. you will get a refund of the payment before 5 working days.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Are you still there?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thanks byee
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank you for being a valued customer from PSG
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: is there anything else I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: just checking if you need help with something else today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: let me know if you are receiving my messages or the chat would end
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Our chat session is now ending. Thank you for choosing PSG! We appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+

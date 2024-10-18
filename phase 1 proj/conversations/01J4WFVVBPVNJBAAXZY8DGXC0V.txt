@@ -1,0 +1,4620 @@
+Speaker: SENDER_CUSTOMER
+Text: Uh, yes Dana Williams, and the account is my husband, under my husband, Christopher Williams
+Summary A: Unresponsive Customer.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's fine, yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you very much for the information and Would you be for I call you Dana this evening.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and, uh, what is the phone number of the account that I should pull up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.truncateDigits89:* * * * * * * * *} one, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know, so I had a payment arrangement that was due yesterday and I paid it yesterday and Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: With that said I had spoken to somebody.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All right, and it looks like here that you already have the account being authenticated meaning You've already give us the code. We other collection side of a T and t Were you trying to process your payment today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know. Like week ago.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A whole bunch of stuff has happened. Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, and Um, they had set me up the payment arrangement to pay the past due amount yesterday, which I did.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they said that {voice.cvv.digitsTranscribed:****} I paid that to call back? Because the next day, I which is today, I would have Um, a payment due, and because I was paying so much.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: From the past.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It was just gonna be hard for me to pay the you know what I mean, like this specific payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Like you just need another.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I didn't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Worries
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I? Yeah, I do when I went online to try to do the extension. It's it business Give me the option be maybe because I did it for today. Like I called you know what I mean, I tried to do it today. And today's {voice.cvv.digitsTranscribed:***} that's due?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's the only way I, I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me look at this. Here it is factor that you had on August eighth for the {voice.cvv.digitsTranscribed:**** ****** **** ****** **** ***** ****}, which already conducted from the visa, um, and then your new current balance is {voice.cvv.digitsTranscribed:*****, *******, *****, *****, ***}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:***** ****}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um to Sorry, I was looking at the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I want it to be it, uh, I want to be able to pay it by Let me see. I could.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Now just need to know what date you were trying to have that extended for.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: He could I get?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {voice.cvv.digitsTranscribed:******} or the I'm sorry, uh, August thirtieth
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: What
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: me {voice.cvv.digitsTranscribed:***} second? Because I think I know the reason why you're not able to populate that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The last payment arrangement that was developed if it was made, as an exception basically the last, re course, um, we would have needed to had that payment made on the date of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If that was August eighth give me, I'm gonna see if
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: But the thing is a lot of times. It's It's your payment method That's gonna cause the caveat right if you using a credit card posting the payment would be only {voice.creditcard.digitsTranscribed:***} thing, but you're then your credit financial is gonna be leaving it on a pending status that pending status has to complete, uh, by {voice.creditcard.digitsTranscribed:****** ***** ****}, p, m, the following day. If it doesn't happen then we would know that you know this is the current reasoning, and it, it happens to most of our customers.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Did pay it yesterday?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: When they have a rangeman T's and they choose the last date possible. So, um, give me {voice.creditcard.digitsTranscribed:***}?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, see the problem was that went so when I made the payment arrangement with the with the advocate, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: He told me I can walk into the a T and t store and give them a check it wasn't allowing me to process it through check online.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that, but not yesterday, but the very first payment arrangement ever had. And then I and you, and there's notations that I went in on the date that they told me to I tried to process I tried to give them a check and I went to the kiosk like if he told me to. Then, I saw somebody physically and It just didn't give them the option, either.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: she notated that like it's not giving the option so that was incorrect information you know
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I definitely
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, but I still was able to give somebody else money to, then give you know what I'm saying like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On and and use the card. Yeah, so then.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: able.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Exactly, and then last yesterday's payment was paid by debit not credit, and because I finally got my card back.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What the thing was we go, I got my wallet stolen and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry that okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Were issuing me a new thing you know, a new a new and all that, so they have supposed to update.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me. Let me ask you?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Anyhow,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Card the Visa card, ending in {voice.creditcard.digitsTranscribed:*****, ***, *****, ****} Is that your card or was that somebody who is trying to process the payment on your behalf.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The that was husband's card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Because that card we do see that it was in pending for some bit of time before actually completed the terms. Action, uh, so we we know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I have the confirmation through my bank. It was taken out right away.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, so Here's the thing. This is something that you want to address with your bank That's That's {voice.creditcard.digitsTranscribed:***} thing a confirmation number that generates on our side, is not a guarantee that the customer has a payment already remit ID. It is just a ticket for us as the merchants to be you know in line, waiting for your bank to pay us. So this is again is falling within the situation that if it was on pending for a long de ration then that's the clear reason as to why it didn't. conduct on the date of uh, the propose arrangement but I am not able to see that you are able to have anymore arrangements available, and I was trying to ask obtain of did this is the occurrence that caused it, but it was actually
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: {voice.creditcard.digitsTranscribed:***} second here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ah,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It was the the payment reversal with the check, um, and just to rectify that that {voice.cvv.digitsTranscribed:***} you, we can give you the option to pay with a again as long as we have {voice.cvv.digitsTranscribed:***} consistent payments moving forward. As long as they're made before your bill due date, we can grant that back to you? Ah, give me {voice.cvv.digitsTranscribed:***} second, and I know again, August eighth, but the the credit Cal at Here is your due date, uh, {voice.cvv.digitsTranscribed:***** ***} second?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your due date is normally every ninth of the month, so you did try to have it connected {voice.cvv.digitsTranscribed:***} day just before your bill due date?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me, I reach out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That was the arrangement.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yep.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Done you know what I mean told me I had until the eleven eight eleven, p, m, or something, but I paid way before that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I live in fifty nine, p, m you paid before, but again because you did post that payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, I understand.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: held in pending Um Let me just reach out to a member of leadership, and I'll check back with you. I just need you to formally address that you need to speak to a manager.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh yes, I would like to speak with a manager.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All right, one second?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh, so? Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: All right, I'll check back with them, and then I will come back to you within thirty sixty seconds. Please hold.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Your welcome.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You, too, bye. Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for choosing a T and t. My name is John manager on the finance department My speaking to miss Uh Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, hi, John.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hey, uh, Good evening, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's John, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No. Yes, you got it, uh, so I was talking here to the previous rep to Derek? Ah, he was telling me a little bit about the situation here, uh, he mentioned that you looking to get a payment arrangement uh, does he was looking on the options, but the system was not giving us the option to the the payment arrangement right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, uh, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I was looking here on the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On the details, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: When is the last time that you did a payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I I made the payment for the payment arrangement of the past due yesterday was supposed to be done by yesterday. I did it by yesterday, um, but I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm like he was explaining to me something about like when you use a credit card, but I didn't. I used to debit that to you guys on your end, it doesn't show till being processed till today, but on my end in my bank and on my account. It showed it was processed yesterday when I paid it as due, and the advocate that I had spoken with that made the arrangements that I had until {voice.creditcard.digitsTranscribed:****** ***** ****}, p, m on the eighth so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I did. Now, and he told me {voice.creditcard.digitsTranscribed:****}. That was paid to call back to push this {voice.creditcard.digitsTranscribed:***} out because I had paid so much in the payment arrangement I he didn't want me to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To fall behind or whatever you know like try to get updated so that I'm not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, because I paid a lot in the last couple of weeks and it was just you know just trying to get caught up and stuff and I just have nothing else to pay right now, until I get paid, again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for choosing a T and t. My name is John manager on the finance department My speaking to miss Uh Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, hi, John.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I can't have the services cut off. I mean, I have a child with a disability I have you know what I mean, like we've got a lot of thing I use my phone for work like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There's a lot going on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hey, uh, Good evening. Ah,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and i just been getting back on my feet from having my first stolen and this is the the whole reason for the arrangement's in the first place
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It was a lot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's John. Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No. Yes, you got it, uh, so I was talking here to the previous rep to Derek? Ah, he was telling me a little bit about the situation here, uh, he mentioned that you looking to get a payment arrangement uh, does he was looking on the options, but the system was not giving us the option to the the payment arrangement right.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, uh, I I was looking here on the
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: On the details, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I was checking.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um No, I see the records here that I see that the records about what happen, uh, for the error that it does happen. And now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, actually. The ability suit fee?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: When is the last time that you did a payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well, I I made the payment for the payment arrangement of the past due yesterday was supposed to be done by yesterday. I did it by yesterday, um, but I guess.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ah, like he was explained to me something about like when you use a credit card, but I didn't. I used to debit that to you guys on your end, it doesn't show till being processed till today, but on my end in my bank and on my account. It showed it was processed yesterday when I paid it as due, and the advocate that I had spoken with that made the arrangements that I had until {voice.creditcard.digitsTranscribed:****** ***** ****}, p, m on the eighth so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's If it's all be notated
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I need don't giving us the option to do the payment arrangement let me. Let me just double check. I I went to sell sell the possible options I understand your concern here that you need more time to pay it, but just let me. Let me see what I can do. Okay, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Even if it's like. Because I told him originally I told them the thirtieth but even if it's like the {voice.creditcard.digitsTranscribed:******} third or I mean, even if an extra week. Like
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I did. Now, and he told me {voice.creditcard.digitsTranscribed:****}. That was paid to call back to push this {voice.creditcard.digitsTranscribed:***} out because I had paid so much in the payment arrangement I He didn't me to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: To fall behind or whatever you know like try to get?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that I'm not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Something
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, because I paid a lot in the last couple of weeks and it was just you know just trying to get caught up and stuff and I just have nothing else to pay right now, until I get paid, again.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I can't have the services cut off. I mean, I have a child with a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have you know what I mean, like we've got a lot of thing I use my phone for work like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got into
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There's a lot going on.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just because I I just paid rent as well, and that was {voice.creditcard.digitsTranscribed:****** *** *******} dollars, so that's all my money.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i just been getting back on my feet from having my first stolen and this is the the whole reason for the arrangement's in the first place
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It was a lot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I understand. I I know you. I mean, if you pay rent and also you did this payment for the {voice.creditcard.digitsTranscribed:**** *** *** ****} Yesterday I know, he's must be talk to make another payment like this, uh, but Just give me {voice.creditcard.digitsTranscribed:***} minute. Okay, I I don't want to promise you something. I just want to review my resources and see where I'm able to do here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Of course.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I checking to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um No, I see the records here, too, I see that the records about what happened, uh, for the error that it this happened now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, actually, the bill is due today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, I'd be able to help you because I see. We already got another way last name, but let me. Let me see what I can do. Okay, uh, just please bear with me. It may take, just a few seconds, while I review the account and I take the possibilities uh, and they tell you what will be the the options. We want to have here. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's the it should notated
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I need don't giving us the option to do the payment arrangement let me. Let me just double check. I I went to sell sell the possible options I understand your concern here. Do you need more time to pay it, but just let me. Let me see what I can do. Okay, um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If it's like. Because I told him originally I told them the thirtieth but even if it's like the {voice.cvv.digitsTranscribed:******} third or mean, even if an extra week. Like
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Something
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Good. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I understand. I I know you. I mean, if you pay rant and also you did this payment for the {voice.cvv.digitsTranscribed:**** *** *** ****} Yesterday I know, he's most be talked to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just because I I just paid rent as well, and that was {voice.cvv.digitsTranscribed:****** *** *******} dollars, so that's all my money.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and see where I'm able to do here?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Of course.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So, I'd be able to help, because I see. We already got another way last name, but let me. Let me see what I can do. Okay, uh, just please bear with me, uh, it may take, just a few seconds, while I review the account and I take the possibilities uh, and they tell you what will be the the options. We want to have here. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Miss Williams, uh, I'm still here with you, okay, uh, I'm trying my best? Here, so I'd help you out, but I'm still here with you, I'm just checking uh, all the options.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Here, too.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, I'm here, too.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Miss Williams, uh, I'm still here with you, okay, uh, I'm trying my best? Here, so to help you out, but I'm still here with you, I'm just checking uh, all the option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Miss Williams I'm so sorry. This is taking so long? Because I'm trying to to find a so I can work with you because, yeah, once We do like a number. Right payment arrangement is hard to get another one, uh, especially since it was like the last payment reason right, but I understand the situation I know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Mean This is a new bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, Miss Williams I'm so sorry. This is taking so long? Because I'm trying to to find so I can work with you because, yeah, once We do like a number I payment arrangement is hard to get another one, uh, especially since it was like the last payment reason was right, but I understand the situation I know. I mean, this is a new bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I I think the person who did the payment arrangement when they told me to call back the next day to you know our they will be what they said, was to go onto my account and I can set up a payment arrangement for this one, but I don't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: think the person who did the payment arrangement when they told me to call back the next day to you know, or they will they what they said, was to go my account and I can set up a payment arrangement for this one, but I don't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Knowing that the next day, it would have been Do you know what I mean, like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know like if the information got lost in translation. Because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't. I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But That was his you know what he told me. And so I was like Okay, and then I paid what I was supposed to on time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't. I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But That was his you know what he told me. And so I was like Okay, and then I paid what I was supposed to on time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just and just like when I was told.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just and just like when I was told.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um that I I He made me that I go an appointment was made for me to go, pay the other amount, and I did, I walked in and I went to the kiosk That didn't work, I went to the front, the people that were there with an appointment, they couldn't do anything. And they said they don't know why they told me to come in to pay this way, because it wasn't allowing the system wasn't allowing them to take the payment so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I couldn't pay cash. At that time, this is all when the card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um that I I He made me that I go an appointment was made for me to go, pay the other amount, and I did, I walked in and I went to the kiosk That didn't work, I went to the front, the people that were there with an appointment, they couldn't do anything. And they said they don't know why they told me to come in to pay this way, because it wasn't allowing the system wasn't allowing them to take the payment so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I couldn't pay cash. At that time, this is all when the card.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it was like a whole ordeal. But I, anyways. All those got paid. But then, this {voice.creditcard.digitsTranscribed:***} it, she said, you know. You should be your you can log in. And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, it was like a whole ordeal. But I, anyways. All those got paid. But then, this {voice.creditcard.digitsTranscribed:***} it, she said, you know. You should be your you can log in and pay it or calling.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Pay it or calling.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, and I mean that, actually.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, and I mean that actually the reason why it was, uh, set up like {voice.creditcard.digitsTranscribed:***} day before your bill West do, uh, so we had the option to make a payment arrangement because some things when offer left is when we have this issue that there is no more payment arrangement but that. I mean, the reason why it was set up {voice.creditcard.digitsTranscribed:*** ***} day before you so we have the option to make the payment arrangement but now we even though we with it, that is, it's not letting us here to make any payment arrangement and he doesn't mean that they're gonna be suspended like tomorrow, uh, probably might be working a few days, but we don't really know how long it would be working I know we would need to to see the ways to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Why it was, uh, set up like {voice.creditcard.digitsTranscribed:***} day before your bill West do, uh, so we had the option to make a payment arrangement because some things with overlapped is when we have this issue that there is no more payment arrangement but that. I mean, the reason why it was set up {voice.creditcard.digitsTranscribed:*** ***} day before, so have the option to make the payment arrangement but now we even though we would did that is, it's not letting us here to make any payment arrangement and he doesn't mean that they're gonna be suspended like tomorrow, uh, probably might be working a few days, but we don't really know how long it will be working know we would need to to see the ways to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Plug get.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To help you out. But, uh, I'm trying. I need He's know, uh, letting me, you know. But, um, you're Just give me {voice.creditcard.digitsTranscribed:***} minute. I'm just double checking here okay to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To help you out. But, uh, I'm trying. I need is no, uh, letting me, you know. But, um, you're Just give me {voice.creditcard.digitsTranscribed:***} minute. I'm just double checking here okay to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um plug in and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah. I mean, this is what I was told. So I'm just following instructions, and you know with the whole at {voice.cvv.digitsTranscribed:***}. Today, being that it's due, and they knew that in the end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, then I was told in misinformation and That's not fair on my end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah. I mean, this is what I was told. So I'm just following instructions, and you know with the whole at {voice.cvv.digitsTranscribed:***}. Today, being that it's due, and they knew that in the end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, then I was told in misinformation and That's not fair on my end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I'm following everything that they're telling me to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You get what I mean, like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I'm following everything that they're telling me to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You get what I mean, like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So it's on the I want to excel us resources, they have, because once we get the like a number is section, uh, uh, I mean, even if a manager's We're not able to do another one? Because there another one. So so, and you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, but Yeah, I I was gonna continue to be on hold.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, but he's almost gonna pay, because I was just want to access whole day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: to excel all the resources, they have, because once we get the like a number is section, um, I mean, even at the managers. We're not able to do another one, because there was another one. So, so you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, but Yeah, I'll continue to be on hold.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, but he's almost gonna pay, because I was just want to access whole day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: They'll chains see if I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: They'll chance see if I can.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I appreciate for what here for a few days.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I appreciate for We're here for a few days.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, um Thanks so much for for holding uh, I wish checking here, uh, so I can appreciate a number trying here to to make it work, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, um Thanks so much for for holding uh, I wish checking here, uh, so I can appreciate a number trying here to to make it work, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I UN do it but to be honest, and I just tried in in different tools try to to push it forward. So we can guarantee the service will be working until you pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I UN do it, but Yeah, to be honest, and I just tried in in different tools try to to push it forward. So we can guarantee the service will be working until you pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No is is not working right now. It says the account is only able for a payment arrangement uh, these month.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: annoys He's not working right now. It says the account is only able for a payment arrangement uh, these month, um, I mean as much as I want to help you, I don't really have a day that I can promise you, so you'd be able to pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I mean as much as I want to help you, I don't really have a day that I can promise you, so you'll be able to pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But how?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But how?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is my my question to you is How is that my fault. When the the They told me if I paid it by tomorrow, I would give me the option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So For now, the expectation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So For now, the expectation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is my my question to you is How is that my fault. When the the They told me if I paid it by tomorrow, I would give me the option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean, sir. Tomorrow. Yes, yesterday, which I did know one talked about? Oh, They told me I had until eleven fifty nine eight, you know, p, m, so you know, and I can't walk in a fee. That's That's unreasonable to suggest that I could like walk in cash payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mean, sir. Tomorrow. Yes. Yesterday I did know one talked about? Oh, They told me I had until eleven fifty nine eight, you know, p, m, so you know, and I can't walk in a paid That's That's unreasonable to suggest that I could like walk in cash payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Nine, p, m, or even ten or nine or eight. You know what I mean, so when I'm doing what I need to do, and I'm paying an I paid on time on the eighth and got confirmation for my bank. I could screenshot that and send it what time it got taken out last night and same with Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: fifty nine, p, m, or even ten or nine or eight. You know what I mean, so when I'm doing what I need to do, and I'm paying an I paid on time on the eighth and I got confirmation for my bank. I could screenshot that and send it what time it got.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Last night, and same with Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know. At the time, and everything was that plus I got a confirmation from my phone and everything. It wasn't It's not a pending payment It was a pulled out payment? Because I use debit not credit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know. At the time, and everything is that plus I got a confirmation from my phone and everything. It wasn't It's not a pending payment It was a pulled out payment? Because I use debit not credit.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it's kind of like That's not That's not fair on my end with I have an expectation of one thing, because this is what I'm told by a T and t, and now I'm getting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it's kind of like That's not That's not fair on my end of with I have an expectation of one thing, because this is what I'm told by a T and t, and now getting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Told Oh well. You did pay it yesterday, but it doesn't cancel today, so now it's not letting us have that option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Told Oh well. You did pay it yesterday, but it doesn't cancel today, so now it's not letting us have that option.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But not are.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not fair.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I I get your phone and I totally understand the point on these That's why I was trying to to make it work for you, uh, just what happened here is a I mean the payment arrangement is a benefit that we provide to our customers, uh, we do the exceptions, but once. We do like a number. Right exception for a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But I'm not I wasn't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I I get your phone and I totally understand the point on these That's why I was trying to to make it work for you, uh, just what happened here is a I mean the payment arrangement is a benefit that we provide to our customers, uh, we do the exceptions, but once. We do like a number. Right exception for a payment arrangement we just able to do it once in a certain period of time, so what? happen, is it the last we a was.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: last we have was
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I wasn't asking for an exception what I was asking for was with a T the expectation. And that was that be available online.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I wasn't asking for an exception what I was asking for was with a T the expectation. And that was.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: be available online.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I paid it on time. You know what I mean, I paid the the amount that I was supposed to pay per the arrangement on time, so that option fee to use it, you know, use that system not as an exception, not as a calling you guys, but on the actual app that should have been there, but because if I would have known that, I would have paid it in the morning, knowing that it was gonna take certain amount.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Because I paid it on time. You know what I mean, I paid the the amount that I was supposed to pay per the arrangement on time, so that option fee to use it, you know, use that system not as an exception, not as a calling you guys, but on the actual app that should have been.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But because if I would have known that, I would have paid it in the morning, knowing that it was gonna take certain.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I mean it's not Uh how to You did a payment, uh, I want to make this cleared it is not about how do you do the payment if it was late or not? Ah, right now, the payment arrangement is showing a skipped that means that you pay it on time. He's not like you did something wrong, and to be if you pay it earlier. It wouldn't make a difference, uh, to be honest. He's nothing wrong with with that payment you did the payment arrangement West gap on I have it here, test kept uh, and even if you pay. It's like one day before the the time that you, it will be the same the thing here is said. Once we do like, uh, a number I exception, uh, because they they overrides It is when there is no time available. So is when we as a man. I just have the option to the what number I exception, but once we do the override exception, since we did the payment arrangement for a day that it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to process.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to process.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: There is a possibility that for the next month, uh, there is not an option. That's why we we as I was some That's why they set it up like before.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But should have told that didn't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I mean it's not Uh how to You did a payment, uh, I want to, uh, make this cleared is not about how do you do the payment if it was late or not? Ah, right now, the payment arrangement is showing a skip that means that you paid it on time. He's not like you did something wrong, and to be if you pay it earlier. It wouldn't make a difference, uh, to to be honest is nothing wrong with with that payment you did the payment arrangement West gap on I have it here as kept uh, and even if you pay it like one day before the the time that you, it will be the same the thing here is said. Once we do like, uh, another I section, uh, because they the overrides It is when there is no time available. So is when we as a man. I just have the option to the what number right exception, but once we do the override exception, since we did the payment arrangement for a day that it was not available for an a T and t error for a system issue for anything that it may happen, uh, it would do a number. Right is a possibility that for the next month, uh, there is not an option. That's why we we as I was some That's why they it up like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I know, and that's why. What day other manager was suspecting is that if we paid before this bill is due with still having the option available, but even though you paid it on time as I was on There's nothing you didn't do anything wrong to hear you. You did the right thing you pay it on time, the the promise West kept There's nothing wrong about that, but now, uh, the account is saying that we don't have an option to make another payment arrangement? Because we already, uh, Dylan exception more than It's supposed to be so now it is not giving us that option. And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And that's why. What they author manager was suspecting is that if we paid before this bill is due will still having the option available, but even though you paid it on time as I was on There's nothing you didn't do anything wrong, you later? Here, you use it right thing to pay it on time, the the promise was kept There's nothing wrong about that, but now, uh, the account is saying that we don't have an option to make another payment arrangement? Because we already, uh, the uh, the exception more than It's supposed to be so now it is not giving us that option. And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: have told me that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and see. That's not again. See? And this is why like I've literally before sat on the phone with you guys for eight hours straight over a mistake that a T and t made at one point. You know what I mean, and it's like working days. I should have got paid for it, but my point is, is like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: and see. That's not again. See? And this is why like I've literally before sat on the phone with you guys for eight hours straight over a mistake that a T and t made at one point. You know what I mean, and it's like working days. I should have got paid for it, but my point is, is like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I mean, I was so it's on the I was looking all the options to make it work. But, uh, right now is know like matter of living is, uh, I tried all the ways and Yeah, we won't be able to protect the account. Right now, the expectation. Is that the service we working, but Ah no able to see how long it will be working.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I mean, I was, as always on the I was looking all the options to make it work. But, uh, right now is know like matter of living is, uh, I tried all the ways and Yeah, we won't be to protect the account. Right now, the expectation. Is that the service we working. But, uh, I'm not able to see how long it will be working.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, and I mean, that's exactly what happened last time that they promise you something, uh, it wasn't. It was suspended, so we took that as an error, we did they?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Was told something, and that should be honored point blank and simple and I get that you're saying that it's not giving an option but There has to be a way. There has to be a credit that can be put down. At least until I can make that payment, even if it's next week, or something like something, because That's not fair that my service will get this connected, because I was told. Something follow those instructions, and that wasn't factual.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, and I mean? That's a fact, Lee what happened last time that they promise you something, uh, it wasn't. It was suspended, so we took that as an error We did the exception to make sure you have the services working until you pay it. You paid it, and then We were expecting to make a new payment arrangement. But now, um, I mean, there is no option to make another payment arrangement not even as and number right, so here, uh, I mean, I I will have to help you, but now we we just six house all the possible options We have to help you here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That okay so They're Like I said, there has to be something that you guys could do? Because you're not giving me the option to put a check down, um, with pay. You know what I'm saying something like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I and I understand why, but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The other part of it is like this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Was told something, and that should be honored point blank and simple and I get that you're saying that it's not giving an option but There has to be a way. There has to be a credit that can be put down. At least until I can make that payment, even if it's next week, or something like something, because That's not fair that my service will get disconnected because I was told. Something follow those instructions, and that wasn't factual.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Even if it's like. I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: To make sure you have the services working until you pay it. You paid it, and then We were expecting to make a new payment arrangement. But now, uh, mean, there is no option to make another payment arrangement not even as a number right, so here, uh, I mean, I I will have to help you, but now we we just six house all the possible options We have to help you here.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't pull out nothing We're literally had cave ID in a recession don't have money to pay anything like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That okay so They're Like I said, there has to be something that you guys could do? Because you're not giving me the option to put a check down, um, with pay. You know what I think something like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I and I understand why, but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The other part of it is like this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Even if it's like. I don't know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't pull out Nothing's We're literally had cave ID in a recession don't have money to pay anything like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It leaves people in such a tough spot. And it's not fair.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Know and I can see what you feel this way, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You know, of course, I mean, if your request to speak to me is we?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I shouldn't be told? something, and it not be honored like they You guys need to either train your people better because That's not fair that we're being told that aren't true.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That We're relying on what you're saying, as factual and then it's not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, not you specifically sorry. But whoever I speak to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's why a lot of times I go online to speak with some one of the you know the the advocate.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That leaves people in such a tough spot. And it's not fair.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, and I can see what you feel this way, uh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Virtually or whatever so that I can save the transcripts and everything, um, we don't have that option. When calling you guys to save the transfer my point is, it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This is leaving be in a spot where like I paid everything that I was supposed to over a thousand dollars in in in you know towards the bill and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Then he You know I'm expected. Because I was told the expectation is that I can make push it out, even if it's a week I could push it out just a little more for the current bill, so that I'm not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I and be told, something, and it not be honored like they You guys need to either train your people better because That's not fair that we're being told things that aren't true.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You know, of course, I mean, if you're requested speak to me do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, and then I'm caught up. And then I don't I have to wait. You know I don't have to wait until next or I'm caught up until next month, and everything like that, and then I'm good, because I'm back on the right track and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That We're relying on what you're saying, as factual and then it's not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, not you specifically sorry. But whoever I speak to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's why a lot of times I go online to speak with some one of the you know the the advocate.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now it's like. Oh no, we can't help you? Oh well. Basically
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not fair when again, I'm being told one thing I'm doing everything that I'm supposed to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Virtually or whatever so that I can save the transcripts and everything, um, we don't have that option. When calling you guys to save the transfer my point is, it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And now it's not being honored because this in like it before you the guy told me that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This is leaving be in a spot where like I paid everything that I was supposed to over a thousand dollars in in in you know towards the bill and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Then he You know I'm expected. Because I was told the expectation is that I can make push it out, even if it's a week I could push it out just a little more for the current bill, so that I'm not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The reason why any of this happened was because it took my payment as Um credit debit or whatever and that it didn't come in time and to it, because you guys got a confirmation that I paid it on time, but it didn't process fully on time. According to him, and so that's I got that error.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, and then I'm caught up. And then I don't I have to wait. You know I don't have to wait until next hour.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm caught up until next month, and everything like that, and then I'm good, because I'm back on the right track and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: of me not being able to just log in and make a payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That was never is hold to me now? You know what I mean beforehand that was just told to me now, so it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Now it's like. Oh no, we can't help you? Oh well. Basically
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not fair when again, I'm being told one thing I'm doing everything that I'm supposed to do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's frustrating.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And now it's not being honored because this in like it before you the guy told me that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Gotcha know number sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I know this is not the answer to were expecting here for me and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The reason why any of this happened was because it took my payment as Um credit debit or whatever and that it didn't come, time, and to because you guys got a confirmation that I paid it on time, but it didn't process fully on time. According to him, and so that's why I That error.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's like the rounding
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: of me not being able to just log in and make a payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That was never a whole to me now? You know what I mean beforehand that was just told to me now, so it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, like I said.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's frustrating.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know just sorry. I didn't mean to cut you off? It's just that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like I said, before like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't have my phone, not on because I have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I tried with the disability.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I have to use my phone for my job. I can't log in without using my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't pay bills without having a job.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm really sorry?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I know this is not the answer to were expecting here for me and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's why I told you I I'm gonna check all the options. I didn't want to promise you something that I'm not able to do so? Yeah, this point the only two options. We have uh, the moma and they see. They're paying these balance or way until you pay it, but we don't really know how long it would be working because so we're selling you in the end of the day, the arrangement.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know what I'm saying, so it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, yeah? Of course, I know. I mean, it's These days, having the service working is is It's not like something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's It's not just Twitter all my son's. It's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And it's a rounding
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The four like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Part job. It's of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Know just sorry. I didn't mean to cut you off? It's just that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like I said, before like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't have my phone, not on because I have.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, you your son four two job. I mean, uh, I used to need it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I travel to disability.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Then
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, but here, would happen is that in the end of the day, so I was telling you that the payment arrangement. It is a benefit here, uh, we expecting You've made the payments on the due date and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Alright, have to use my phone for my job. I can't log in without using my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't pay bills without having a job.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That's why I told you I I'm gonna check all the options. I didn't want to promise you something that I'm not able to do so? Yeah, this point the only two options. We have uh, the moma and they see. They're paying these balance or way until you pay it, but we don't really know how long it would be working because so we're selling you and end of the date payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, yeah? Of course, I know. I mean, it's These days, having the service working is is is not like something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know what I'm saying, so it's like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Tell that to every customer you guys have that has been going through all of this drama, because of cave ID, because of and and and everyone can see that? Oh well, cave. It's not a factor anymore. I work in healthcare cave is very much a factor. Still, and it's ruining people like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I was in the hospital for a week.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's not just Twitter all my son's. It's four reason like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My grandma died, my grandpa died.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's hardship you know we have hardship going on and There has to be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: some sort of relief, or something that a system that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And when I'm following all directions via a T and t, and I'm doing everything that on my end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to pay my to pay my bill to catch up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The part of my It's a part of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to do everything that I need to do, and then you guys tell me? Oh well. I We didn't tell you the correct information our bad, but Oh well, your service, eventually be disconnected. So that's in then you'll have to just eventually pay it. No well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I know if needed for your and for you, job. I mean, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just need it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, when that time my sick child won't get the system that he needs because you his their p, p, people Come and take care of him.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they have to clock in. For my phone because that's just the way the system works.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh retire would happen is that in the end of the day, so I was telling you that the payment arrangement. It is a benefit here to we expecting the You've make the payments on the due date and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't log in. So, then I get fired, like it's kind of down and That's not fair. I'm trying my best?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm just following everything you guys tell me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How that to everything.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get That's not actual information.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Tell that to every customer you guys have that has been going through all of this drama, because of cave ID, because of and and and every can see that? Oh well, cave. It's not a factor anymore. I work in healthcare cave is very much a factor. Still, and it's ruining people like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I was in the hospital for a week.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh We always try to help you. And these, but the if the option is now available.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: My grandma died, my grandpa died.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It's hardship you know we have hardship going on and There has to be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: guy know, Miss Williams to in your pass here, Tennessee. Oh, I San Jose know like you did something wrong here. But now, um on the account. We accept so the possibilities. We have to help you, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then I get screwed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: some sort of relief, or something that assisting that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And when I'm following all directions via a T and t, and I'm doing everything that on my end.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to pay my to pay my bill to catch up.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: to do everything that I need to do, and then you guys tell me? Oh well. I We didn't tell you the correct information our bad, but Oh well, your service will eventually be disconnected. So that's and then you'll have to just eventually pay it. Oh well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I'm really
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um mean if that was an option but let me I was just go ahead and take it for brand is but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, when that time my sick child won't get the system that he needs to be his there, p, p, people Come and take care of him.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they have to talk in for my phone because that's just the way the system works.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I I need to set the proper expectations now, when?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can't log in. So, then I get fired, like it's kind of tricky down and That's not fair. I'm trying my best?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is a credit of some sort that they can just put temporarily and then when fee see my payment they can reverse it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I'm just following everything you guys tell me.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I tell you the through It's a wouldn't pay this on that the service might be suspended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yet, that's not actual information.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry, what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah. I mean, if we don't have the the payment. Soon, uh, I mean, so I don't know how long it would be working and Yeah, it might be suspended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh We always try to help you, and these. But if the option is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That wasn't my question.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is there a somebody higher than you that I can speak with that maybe can assist
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And a supervisor or Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: guy know, Miss Williams to in your pass here ten, so I San Jose know like you did something wrong here because now, um on the account. We accept so the possibilities. We have to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then I get screwed.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Really?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, the question I already answer it? Yeah, there is no option, so we can put a temporary credit, uh, to give you more time, I mean it was our was an option for us on you, I would just go ahead and take it for When did, but that's know something we can work with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Somebody
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I mean I'm the manager here to and this is the matter wellness the matter with her t's. To be honest, nobody on a T and t will be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: able to provide you more time on this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But Is there a supervisor. Over you that I can possibly speak with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you hear me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, I mean, if that was an option but let me I was just go ahead and take it for brand is with.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I need to set the proper expectations now, when?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A good evening, can you hear me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You somebody there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure. Yeah, I do want to get someone higher than hear from someone tomorrow, t, of course you, you have the option, uh, just Can you tell me what's the best number so my manager can call you back?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No I'd like to be transferred over because I know you guys close to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sort that they can just put temporarily and then when they see my payment they can reverse it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I just want this someone spoken with and resolved before it's Friday. And I can't go the weekend, without having you know to be able to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I tell you the through to don't pay this on that the service might be suspended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry, what?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello, can you hear me?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Use my utilize my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah. I mean, if we don't have the the payment. Soon, uh, I mean, so I saw you wouldn't know how long it would be working and Yeah, it might be suspended.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hello.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That wasn't my question.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, the question I already answer it? Yeah, there is no option, so we can put a temporary credit, uh, to give you more time, I mean it was our West an option for us on you, I would just go ahead and take it for When did, but there's no something we can work with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, okay, no worries. So, uh, yeah, I gonna get someone here to help you out. I, er than me, just uh, please hold on the line was I.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Is there a somebody higher than you that I can speak with that maybe can assist
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And the a supervisor or Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Somebody
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You over, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Good afternoon, thank you for reaching minute you support team.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: My name is Margaret a May I have your a t t, u, i, d, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But Is there a supervisor. Over you that I can possibly speak with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, I mean I'm the manager here. Turn this is the matter will nis to my retire t's. To be honest, nobody on a T and t will be able to you more time on this.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hey, Mike. It's me. John is. J. As in Jason D, as in David seven two five three.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it ran. Thank you. account number, please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh the account number is Uh mobility account and is {voice.voiceCCTruncate:* * * * * * * * * * * *}.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: got a John and tell me who's on the line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Miss Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure. Yeah, I do want to get someone higher than hear from someone tomorrow to Of course you, you have the option, uh, just Can you tell me what's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: awesome and tell me what is there is in for this year to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh I have with the account is under Chris Williams, but I'm speaking to Miss Williams is flip verify.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh well. Is there a question I asked. On the chat, uh, what happened? Is that the customer had Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh I'm still here with you on the line. Okay, I'm just waiting for my manager is soon as I have it, I will connect you over.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A payment arrangement uh, it wasn't I sep sh- for an a T and t error, uh, the customer paid and actually the payment arrangement is showing us capped Uh They said the the payment arrangement was set before the bill was due, so we had a possibility to do like another payment arrangement for the new bill.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That is due today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay, thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Number so my manager can call you back?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know I'd like to be transferred over because I know you guys close him.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ah, but the other to the other right now, the account is for fifteen, and he's not giving us more options.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I just want this somewhat spoken with and resolved before it's Friday. And I can't go the weekend, without having you know to be able to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh well that that's very my service on because she's looking to get at least one week more so she to pay it because she pay it ready? She said she pay the rent and she pay this? Four two two five fifty four yesterday.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm trying to get my referral up looks like it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Use my utilize my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, um, well. She's was just looking for more time, but no no options, because it's for fifteen?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I connect you over, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, got it. But, uh, I when we do the override it we the override was already after the the new bill due, correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um, one that case, uh, John. Maybe we can go ahead and set up the payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: know that's the things, because, uh, payment arrangement West split it in two parts? Ah, and it was set up for address the eighth Ah, that the due date is It's today, and as of the ninth, so it was set up like one day before the the new bill is due, but I guess because it wasn't authorized section sales, it's no Letters here for the new bill, but is it was not like a number last payment arrangement?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: If it was an a T and t error I think maybe we can do something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: wanted to see.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yeah, that's what I asked. On the chat, but loose tell me to explain sustain So that's why because, yeah was thinking if it was an a T and t error. I mean, we can do it, but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: me that we need to explain and sustain I asked on the chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Gonna
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Okay, got it, I thought I I didn't I didn't see, because I just finished another tier two, but don't worry on that Go ahead and go ahead and explain this is days. No problem. Go ahead and John. Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: down right now. Give me one moment. Let me place in a brief hold to see if someone else can pull this rate for see if it's not. If we have it. One moment, please.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you, Maggie bye. Bye.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Bye. Bye have a good one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Good afternoon, thank you very much for your patience and waiting on the line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is Mike Rita and your manager in the finance department and I understand that you requested me with me, mister Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes. Sorry, um, hi, you said her name is margarita.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, margarita, let's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You hear me. Okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You could.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you. Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Slow there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Know No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Miss Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry. I'm just very, very, very frustrated because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I'm told. Something and I follow those instructions and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh I'm still here with you on the line. Okay, I'm just waiting for my manager.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't and then when I go to do the things that like to follow through with whatever I was told that I can do, and I can't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I you know it's It's super frustrating and it's putting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like stress.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On the situation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know if the previous advocate told you, or whatever but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, I had made a payment arrangement with Um, one of the advocate and was told that I had to pay my payment by tomorrow something by yesterday. Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And, which I did, and they told me to, then call the next day with that of the payment. That would be due that day, so that, uh, and push it out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A little further, so that I'm not like over, um barked with paying all this money, and not having anything, you know, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: whatnot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did that I paid my payment like I was supposed to with the uh, the arrangement you know stated as of yesterday like I was supposed to and I called and then I go online like the first told me I can just go into my app and then make the arrangements in you know push it out a couple of days or whatnot. So that I just not overwhelmed with.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Everything and then get behind again, and the whole cycle.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know, brew exactly head.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, and when I logged in. There wasn't that option. And I'm like okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, then I call I I message in like through the chat. And they tell me, oh, it doesn't give you the option. Because when you paid.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Your payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It didn't post till today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it made it look like you didn't pay it on time. You didn't honor the arrangements so then I called in and spoke with somebody. And they said?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, and know like they know. I paid it yesterday?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did pay it per how the person was told me I I could pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Good afternoon, thank you very much for your patience. I'm waiting on the line.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm trying to get my referral up looks like it's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I paid it before eleven fifty nine, p, m like I was told.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But the system didn't catch it until today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: This is Michael Rita and your manager in the finance department and I understand that you requested to be with me, mister Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes. Sorry, I'm Hi you said your name is margarita.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it literally. Like blocked me from being able to do what I was what I needed to do was make an arrangement virtually like online to push out the due date. The due amount for today, a little further.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And he goes, so you weren't told proper information. Basically, if anything, I should have been.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh told to pay it like a few days prior to what, when I was due or whatever.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then so and then That was the not the person that transferred you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: This and that transferred you when I was speaking to him, he said that he was trying to see what we had.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, margarita, just like the drink. Yes, I I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For options, but there's nothing he can do, and he sorry about the information that was told to me like you know? Oh well. Basically, and he wasn't rude, or anything. Don't get me wrong. I'm just frustrated and upset Phillip I found rude.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Could
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you. Sorry, I want to make sure you slow there.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The thing is, is like now. I'm in a situation where I get? It's my bill, and all that kind of stuff, but my expectation. And what I was told. Was that I could make an arrangement on this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Push it out, you know, at least a week or two, so that I am not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm sorry. I'm just very, very, very frustrated because
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When I'm told. Something and I follow those instructions and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't and then when I go to do the things that like to follow through with whatever I was told that I can do, and I can't.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I should you know it's It's super frustrating and it's putting
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Like stress.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: On the situation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I don't know if the previous advocate told you, or whatever but
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Basically negative in my bank account? Or struggling or anything. I have a a child with a disability that I need to have my phone on for because his therapist. Come over and they have to check in. And they have to check in. And and off my phone and I use my phone for my job, and I can't log into my job without a code being sent to my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that doesn't work if I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't have phone when I service. It doesn't work with my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hooked up to the internet, you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, I had made a payment arrangement with Um, {voice.cvv.digitsTranscribed:***} of the advocate and was told that I had to pay my payment by tomorrow something by yesterday. Sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It comes like as a text message.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just I ask to speak to somebody higher up because At this point, like I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And, which I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And they told me to, then call the next day with that of the payment. That would be due that day, so that, uh, and push it out.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: A little further, so that I'm not like over, um barked with paying all this money, and not having anything, you know, and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: whatnot.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I need this to be honored or something, somehow. Some remedy so that my phone line doesn't get disconnected and I can at least get my current bill pushed out at even to the sixteenth something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did that I paid my payment like I was supposed to with the uh, the arrangement you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can go to my job and pay my bills and do everything else, just like you. And you know, and your family members.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, no problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They told me was.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, Miss Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: stated as of yesterday like I was supposed to and I called and then I go online like the first told me I can just go into my app and then make the arrangements and you know push it out a couple of days or whatnot. So that I just not overwhelmed with.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Everything and then get behind again, and the whole cycle.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know ruiz actually head.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um, and when I logged in. There wasn't that option. And I'm like okay.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So, then I call I I message in like through the chat. And they tell me, oh, it doesn't give you the option. Because when you paid.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Your payment?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It didn't post till today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it made it look like you didn't pay it on time. You didn't honor the arrangements so then I called in and spoke with somebody. And they said?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, and know like they know. I paid it yesterday?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I did pay it per how the person was told me I I could pay it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And I paid it before eleven fifty nine, p, m like I was told.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But the system didn't catch it until today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So it literally. Like blocked me from being able to do what I was what I needed to do was make an arrangement virtually like online to push out the due date. The due amount for today, a little further.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And he goes, so you weren't told proper information. Basically, if anything, I should have been.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Uh told to pay it like a few days prior to what, when I was due or whatever.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And then so then. That was the not the person that transferred you.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Just in that transferred you when I was speaking to him, he said that he was trying to see what we had.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: For options, but there's nothing he can do, and he sorry about the information that was told to me like you know?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, I mean, and regards to payment arrangements as Williams, and I'm so sorry. Okay, but definitely This is something is not an hour control the payment arrangements just only a benefit that a T and t has available with customers are not able to make the payments every month on the due date? Or before your due date. I right, but I mean looks like that your account. It is, you know, like, uh, more than a month with auto payment looks like of the accounts are overlap. N. And that is an issue you know if if the in order for the account. To be continued and be a illogical to keep making payment arrangements Every month, Miss make sure the past due balance is paid before the new bill is due, uh, if you we keep going, uh, almost until the last date I I'm pretty sure the account will be restricted in, uh, if it I'm I'm looking at direct own Miss Williams, and believe me, they'll give me wrong. I mean, I'm not saying I'm not trying to set your is bad account, or this No, no? No, no, the only issue is with the payment arrangement the payment arrangement. It is like I mentioned It's benefit. But, uh, I recommended to make a payment. Maybe, once in awhile to make a payment on the due date for one or two months, so you can get more options. And the account. I'll be restricted and, uh, for example, a back in April. It was payment arrangements. But, and then after that it was no payment on made, and that was a payment. After June, and then it was a June payment. But, and then it was no payment on July, and so today, you know, so that is, you know, like, uh, a a month without any payment on the account and definitely that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Basically, and not be told? Well, they shouldn't have said that. Oh well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, no. No problem.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that all started.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sorry, I was just gonna say that all started like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh well. Basically, and he wasn't rude, or anything. Don't get me wrong. I'm just frustrated and upset Phillip I found rude.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The thing is, is like now. I'm in a situation where I get? It's my bill, and all that kind of stuff, but my expectation. And what I was told. Was that I could make an arrangement on this one.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I had caught cave ID I got really sick, I was hospitalized my grandmother and I'd I had to go out of town that's where all of our money went and then my grandpa passed away, you know. It's like it was like trickling down with cave ID This just killed us all financially and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Push it out, you know, at least a week or two, so that I am not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You know we're trying to all catch up? I don't know how I'm expected to pay I literally just paid a thousand dollars to catch up with you guys, and that's fine. That's my bill. I get it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But when I have the expectation because I'm told that? Yes, we can put We'll put your payment arrangement on the eighth, and even though your Bill's due on the ninth Just give us a call on the ninth and We'll put in, uh, if you if you on? And you, you can either log on and and, uh, push out the ninth pay the payment on the ninth the one that's due on that day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Basically negative in my bank account? Or struggling or anything. I have a a child with a disability that I need to have my phone on for because his therapist. Come over and they have to check in. And they have to check in. And and off my phone and I use my phone for my job, and I can't log into my job without a code being sent to my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And that doesn't work if I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Don't have phone line service. It doesn't work with my phone.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: hooked up to the internet, you know.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: mm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That's not.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It comes like as a text message.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And so.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just I ask to speak to somebody higher up because At this point, like I'm
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That You're all caught up on If you push you can push that out for a week or {voice.cvv.digitsTranscribed:***}, or you can give us a call and we can figure it out. So, and then I do so. And it's not. It's not an option and
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I need this to be honored or something, somehow. Some remedy so that my phone line doesn't get disconnected and I can at least get my current bill pushed out at even to the sixteenth something.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct but that's not a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Power read correct, but that option are not available, miss. At this moment account will be restricted. And it's not a logical for a payment arrangements.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Of anyone's hands when told this by you, guys.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can go to my job and pay my
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: They
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And, to be honest with you, this restrictions are {voice.cvv.digitsTranscribed:*** ***} months and know s- like I mentioned, uh, at this point. Would I recommended?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And do everything else, just like you. And you know, and your family members.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Uh, no? Yes, but that is a different for a payment arrangement the account is not a logical for a payment arrangement so this moment, either.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No, no, hold on. They told me that my restriction {voice.cvv.digitsTranscribed:*** ***} months had to do with a check that. Ah, was returned That's the only restriction that I've got on my that I just couldn't pay for by check {voice.cvv.digitsTranscribed:*** ***} months, that's it.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And I'm sorry.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I'm not, but I'm told. something different, so that should.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: What they told me was.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Miss Williams
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: what I'm told. via messaging I have it in message I have it in, um, you know, via calls are recorded spoke.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can call, um know that definitely don't give me a right, Miss Williams, you are calling back. You were checking back, but I'm in that there's no options available to set up a payment arrangements and we don't have a way to to on, it'll
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A payment arrangements.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Well
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm sorry, but I?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Um
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: messed
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Something to be able to be honored of what he what they said I could be done somehow whether a credit put on my account temporarily or something?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, I'm not able to.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Definitely I'm not able to put any credit on the account. Miss Williams I'm not able to set up any payment arrangements the account is not eligible and I don't have a way to to put a temporary credit and the account.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Get my services just kind of
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It said We've
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: My know I see that a mess, but the payment arrangements is Nat measure Uh how long the customers are Oh, how long day would You've been with the company is a
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ten plus years.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It should be.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It should be that it's If you guys are telling your customer This is eight. These are your options. This is what you can do, there's not gonna be an issue, blah, blah, blah, blah, and then they follow two the T What's the advocate is telling them. And then it is an issue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: A benefit for every account, and as measure of the same situation.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: There is a there is you know they can't do something that They said they could do.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: How is that fair There has to be a remedy.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: That that not mess. That is no more options available for any other payment arrangements I mean that was not live. They said that you can call back and see. But that is no more days available that and I'm options available, my name's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Well, I mean a in regards to payment arrangements as Williams, and I'm so sorry. Okay, but definitely This is something is not an hour control the payment arrangements just only a benefit that a T and t has available with customers are not able to make the payments every month on the due date? Or before your due date. I right, but I mean looks like at your account. It is, you know, like, uh, more than a month with auto payment looks like of the accounts are overlap in, and that is an issue you know if the in order for the account. To be continued and be a logical to keep making payment arrangements Every month, Miss make sure the past due balance is paid before the new bill is due, uh, if you we keep going, uh, almost until the last date I I'm pretty sure the account will be restricted in, uh, if it I'm I'm looking at your account. Miss Williams I believe me, don't give me wrong. I mean, I'm not saying I'm not trying to set your is bad account, or this No, no? No, no, the only issue is with the payment arrangement the payment arrangement. It is like I mentioned It's benefit. But, uh, I recommended to make a payment. Maybe, once in awhile to make a payment on the due date for one or two months, so you can get more options. And the account. I'll be restricted and, uh, for example, a back in April. It was a payment arrangements. But, and then after that it was no payment on made, and that was a payment. After June, and then it was a June payment. But, and then it was not payment on July, and so today, you know, so that is, you know, like, uh, uh, uh, a month without any payment on the account and definitely that it will hit your account the account it once the account is respective
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Basically, and not be told? Well, they shouldn't have said that, and Oh well.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I can log in. And the payment of options payment arrangement options or I can log into the payment arrangement options or I could call in and talk to you guys and I, and I went on, you know, I logged in or whatever it wasn't their number that's weird This is what I was told.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Five
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Let me call in. Let me just make sure.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Guys fees be my payment Maybe that's
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yeah, miss, that is.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: And That'll started.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Sorry, I was just gonna say that all started like.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh,
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: down right now. Give me one moment. Let me place you on a brief hold to see if someone else can pull this rate for see if it's up in case we have it. One moment, please.
+Summary A: 
+Response: 
+Answer: 
+

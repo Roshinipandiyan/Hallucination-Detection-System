@@ -1,0 +1,114 @@
+Speaker: SENDER_AGENT
+Text: Hi, this is Manuela from the PSG sales department; may I know your name? and can you please provide me a phone number so I can address your request over the phone? If that is not possible, I can also assist you over this chat.
+Summary A: Customer inquiring about promotions for current customers and pricing discrepancy for upgrading to a Motorola Razr. Agent checked and confirmed that the Motorola Razr is available for $2.99/month without trade-in. Explained that credits take 1-3 billing cycles to be applied and assured the customer of the promotion price. Customer was satisfied with the clarification provided by the agent and requested a moment to proceed with the upgrade without losing the chat session.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Do you have any promotions for current customers
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Of course!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: let me check this for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In this moment we have promotion in new phones
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: do you prefer apple or android?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m looking to upgrade to a Motorola razor no trade in it goes from <systemically redacted> a month but when I go to check out it’s <systemically redacted> a month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: not a problem, let me check this for you right now!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You are more than welcome!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes, the motorola razr is still available for $2.99/mo, do you want that I do the upgrade for you so you can get the promotion?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Ok but will it be <systemically redacted> a month or will it be the <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be for $2.99/mo
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: the credits takes 1-3 billing cycles to be applied in your bill so, you will see the charge for $18.34 and then you will be the credits reflected in your bill and it will be retroactive
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok thank you can tou give me just a minute I don’t want to lose the chat
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No problem, that's fine
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You still there?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+

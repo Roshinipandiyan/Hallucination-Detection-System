@@ -1,0 +1,120 @@
+Speaker: SENDER_AGENT
+Text: Hello, this is Oscar! You are in contact with the PSG Wireless Sales Department. May I have your name? please confirm me if you are an existing or new customer 😸
+Summary A: Customer, an existing customer, was having trouble adding an iPad to the cart while purchasing an iPhone. The agent helped the customer add the iPhone to the cart, waived the priority shipping, and reminded the customer to add a tablet line for the new iPad. The customer provided their phone number, email address, and confirmed their full address for further assistance. The agent mentioned that they would call the customer shortly to address the request.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Existing customer Sandra
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m trying to buy an iPad an iPhone but only the iPhone always me to be added to the cart
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to talk with you Sandra. Thanks for being a valued customer. We appreciate your business.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: *only adds to the cart
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Oh, got it, no worries I can place the order for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and also, I can waive the priority shipping for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: You're welcome, remember that you have to add a tablet line for you new tablet
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: can you please provide me a phone number so I can address your request over the phone? If that is not possible, I can also assist you over this chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, before to continue with the call, please share with me your email address
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: and confirm your full address
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> n peach st Immokalee fl <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: {customer_delayed.email:XXXX@XXXX.XXX}
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: thank you so much, I'll call you in a moment
+Summary A: 
+Response: 
+Answer: 
+

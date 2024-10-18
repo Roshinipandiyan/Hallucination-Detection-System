@@ -1,0 +1,354 @@
+Speaker: SENDER_CUSTOMER
+Text: Hi
+Summary A: The customer had already made a payment arrangement but was unable to set up another one for the upcoming bill. The agent checked the customer's account and informed them that the option to set up a payment extension was not available due to their payment history. The agent offered to transfer the customer to Collections for further assistance. The customer agreed to be transferred to Collections for further help with the issue.
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hi, thanks for chatting with the PSG virtual assistant. What brings you here today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can I get help with my bill?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Choose a topic to chat about:
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: None of these
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I see you already have a payment arrangement. Do you want to change it?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Make a payment arrangement
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can help you with that! Which one of these would like to talk about?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, I am here to assist you. What do you need help with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is there anything else I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: None of these
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I do not see any new charges on your bill. Can you give me more details about the changes you see?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: PSG Wireless
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure, I am here to assist you. What do you need help with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Is there anything else I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: So I can get you the right info, what service are you asking about?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Let me try connecting you with someone who can get you the help you need.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: outstanding balance
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you! How can I help you today?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Hello Michael, how can I help?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So I had a payment arrangement and made that payment today. However apparently my next bill has already come due as well. I was trying to make a payment arrangement for that as well but it won't let me. It says I still have a payment arrangement scheduled for today
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can help you with that! Let me quickly check your eligibility for payment arrangement.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: While doing so, just a quick reminder... Here are some tips to avoid from being disconnected: Please don't use the back button or close this chat window and reply within 2 minutes so the system understands we're still chatting, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I just need to be sure my account wont be suspended because I made the payment that it says I have scheduled for today already
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for waiting. Upon checking your account, I see that the option to set up a payment extension is not available because of your payment history.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Right now, this account’s payment options are limited. More options may open up in the future by building a history of consistent, on-time payments and bringing the account current.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: But why does it still say that I have a scheduled payment when I have already made that payment? It has left my account and I have a confirmation number
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I apologize, but we cannot override the system. I can go ahead and transfer you to Collections via chat to further help you. There might be a possible wait time of 3-5 minutes. Please wait for the next available agent for them to assist you ASAP, okay?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you. If in case it takes longer than * minutes, you may also contact them at {voice.voiceCCTruncate:*-***-***-****} and their hours of operation is from M-F *AM to **PM ET closed during weekends.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please stay connected.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for choosing PSG, we appreciate your business. Let me transfer you now.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thank you for choosing PSG. My name is Sheila. May I address you by your first name?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: sure
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Good afternoon, Michael! Now that we accessed the account. I see there is a balance of ${voice.cvv.digitsTranscribed:***.**} will the payment be with a credit/debit card or checking account?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: That is not actually why I am here. I had a payment arrangement scheduled for today and made that payment. It took the amount off of my balance, however it still says I have a payment arrangment scheduled
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: The total amount combined was over <systemically redacted> and I did not have that much today, so I was going to make an arrangement for the amount remaining but the system would not allow me to do so
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I do understand, if the arrangement is already covered it takes 24hrs for it to be removed from the account, let me see if it lets us set up the new one
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: oh ok gotcha I was not aware of that
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: yes please, and thank you for checking
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For the $316.96 what date do you have in mind ?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No, it's a pleasure!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I mainly wanted to be sure that my account would not be suspended since I still have that balance
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: If it will drop off after 24 hours I can just take care of it tomorrow as long as I wont lose my service
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: No don't worry, well at the moment it letting me set up the new one do you want to do it tonight?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Will it let you go as far as Sept 20?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Yes its actually letting us set it up that far out, would you like for it to be made automatically?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No I will log back in that day and pay it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect! $***.** for **/** correct?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes that sounds good
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect! Arrangement has been set up for **/**!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Awesome. Thank you so much for your help
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Its a pleasure! Thank you for choosing PSG. Again, my name is Sheila and I hope you have a blessed day.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: You too
+Summary A: 
+Response: 
+Answer: 
+

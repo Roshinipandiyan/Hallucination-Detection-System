@@ -1,0 +1,330 @@
+Speaker: SENDER_AGENT
+Text: Hi! My name is Liz. How can I help?
+Summary A: Customer contacted to inquire about setting up internet services at their new apartment and explore available discounts for senior citizens. Agent suggested contacting the sales department to explore options to waive the advanced payment and apply senior discounts on the order. Customer agreed to contact PSG to further discuss options and no additional assistance was needed from the agent. Broadband facts were discussed in the conversation.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m fixing to move to my new apartment. I’m deaf and I use internet for social media, Netflix, email friends and family, YouTube etc.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, I'll be more than happy to help you with our services, may I know your name first please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Robert Earl Bush
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nice to chat with you Robert, can I get the full address and zip code where you're planning to stablish the service please?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> San Andres Dr Odessa Texas <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks! Just to confirm, do you have any current service with PSG?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: no
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: By any chance there's a unit number on your address?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Apt 16
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I do have a AARP card
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m {voice.creditcard.digitsTranscribed:**} years old - and I have Medicaid
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks for the info, upon checking in my system it shows me that your address is available for internet up to 10mbps
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Can you give me the best one for $75 a month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure! at the moment the internet 10mbps is available for just $60.00/mo + taxes
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok… I want to be internet ready on move in - July <systemically redacted>
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure! I can totally help you placing the order from my end
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: i will need to pay on July 2 my move in date and my payday - I’m on SSA and get paid the first of the month every month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it no worries at all your first bill will be 30 days after the service is active, from my end I can help you placing the order for July the 2nd
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’ve been told that senior citizens get a break on installing and start up
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Nothing to worry at all, you won't get any installation fee, however, since the system is showing me that your address has self installation the option to change it to professional from my end is yet to be available, nevertheless once you place the order you can contact our tech department to explore the option to get professional installation
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Can I have please your phone contact or email address in order to send you a form where you can fill your information out
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: <systemically redacted> and bushrobert<systemically redacted>gmail.com
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Thanks!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I just sent it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay you will set it up on your end and I’ll follow the link?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The link is for you to fill up your information in order to proceed with the order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: do I leave this chat open?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: that's right
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll need you to refesh the chat every one to two minutes so we avoid losing connection
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: In case we lose connection, do I have your permission to submit the order? all the details will be sent to your email address
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: ok I’ll start
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'll be here waiting for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm just refreshing the chat, so we avoid losing connection
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: How's everything going?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are still here
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay - submitted
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect! I'll proceed with the order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: The FCC requires PSG to offer you Broadband Facts about PSG's plans to help you decide on a plan. Let me know if you would like me to email that to you for any of the plans we discuss today.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Yes, I’m pretty familiar, and I don’t mind if you want to send it
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I was carefully checking an the system is showing me that an advanced payment is required of $100.00 in order to proceed with the order
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’ll follow up with PSG. Again I get paid on the first of the month
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I completely understand, by any chance do you have any relative that can lend you the money by the moment? keep in mind that the amount that you pay today will cover your first bill in full and part of your second bill
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I think that <systemically redacted> is what I’m thinking the senior discount should be
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I’m by myself financially I’m not asking my family or friends for anything
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Got it, I completely understand that you would like the senior discount and waive the advanced payment, please keep in mind that this advanced payment is based on your credit results, in this case no worries at all, i recommend you to contact us at 800 288 2020 option 2 and speak to our sales department to explore further options
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you're still here
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Okay I will
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect! Is there anything else I can help you with?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: No
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I'm glad I could be of help and I hope I provided you an excellent service with my assistance today. Have an excellent rest of the day and thanks for contacting PSG! ♥
+Summary A: 
+Response: 
+Answer: 
+

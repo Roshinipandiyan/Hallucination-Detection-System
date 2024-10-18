@@ -1,0 +1,186 @@
+Speaker: SENDER_AGENT
+Text: Thank you so much for contacting PSG! My name is Sebastian, you are in contact with the Online Sales Call Back Department. To better assist you, can you please provide me your name
+Summary A: Customer wants to add a second line to their plan and needs to know the monthly total for both lines. The agent provided the customer with the monthly total for adding a second line on the Starter Plan, which would be $60.99 per month. The customer was satisfied with the information provided and also learned about the free Super Express Priority shipping option for the new device, which would be delivered between Saturday-Monday. The customer was given time to make a decision and the agent was available to assist further.
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Hi i'm trying to add a second line to my plan but I need to see what the monthly total would be for both
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: I can totally help you with that.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: thank you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For this new line that you want to add
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: It will be a new device?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Correct
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: It would be a new device. Likely a pixel 9 or samsung s<systemically redacted> per month option)
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: this would also be for the starter unlimted service
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Perfect!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: So what would that make the full montly bill?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For adding a second line on the Starter Plan, the new line will be 60.99 And your current line will be $60.99
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: this is for the multiple line discount
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Oh okay awesome, so roughly <systemically redacted> per month?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Correct!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: Thank you so much. My other question is, so I would need the phone asap is it possible that I'd be able to pick this up in store or would I have to wait for it to be delivered?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: For this deal that I can provide you for the S24 for $10.99 I can place the order for you, but only I can deliver it to your home, but today I will also give you the Super Express Priority shipping options completely Free.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: When would that be delivered?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: between 1-2 business days.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: so tomorrow-Saturday or Saturday-Monday?
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Saturday-Monday
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Since this day is almost over.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Maybe today in morning, You could have had the device earlier
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_CUSTOMER
+Text: I understand. Give me a few moments & I will have a decision
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Sure!
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Take your time Ill be here for you
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: And I can place the order for you in no time.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Im still here for you, just refreshing the chat.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Just checking to see if you are there so we can continue.
+Summary A: 
+Response: 
+Answer: 
+
+Speaker: SENDER_AGENT
+Text: Please let me know if you're receiving my responses otherwise our session will end.
+Summary A: 
+Response: 
+Answer: 
+
