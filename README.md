@@ -71,7 +71,6 @@ Ready to dive in? Follow these steps:
 3. Run the application:
 
    ```bash
-      Copy code
       streamlit run app.py
 
 ## 🚀 Usage
